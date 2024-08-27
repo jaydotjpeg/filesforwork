@@ -1,0 +1,1091 @@
+ {
+  "data": {
+    "status": 200,
+    "error": null,
+    "errorMessage": null,
+    "backend": "NCEB",
+    "data": {
+      "providers": [
+        {
+          "firstName": null,
+          "lastName": "APPALACHIAN DISTRICT HEALTH DEPT",
+          "middleName": null,
+          "fullName": "APPALACHIAN DISTRICT HEALTH DEPT",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "680",
+              "specialityDesc": "Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1110",
+              "specialityDesc": "Adult Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "980",
+              "specialityDesc": "Public Health; State or Local"
+            },
+            {
+              "specialityCd": "970",
+              "specialityDesc": "Psychologist"
+            },
+            {
+              "specialityCd": "455",
+              "specialityDesc": "Health Service - Clinic"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "940",
+              "specialityDesc": "Professional"
+            },
+            {
+              "specialityCd": "1515",
+              "specialityDesc": "Registered Dietician"
+            },
+            {
+              "specialityCd": "935",
+              "specialityDesc": "Primary Care"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "939262521",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS,CAITLIN",
+                "ALLEN,DANIEL",
+                "AMBLER,RICHARD",
+                "ANGE,JESSICA",
+                "BOGARDUS,MELINDA",
+                "BRIDGEMAN,RACHEL",
+                "CLARK,REBECCA",
+                "DENNY,EMILY",
+                "GRANT,HANNAH",
+                "HILTON,DREW",
+                "JENKINS,GINA",
+                "JONES,TIMOTHY",
+                "KOMDEUR,SHERI",
+                "SCHORR,MARISA",
+                "SULLIVAN,CAITLIN",
+                "SVITZER,TODD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41891152",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS,CAITLIN",
+                "ALLEN,DANIEL",
+                "AMBLER,RICHARD",
+                "ANGE,JESSICA",
+                "BOGARDUS,MELINDA",
+                "BRIDGEMAN,RACHEL",
+                "CLARK,REBECCA",
+                "DENNY,EMILY",
+                "GRANT,HANNAH",
+                "HILTON,DREW",
+                "JENKINS,GINA",
+                "JONES,TIMOTHY",
+                "KOMDEUR,SHERI",
+                "SCHORR,MARISA",
+                "SULLIVAN,CAITLIN",
+                "SVITZER,TODD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "55494746",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS,CAITLIN",
+                "ALLEN,DANIEL",
+                "AMBLER,RICHARD",
+                "ANGE,JESSICA",
+                "BOGARDUS,MELINDA",
+                "BRIDGEMAN,RACHEL",
+                "CLARK,REBECCA",
+                "DENNY,EMILY",
+                "GRANT,HANNAH",
+                "HILTON,DREW",
+                "JENKINS,GINA",
+                "JONES,TIMOTHY",
+                "KOMDEUR,SHERI",
+                "SCHORR,MARISA",
+                "SULLIVAN,CAITLIN",
+                "SVITZER,TODD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41891153",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS,CAITLIN",
+                "ALLEN,DANIEL",
+                "AMBLER,RICHARD",
+                "ANGE,JESSICA",
+                "BOGARDUS,MELINDA",
+                "BRIDGEMAN,RACHEL",
+                "CLARK,REBECCA",
+                "DENNY,EMILY",
+                "GRANT,HANNAH",
+                "HILTON,DREW",
+                "JENKINS,GINA",
+                "JONES,TIMOTHY",
+                "KOMDEUR,SHERI",
+                "SCHORR,MARISA",
+                "SULLIVAN,CAITLIN",
+                "SVITZER,TODD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41891151",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS,CAITLIN",
+                "ALLEN,DANIEL",
+                "AMBLER,RICHARD",
+                "ANGE,JESSICA",
+                "BOGARDUS,MELINDA",
+                "BRIDGEMAN,RACHEL",
+                "CLARK,REBECCA",
+                "DENNY,EMILY",
+                "GRANT,HANNAH",
+                "HILTON,DREW",
+                "JENKINS,GINA",
+                "JONES,TIMOTHY",
+                "KOMDEUR,SHERI",
+                "SCHORR,MARISA",
+                "SULLIVAN,CAITLIN",
+                "SVITZER,TODD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "972568117",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS,CAITLIN",
+                "ALLEN,DANIEL",
+                "AMBLER,RICHARD",
+                "ANGE,JESSICA",
+                "BOGARDUS,MELINDA",
+                "BRIDGEMAN,RACHEL",
+                "CLARK,REBECCA",
+                "DENNY,EMILY",
+                "GRANT,HANNAH",
+                "HILTON,DREW",
+                "JENKINS,GINA",
+                "JONES,TIMOTHY",
+                "KOMDEUR,SHERI",
+                "SCHORR,MARISA",
+                "SULLIVAN,CAITLIN",
+                "SVITZER,TODD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "972568118",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS,CAITLIN",
+                "ALLEN,DANIEL",
+                "AMBLER,RICHARD",
+                "ANGE,JESSICA",
+                "BOGARDUS,MELINDA",
+                "BRIDGEMAN,RACHEL",
+                "CLARK,REBECCA",
+                "DENNY,EMILY",
+                "GRANT,HANNAH",
+                "HILTON,DREW",
+                "JENKINS,GINA",
+                "JONES,TIMOTHY",
+                "KOMDEUR,SHERI",
+                "SCHORR,MARISA",
+                "SULLIVAN,CAITLIN",
+                "SVITZER,TODD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41891154",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS,CAITLIN",
+                "ALLEN,DANIEL",
+                "AMBLER,RICHARD",
+                "ANGE,JESSICA",
+                "BOGARDUS,MELINDA",
+                "BRIDGEMAN,RACHEL",
+                "CLARK,REBECCA",
+                "DENNY,EMILY",
+                "GRANT,HANNAH",
+                "HILTON,DREW",
+                "JENKINS,GINA",
+                "JONES,TIMOTHY",
+                "KOMDEUR,SHERI",
+                "SCHORR,MARISA",
+                "SULLIVAN,CAITLIN",
+                "SVITZER,TODD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "993585393",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS,CAITLIN",
+                "ALLEN,DANIEL",
+                "AMBLER,RICHARD",
+                "ANGE,JESSICA",
+                "BOGARDUS,MELINDA",
+                "BRIDGEMAN,RACHEL",
+                "CLARK,REBECCA",
+                "DENNY,EMILY",
+                "GRANT,HANNAH",
+                "HILTON,DREW",
+                "JENKINS,GINA",
+                "JONES,TIMOTHY",
+                "KOMDEUR,SHERI",
+                "SCHORR,MARISA",
+                "SULLIVAN,CAITLIN",
+                "SVITZER,TODD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41891155",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS,CAITLIN",
+                "ALLEN,DANIEL",
+                "AMBLER,RICHARD",
+                "ANGE,JESSICA",
+                "BOGARDUS,MELINDA",
+                "BRIDGEMAN,RACHEL",
+                "CLARK,REBECCA",
+                "DENNY,EMILY",
+                "GRANT,HANNAH",
+                "HILTON,DREW",
+                "JENKINS,GINA",
+                "JONES,TIMOTHY",
+                "KOMDEUR,SHERI",
+                "SCHORR,MARISA",
+                "SULLIVAN,CAITLIN",
+                "SVITZER,TODD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1538270814",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1230",
+            "MONDAY PM 1300-1630",
+            "TUESDAY AM 0800-1230",
+            "TUESDAY PM 1300-1630",
+            "WEDNESDAY AM 0800-1230",
+            "WEDNESDAY PM 1300-1630",
+            "THURSDAY AM 0800-1230",
+            "THURSDAY PM 1300-1630",
+            "FRIDAY AM 0800-1230",
+            "FRIDAY PM 1300-1630"
+          ],
+          "afterHoursPhone": "3363725641",
+          "dbaName": "APPHEALTHCARE",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "157 HEALTH SERVICES RD",
+            "addressLine2": null,
+            "city": "SPARTA",
+            "state": "NC",
+            "zipCode": "28675",
+            "countyCode": "003",
+            "countyName": "Alleghany",
+            "latitude": 36.49237,
+            "longitude": -81.14591,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "3363725641",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10351320"
+        }
+      ],
+      "pageable": null,
+      "last": null,
+      "totalPages": null,
+      "totalElements": null,
+      "sort": null,
+      "first": null,
+      "numberOfElements": 1,
+      "size": 1,
+      "number": 0,
+      "totalRecords": 1,
+      "empty": false
+    }
+  },
+  "statusCode": 200
+}

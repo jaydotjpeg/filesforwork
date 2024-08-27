@@ -1,0 +1,665 @@
+ {
+  "data": {
+    "status": 200,
+    "error": null,
+    "errorMessage": null,
+    "backend": "NCEB",
+    "data": {
+      "providers": [
+        {
+          "firstName": null,
+          "lastName": "SANDHILLS PEDIATRICS INC",
+          "middleName": null,
+          "fullName": "SANDHILLS PEDIATRICS INC",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [
+            "SANDHILLS PEDIATRICS INC"
+          ],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1025",
+              "specialityDesc": "Single Specialty"
+            },
+            {
+              "specialityCd": "160",
+              "specialityDesc": "Child & Adolescent Psychiatry"
+            },
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1185",
+              "specialityDesc": "Pediatrics Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1250",
+              "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "970",
+              "specialityDesc": "Psychologist"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "600",
+              "specialityDesc": "Mental Health"
+            },
+            {
+              "specialityCd": "865",
+              "specialityDesc": "Pediatrics"
+            },
+            {
+              "specialityCd": "965",
+              "specialityDesc": "Psychiatry"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "2858064350",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ALLEN,KAMERON",
+                "BOALS,JOSEPH",
+                "BREWINGTON,SARAH",
+                "BROADWELL,MADISON",
+                "BRONSON,MELISSA",
+                "CARR,SARAH",
+                "CHESLEY,LAURA",
+                "COLAS,LAURA",
+                "DIASIO,CHRISTOPH",
+                "ETEO,NICOLE",
+                "EVANS,LINDA",
+                "FREAD,MEGAN",
+                "FRENCH,NATALEE",
+                "GARCIA LEACH,GWENDOLYN",
+                "HAYWOOD,JESSICA",
+                "HODGIN,ELIZABETH",
+                "IVEY,AMY",
+                "JACOBS,NICOLE",
+                "JOHANNES-MONROE,LINDSAY",
+                "JONES,GWENDOLYN",
+                "LEITHEISER,MICHELLE",
+                "MABRY,FREDERICK",
+                "MABRY,JENNIFER",
+                "MASON,NORA",
+                "METRO,ALLYSON",
+                "NIEMEYER,KIMBERLY",
+                "PURCELL,PORTIA",
+                "SEXTON,SCOTT",
+                "SIMPKIN,REBECCA",
+                "SMITH,EMILY",
+                "STEWART,WILLIAM",
+                "THOMPSON,MATTHEW",
+                "WILLMS,RACHEL"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1025",
+                  "specialityDesc": "Single Specialty"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "55476765",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ALLEN,KAMERON",
+                "BOALS,JOSEPH",
+                "BREWINGTON,SARAH",
+                "BROADWELL,MADISON",
+                "BRONSON,MELISSA",
+                "CARR,SARAH",
+                "CHESLEY,LAURA",
+                "COLAS,LAURA",
+                "DIASIO,CHRISTOPH",
+                "ETEO,NICOLE",
+                "EVANS,LINDA",
+                "FREAD,MEGAN",
+                "FRENCH,NATALEE",
+                "GARCIA LEACH,GWENDOLYN",
+                "HAYWOOD,JESSICA",
+                "HODGIN,ELIZABETH",
+                "IVEY,AMY",
+                "JACOBS,NICOLE",
+                "JOHANNES-MONROE,LINDSAY",
+                "JONES,GWENDOLYN",
+                "LEITHEISER,MICHELLE",
+                "MABRY,FREDERICK",
+                "MABRY,JENNIFER",
+                "MASON,NORA",
+                "METRO,ALLYSON",
+                "NIEMEYER,KIMBERLY",
+                "PURCELL,PORTIA",
+                "SEXTON,SCOTT",
+                "SIMPKIN,REBECCA",
+                "SMITH,EMILY",
+                "STEWART,WILLIAM",
+                "THOMPSON,MATTHEW",
+                "WILLMS,RACHEL"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1025",
+                  "specialityDesc": "Single Specialty"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41873904",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ALLEN,KAMERON",
+                "BOALS,JOSEPH",
+                "BREWINGTON,SARAH",
+                "BROADWELL,MADISON",
+                "BRONSON,MELISSA",
+                "CARR,SARAH",
+                "CHESLEY,LAURA",
+                "COLAS,LAURA",
+                "DIASIO,CHRISTOPH",
+                "ETEO,NICOLE",
+                "EVANS,LINDA",
+                "FREAD,MEGAN",
+                "FRENCH,NATALEE",
+                "GARCIA LEACH,GWENDOLYN",
+                "HAYWOOD,JESSICA",
+                "HODGIN,ELIZABETH",
+                "IVEY,AMY",
+                "JACOBS,NICOLE",
+                "JOHANNES-MONROE,LINDSAY",
+                "JONES,GWENDOLYN",
+                "LEITHEISER,MICHELLE",
+                "MABRY,FREDERICK",
+                "MABRY,JENNIFER",
+                "MASON,NORA",
+                "METRO,ALLYSON",
+                "NIEMEYER,KIMBERLY",
+                "PURCELL,PORTIA",
+                "SEXTON,SCOTT",
+                "SIMPKIN,REBECCA",
+                "SMITH,EMILY",
+                "STEWART,WILLIAM",
+                "THOMPSON,MATTHEW",
+                "WILLMS,RACHEL"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1025",
+                  "specialityDesc": "Single Specialty"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "2727918457",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ALLEN,KAMERON",
+                "BOALS,JOSEPH",
+                "BREWINGTON,SARAH",
+                "BROADWELL,MADISON",
+                "BRONSON,MELISSA",
+                "CARR,SARAH",
+                "CHESLEY,LAURA",
+                "COLAS,LAURA",
+                "DIASIO,CHRISTOPH",
+                "ETEO,NICOLE",
+                "EVANS,LINDA",
+                "FREAD,MEGAN",
+                "FRENCH,NATALEE",
+                "GARCIA LEACH,GWENDOLYN",
+                "HAYWOOD,JESSICA",
+                "HODGIN,ELIZABETH",
+                "IVEY,AMY",
+                "JACOBS,NICOLE",
+                "JOHANNES-MONROE,LINDSAY",
+                "JONES,GWENDOLYN",
+                "LEITHEISER,MICHELLE",
+                "MABRY,FREDERICK",
+                "MABRY,JENNIFER",
+                "MASON,NORA",
+                "METRO,ALLYSON",
+                "NIEMEYER,KIMBERLY",
+                "PURCELL,PORTIA",
+                "SEXTON,SCOTT",
+                "SIMPKIN,REBECCA",
+                "SMITH,EMILY",
+                "STEWART,WILLIAM",
+                "THOMPSON,MATTHEW",
+                "WILLMS,RACHEL"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1025",
+                  "specialityDesc": "Single Specialty"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41873907",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ALLEN,KAMERON",
+                "BOALS,JOSEPH",
+                "BREWINGTON,SARAH",
+                "BROADWELL,MADISON",
+                "BRONSON,MELISSA",
+                "CARR,SARAH",
+                "CHESLEY,LAURA",
+                "COLAS,LAURA",
+                "DIASIO,CHRISTOPH",
+                "ETEO,NICOLE",
+                "EVANS,LINDA",
+                "FREAD,MEGAN",
+                "FRENCH,NATALEE",
+                "GARCIA LEACH,GWENDOLYN",
+                "HAYWOOD,JESSICA",
+                "HODGIN,ELIZABETH",
+                "IVEY,AMY",
+                "JACOBS,NICOLE",
+                "JOHANNES-MONROE,LINDSAY",
+                "JONES,GWENDOLYN",
+                "LEITHEISER,MICHELLE",
+                "MABRY,FREDERICK",
+                "MABRY,JENNIFER",
+                "MASON,NORA",
+                "METRO,ALLYSON",
+                "NIEMEYER,KIMBERLY",
+                "PURCELL,PORTIA",
+                "SEXTON,SCOTT",
+                "SIMPKIN,REBECCA",
+                "SMITH,EMILY",
+                "STEWART,WILLIAM",
+                "THOMPSON,MATTHEW",
+                "WILLMS,RACHEL"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1025",
+                  "specialityDesc": "Single Specialty"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"N\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"Y\"}",
+          "npi": "1114998150",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0830-1200",
+            "MONDAY PM 1300-1700",
+            "TUESDAY AM 0830-1200",
+            "TUESDAY PM 1300-1700",
+            "WEDNESDAY AM 0830-1200",
+            "WEDNESDAY PM 1300-1700",
+            "THURSDAY AM 0830-1200",
+            "THURSDAY PM 1300-1700",
+            "FRIDAY AM 0830-1200",
+            "FRIDAY PM 1300-1700"
+          ],
+          "afterHoursPhone": "9106922444",
+          "dbaName": null,
+          "maleAgeRange": "04",
+          "femaleAgeRange": "04",
+          "address": {
+            "addressLine1": "116 CAMPUS AVE",
+            "addressLine2": null,
+            "city": "RAEFORD",
+            "state": "NC",
+            "zipCode": "28376",
+            "countyCode": "047",
+            "countyName": "Hoke",
+            "latitude": 34.981995,
+            "longitude": -79.22551,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "9105651578",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10583815"
+        }
+      ],
+      "pageable": null,
+      "last": null,
+      "totalPages": null,
+      "totalElements": null,
+      "sort": null,
+      "first": null,
+      "numberOfElements": 1,
+      "size": 1,
+      "number": 0,
+      "totalRecords": 1,
+      "empty": false
+    }
+  },
+  "statusCode": 200
+}

@@ -1,0 +1,2419 @@
+ {
+  "data": {
+    "status": 200,
+    "error": null,
+    "errorMessage": null,
+    "backend": "NCEB",
+    "data": {
+      "providers": [
+        {
+          "firstName": null,
+          "lastName": "COMPASSION HEALTH CARE INC",
+          "middleName": null,
+          "fullName": "COMPASSION HEALTH CARE INC",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "1250",
+              "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "400",
+              "specialityDesc": "Federally Qualified Health Center (FQHC)"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "600",
+              "specialityDesc": "Mental Health"
+            },
+            {
+              "specialityCd": "965",
+              "specialityDesc": "Psychiatry"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "941261128",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWNING,DOUGLAS",
+                "BUCIO,ELSA",
+                "COLLINS,GINA",
+                "HARRIS,CLARE",
+                "HOPSON,HERMEISHA",
+                "JENKINS,AIMEE",
+                "JONES,KRISTI",
+                "JONES,TESHIA",
+                "JOYNER-POWELL,NICOLE",
+                "MATHIS,DANIELLE",
+                "MAY,TANYA",
+                "MCCULLOUGH,ZAQUES",
+                "MULLIS,KIERSTEN",
+                "NELSON,CHRISTAL",
+                "REGISTER,SHELBY",
+                "REGISTER-LAKE,SHELBY",
+                "SEGAR,DANIELLE",
+                "STRIBLIN,TENEKA",
+                "VARNER,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "63336216",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWNING,DOUGLAS",
+                "BUCIO,ELSA",
+                "COLLINS,GINA",
+                "HARRIS,CLARE",
+                "HOPSON,HERMEISHA",
+                "JENKINS,AIMEE",
+                "JONES,KRISTI",
+                "JONES,TESHIA",
+                "JOYNER-POWELL,NICOLE",
+                "MATHIS,DANIELLE",
+                "MAY,TANYA",
+                "MCCULLOUGH,ZAQUES",
+                "MULLIS,KIERSTEN",
+                "NELSON,CHRISTAL",
+                "REGISTER,SHELBY",
+                "REGISTER-LAKE,SHELBY",
+                "SEGAR,DANIELLE",
+                "STRIBLIN,TENEKA",
+                "VARNER,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "55906108",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWNING,DOUGLAS",
+                "BUCIO,ELSA",
+                "COLLINS,GINA",
+                "HARRIS,CLARE",
+                "HOPSON,HERMEISHA",
+                "JENKINS,AIMEE",
+                "JONES,KRISTI",
+                "JONES,TESHIA",
+                "JOYNER-POWELL,NICOLE",
+                "MATHIS,DANIELLE",
+                "MAY,TANYA",
+                "MCCULLOUGH,ZAQUES",
+                "MULLIS,KIERSTEN",
+                "NELSON,CHRISTAL",
+                "REGISTER,SHELBY",
+                "REGISTER-LAKE,SHELBY",
+                "SEGAR,DANIELLE",
+                "STRIBLIN,TENEKA",
+                "VARNER,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42259189",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWNING,DOUGLAS",
+                "BUCIO,ELSA",
+                "COLLINS,GINA",
+                "HARRIS,CLARE",
+                "HOPSON,HERMEISHA",
+                "JENKINS,AIMEE",
+                "JONES,KRISTI",
+                "JONES,TESHIA",
+                "JOYNER-POWELL,NICOLE",
+                "MATHIS,DANIELLE",
+                "MAY,TANYA",
+                "MCCULLOUGH,ZAQUES",
+                "MULLIS,KIERSTEN",
+                "NELSON,CHRISTAL",
+                "REGISTER,SHELBY",
+                "REGISTER-LAKE,SHELBY",
+                "SEGAR,DANIELLE",
+                "STRIBLIN,TENEKA",
+                "VARNER,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42259188",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWNING,DOUGLAS",
+                "BUCIO,ELSA",
+                "COLLINS,GINA",
+                "HARRIS,CLARE",
+                "HOPSON,HERMEISHA",
+                "JENKINS,AIMEE",
+                "JONES,KRISTI",
+                "JONES,TESHIA",
+                "JOYNER-POWELL,NICOLE",
+                "MATHIS,DANIELLE",
+                "MAY,TANYA",
+                "MCCULLOUGH,ZAQUES",
+                "MULLIS,KIERSTEN",
+                "NELSON,CHRISTAL",
+                "REGISTER,SHELBY",
+                "REGISTER-LAKE,SHELBY",
+                "SEGAR,DANIELLE",
+                "STRIBLIN,TENEKA",
+                "VARNER,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1746424447",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWNING,DOUGLAS",
+                "BUCIO,ELSA",
+                "COLLINS,GINA",
+                "HARRIS,CLARE",
+                "HOPSON,HERMEISHA",
+                "JENKINS,AIMEE",
+                "JONES,KRISTI",
+                "JONES,TESHIA",
+                "JOYNER-POWELL,NICOLE",
+                "MATHIS,DANIELLE",
+                "MAY,TANYA",
+                "MCCULLOUGH,ZAQUES",
+                "MULLIS,KIERSTEN",
+                "NELSON,CHRISTAL",
+                "REGISTER,SHELBY",
+                "REGISTER-LAKE,SHELBY",
+                "SEGAR,DANIELLE",
+                "STRIBLIN,TENEKA",
+                "VARNER,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1746424508",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWNING,DOUGLAS",
+                "BUCIO,ELSA",
+                "COLLINS,GINA",
+                "HARRIS,CLARE",
+                "HOPSON,HERMEISHA",
+                "JENKINS,AIMEE",
+                "JONES,KRISTI",
+                "JONES,TESHIA",
+                "JOYNER-POWELL,NICOLE",
+                "MATHIS,DANIELLE",
+                "MAY,TANYA",
+                "MCCULLOUGH,ZAQUES",
+                "MULLIS,KIERSTEN",
+                "NELSON,CHRISTAL",
+                "REGISTER,SHELBY",
+                "REGISTER-LAKE,SHELBY",
+                "SEGAR,DANIELLE",
+                "STRIBLIN,TENEKA",
+                "VARNER,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "111993940",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWNING,DOUGLAS",
+                "BUCIO,ELSA",
+                "COLLINS,GINA",
+                "HARRIS,CLARE",
+                "HOPSON,HERMEISHA",
+                "JENKINS,AIMEE",
+                "JONES,KRISTI",
+                "JONES,TESHIA",
+                "JOYNER-POWELL,NICOLE",
+                "MATHIS,DANIELLE",
+                "MAY,TANYA",
+                "MCCULLOUGH,ZAQUES",
+                "MULLIS,KIERSTEN",
+                "NELSON,CHRISTAL",
+                "REGISTER,SHELBY",
+                "REGISTER-LAKE,SHELBY",
+                "SEGAR,DANIELLE",
+                "STRIBLIN,TENEKA",
+                "VARNER,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "992904476",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWNING,DOUGLAS",
+                "BUCIO,ELSA",
+                "COLLINS,GINA",
+                "HARRIS,CLARE",
+                "HOPSON,HERMEISHA",
+                "JENKINS,AIMEE",
+                "JONES,KRISTI",
+                "JONES,TESHIA",
+                "JOYNER-POWELL,NICOLE",
+                "MATHIS,DANIELLE",
+                "MAY,TANYA",
+                "MCCULLOUGH,ZAQUES",
+                "MULLIS,KIERSTEN",
+                "NELSON,CHRISTAL",
+                "REGISTER,SHELBY",
+                "REGISTER-LAKE,SHELBY",
+                "SEGAR,DANIELLE",
+                "STRIBLIN,TENEKA",
+                "VARNER,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42259292",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWNING,DOUGLAS",
+                "BUCIO,ELSA",
+                "COLLINS,GINA",
+                "HARRIS,CLARE",
+                "HOPSON,HERMEISHA",
+                "JENKINS,AIMEE",
+                "JONES,KRISTI",
+                "JONES,TESHIA",
+                "JOYNER-POWELL,NICOLE",
+                "MATHIS,DANIELLE",
+                "MAY,TANYA",
+                "MCCULLOUGH,ZAQUES",
+                "MULLIS,KIERSTEN",
+                "NELSON,CHRISTAL",
+                "REGISTER,SHELBY",
+                "REGISTER-LAKE,SHELBY",
+                "SEGAR,DANIELLE",
+                "STRIBLIN,TENEKA",
+                "VARNER,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"N\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1205486297",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1700",
+            "MONDAY PM 0000-0000",
+            "TUESDAY AM 0800-1900",
+            "TUESDAY PM 0000-0000",
+            "WEDNESDAY AM 0800-1700",
+            "WEDNESDAY PM 0000-0000",
+            "THURSDAY AM 0800-1700",
+            "THURSDAY PM 0000-0000",
+            "FRIDAY AM 0800-1200",
+            "FRIDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "3368642795",
+          "dbaName": "JAMES AUSTIN HEALTH CENTER",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "250 W KINGS HWY",
+            "addressLine2": null,
+            "city": "EDEN",
+            "state": "NC",
+            "zipCode": "27288",
+            "countyCode": "079",
+            "countyName": "Rockingham",
+            "latitude": 36.49136,
+            "longitude": -79.74634,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "3368642795",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10382960"
+        },
+        {
+          "firstName": null,
+          "lastName": "MOSES CONE AFFILIATED PHYSICIANS IN",
+          "middleName": null,
+          "fullName": "MOSES CONE AFFILIATED PHYSICIANS IN",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": false,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "970",
+              "specialityDesc": "Psychologist"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "940",
+              "specialityDesc": "Professional"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "600",
+              "specialityDesc": "Mental Health"
+            },
+            {
+              "specialityCd": "865",
+              "specialityDesc": "Pediatrics"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "695617818",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKHBARI,ROZITA",
+                "ARMSTRONG,CHARLETTA",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "LAKE,KARI",
+                "LAW,INGER",
+                "PREVATT,HANNAH",
+                "QAYUMI,ZAINAB",
+                "SALVADOR,VIVIAN",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "297972340",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKHBARI,ROZITA",
+                "ARMSTRONG,CHARLETTA",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "LAKE,KARI",
+                "LAW,INGER",
+                "PREVATT,HANNAH",
+                "QAYUMI,ZAINAB",
+                "SALVADOR,VIVIAN",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41874079",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKHBARI,ROZITA",
+                "ARMSTRONG,CHARLETTA",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "LAKE,KARI",
+                "LAW,INGER",
+                "PREVATT,HANNAH",
+                "QAYUMI,ZAINAB",
+                "SALVADOR,VIVIAN",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41874078",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKHBARI,ROZITA",
+                "ARMSTRONG,CHARLETTA",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "LAKE,KARI",
+                "LAW,INGER",
+                "PREVATT,HANNAH",
+                "QAYUMI,ZAINAB",
+                "SALVADOR,VIVIAN",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "975051758",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKHBARI,ROZITA",
+                "ARMSTRONG,CHARLETTA",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "LAKE,KARI",
+                "LAW,INGER",
+                "PREVATT,HANNAH",
+                "QAYUMI,ZAINAB",
+                "SALVADOR,VIVIAN",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "972529937",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKHBARI,ROZITA",
+                "ARMSTRONG,CHARLETTA",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "LAKE,KARI",
+                "LAW,INGER",
+                "PREVATT,HANNAH",
+                "QAYUMI,ZAINAB",
+                "SALVADOR,VIVIAN",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "52550593",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKHBARI,ROZITA",
+                "ARMSTRONG,CHARLETTA",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "LAKE,KARI",
+                "LAW,INGER",
+                "PREVATT,HANNAH",
+                "QAYUMI,ZAINAB",
+                "SALVADOR,VIVIAN",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1260724450",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKHBARI,ROZITA",
+                "ARMSTRONG,CHARLETTA",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "LAKE,KARI",
+                "LAW,INGER",
+                "PREVATT,HANNAH",
+                "QAYUMI,ZAINAB",
+                "SALVADOR,VIVIAN",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "126890766",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKHBARI,ROZITA",
+                "ARMSTRONG,CHARLETTA",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "LAKE,KARI",
+                "LAW,INGER",
+                "PREVATT,HANNAH",
+                "QAYUMI,ZAINAB",
+                "SALVADOR,VIVIAN",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"N\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"N\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"N\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1114228475",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1200",
+            "MONDAY PM 1400-1700",
+            "TUESDAY AM 0800-1200",
+            "TUESDAY PM 1400-1700",
+            "WEDNESDAY AM 0800-1200",
+            "WEDNESDAY PM 1400-1700",
+            "THURSDAY AM 0800-1200",
+            "THURSDAY PM 1400-1700",
+            "FRIDAY AM 0800-1200",
+            "FRIDAY PM 1400-1700"
+          ],
+          "afterHoursPhone": "8882673675",
+          "dbaName": "PREMIER PEDIATRICS OF EDEN",
+          "maleAgeRange": "04",
+          "femaleAgeRange": "04",
+          "address": {
+            "addressLine1": "509 S VAN BUREN RD",
+            "addressLine2": "STE B",
+            "city": "EDEN",
+            "state": "NC",
+            "zipCode": "27288",
+            "countyCode": "079",
+            "countyName": "Rockingham",
+            "latitude": 36.49529,
+            "longitude": -79.742004,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "3366275437",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10447680"
+        },
+        {
+          "firstName": null,
+          "lastName": "MOSES CONE PHYSICIAN SERVICES INC",
+          "middleName": null,
+          "fullName": "MOSES CONE PHYSICIAN SERVICES INC",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "805",
+              "specialityDesc": "Pediatric Infectious Diseases"
+            },
+            {
+              "specialityCd": "1185",
+              "specialityDesc": "Pediatrics Nurse Practitioner"
+            },
+            {
+              "specialityCd": "970",
+              "specialityDesc": "Psychologist"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "940",
+              "specialityDesc": "Professional"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "600",
+              "specialityDesc": "Mental Health"
+            },
+            {
+              "specialityCd": "865",
+              "specialityDesc": "Pediatrics"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "530654555",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWN,KIRSTEN",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "FLEMING,CHARLENE",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "KLETT,LYNN",
+                "LAKE,KARI",
+                "MECCARIELLO,MATTHEW",
+                "PREVATT,HANNAH",
+                "RAMGOOLAM,ANDRES",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "805",
+                  "specialityDesc": "Pediatric Infectious Diseases"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "274061199",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWN,KIRSTEN",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "FLEMING,CHARLENE",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "KLETT,LYNN",
+                "LAKE,KARI",
+                "MECCARIELLO,MATTHEW",
+                "PREVATT,HANNAH",
+                "RAMGOOLAM,ANDRES",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "805",
+                  "specialityDesc": "Pediatric Infectious Diseases"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41872637",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWN,KIRSTEN",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "FLEMING,CHARLENE",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "KLETT,LYNN",
+                "LAKE,KARI",
+                "MECCARIELLO,MATTHEW",
+                "PREVATT,HANNAH",
+                "RAMGOOLAM,ANDRES",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "805",
+                  "specialityDesc": "Pediatric Infectious Diseases"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41872635",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWN,KIRSTEN",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "FLEMING,CHARLENE",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "KLETT,LYNN",
+                "LAKE,KARI",
+                "MECCARIELLO,MATTHEW",
+                "PREVATT,HANNAH",
+                "RAMGOOLAM,ANDRES",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "805",
+                  "specialityDesc": "Pediatric Infectious Diseases"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "975048511",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWN,KIRSTEN",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "FLEMING,CHARLENE",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "KLETT,LYNN",
+                "LAKE,KARI",
+                "MECCARIELLO,MATTHEW",
+                "PREVATT,HANNAH",
+                "RAMGOOLAM,ANDRES",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "805",
+                  "specialityDesc": "Pediatric Infectious Diseases"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "972526868",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWN,KIRSTEN",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "FLEMING,CHARLENE",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "KLETT,LYNN",
+                "LAKE,KARI",
+                "MECCARIELLO,MATTHEW",
+                "PREVATT,HANNAH",
+                "RAMGOOLAM,ANDRES",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "805",
+                  "specialityDesc": "Pediatric Infectious Diseases"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "52549530",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWN,KIRSTEN",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "FLEMING,CHARLENE",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "KLETT,LYNN",
+                "LAKE,KARI",
+                "MECCARIELLO,MATTHEW",
+                "PREVATT,HANNAH",
+                "RAMGOOLAM,ANDRES",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "805",
+                  "specialityDesc": "Pediatric Infectious Diseases"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1260720368",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWN,KIRSTEN",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "FLEMING,CHARLENE",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "KLETT,LYNN",
+                "LAKE,KARI",
+                "MECCARIELLO,MATTHEW",
+                "PREVATT,HANNAH",
+                "RAMGOOLAM,ANDRES",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "805",
+                  "specialityDesc": "Pediatric Infectious Diseases"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "124498636",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BROWN,KIRSTEN",
+                "CULLER,JACQUELINE",
+                "CUPITO,ALEXANDRA",
+                "FLEMING,CHARLENE",
+                "GOSRANI,SHILPA",
+                "HEAD,BARBARA",
+                "HERRIN,NAISHAI",
+                "KELTON,SHCALEAH",
+                "KLETT,LYNN",
+                "LAKE,KARI",
+                "MECCARIELLO,MATTHEW",
+                "PREVATT,HANNAH",
+                "RAMGOOLAM,ANDRES",
+                "SCALES,JESSICA",
+                "SHARPE,CQUADAYSHIA",
+                "THOMPSON,JACQUELINE",
+                "TILLEY,JANE",
+                "VENZON,JESSICA",
+                "WILLIAMS,JASMINE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "805",
+                  "specialityDesc": "Pediatric Infectious Diseases"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"Y\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1073881850",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1700",
+            "MONDAY PM 0000-0000",
+            "TUESDAY AM 0800-1700",
+            "TUESDAY PM 0000-0000",
+            "WEDNESDAY AM 0800-1700",
+            "WEDNESDAY PM 0000-0000",
+            "THURSDAY AM 0800-1700",
+            "THURSDAY PM 0000-0000",
+            "FRIDAY AM 0800-1700",
+            "FRIDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "3366343902",
+          "dbaName": "REIDSVILLE PEDIATRICS",
+          "maleAgeRange": "05",
+          "femaleAgeRange": "05",
+          "address": {
+            "addressLine1": "1816 RICHARDSON DR",
+            "addressLine2": null,
+            "city": "REIDSVILLE",
+            "state": "NC",
+            "zipCode": "27320",
+            "countyCode": "079",
+            "countyName": "Rockingham",
+            "latitude": 36.340256,
+            "longitude": -79.68288,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "3366343902",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10510956"
+        }
+      ],
+      "pageable": null,
+      "last": null,
+      "totalPages": null,
+      "totalElements": null,
+      "sort": null,
+      "first": null,
+      "numberOfElements": 3,
+      "size": 3,
+      "number": 0,
+      "totalRecords": 3,
+      "empty": false
+    }
+  },
+  "statusCode": 200
+}

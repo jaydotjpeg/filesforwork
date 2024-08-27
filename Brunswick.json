@@ -1,0 +1,1709 @@
+ {
+  "data": {
+    "status": 200,
+    "error": null,
+    "errorMessage": null,
+    "backend": "NCEB",
+    "data": {
+      "providers": [
+        {
+          "firstName": null,
+          "lastName": "TRI COUNTY COMMUNITY HEALTH COUNCIL",
+          "middleName": null,
+          "fullName": "TRI COUNTY COMMUNITY HEALTH COUNCIL",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "Arabic",
+              "languageTypeCd": "AR"
+            },
+            {
+              "languageDesc": "Cambodian",
+              "languageTypeCd": "CA"
+            },
+            {
+              "languageDesc": "Chinese",
+              "languageTypeCd": "CH"
+            },
+            {
+              "languageDesc": "French Creole",
+              "languageTypeCd": "FC"
+            },
+            {
+              "languageDesc": "French",
+              "languageTypeCd": "FR"
+            },
+            {
+              "languageDesc": "German",
+              "languageTypeCd": "GE"
+            },
+            {
+              "languageDesc": "Greek",
+              "languageTypeCd": "GR"
+            },
+            {
+              "languageDesc": "Hindi",
+              "languageTypeCd": "HI"
+            },
+            {
+              "languageDesc": "Hmong",
+              "languageTypeCd": "HM"
+            },
+            {
+              "languageDesc": "Italian",
+              "languageTypeCd": "IT"
+            },
+            {
+              "languageDesc": "Japanese",
+              "languageTypeCd": "JA"
+            },
+            {
+              "languageDesc": "Korean",
+              "languageTypeCd": "KO"
+            },
+            {
+              "languageDesc": "Laotian",
+              "languageTypeCd": "LA"
+            },
+            {
+              "languageDesc": "Other",
+              "languageTypeCd": "OT"
+            },
+            {
+              "languageDesc": "Persian",
+              "languageTypeCd": "PE"
+            },
+            {
+              "languageDesc": "Portuguese",
+              "languageTypeCd": "PG"
+            },
+            {
+              "languageDesc": "Russian",
+              "languageTypeCd": "RU"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            },
+            {
+              "languageDesc": "Thai",
+              "languageTypeCd": "TH"
+            },
+            {
+              "languageDesc": "Vietnamese",
+              "languageTypeCd": "VI"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1245",
+              "specialityDesc": "Primary Care Nurse Practitioner"
+            },
+            {
+              "specialityCd": "160",
+              "specialityDesc": "Child & Adolescent Psychiatry"
+            },
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "690",
+              "specialityDesc": "Obstetrics & Gynecology"
+            },
+            {
+              "specialityCd": "680",
+              "specialityDesc": "Nurse Practitioner"
+            },
+            {
+              "specialityCd": "560",
+              "specialityDesc": "Internal Medicine"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "550",
+              "specialityDesc": "Infectious Disease"
+            },
+            {
+              "specialityCd": "1250",
+              "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "245",
+              "specialityDesc": "Community/Behavioral Health"
+            },
+            {
+              "specialityCd": "400",
+              "specialityDesc": "Federally Qualified Health Center (FQHC)"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "940",
+              "specialityDesc": "Professional"
+            },
+            {
+              "specialityCd": "600",
+              "specialityDesc": "Mental Health"
+            },
+            {
+              "specialityCd": "865",
+              "specialityDesc": "Pediatrics"
+            },
+            {
+              "specialityCd": "425",
+              "specialityDesc": "General Practice"
+            },
+            {
+              "specialityCd": "745",
+              "specialityDesc": "Pediatric Allergy/Immunology"
+            },
+            {
+              "specialityCd": "965",
+              "specialityDesc": "Psychiatry"
+            },
+            {
+              "specialityCd": "20",
+              "specialityDesc": "Addiction Psychiatry"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "950881250",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKPAKA,CYNTHIA",
+                "BANGI,RICHELLE",
+                "BATCHELOR,MONIQUE",
+                "BAXLEY,LAURA",
+                "BAYLESS,JAMES",
+                "BURKS,APRIL",
+                "CANNON,MICHELE",
+                "CIEZA,OCTAVIO",
+                "CONNEL,STEFANI",
+                "CORNELIUS,DANIKA",
+                "DIAZ,RACHEL",
+                "EZA,KAYLA",
+                "FORD,KENNETH",
+                "JOHNSON,LAUREN",
+                "LEWIS,CAROLINE",
+                "LEWIS,CHRISTINA",
+                "LYNCH,ANN",
+                "MCKINNEY,JUSTIN",
+                "MCSHINE,SHERMIN",
+                "MCSWEEN,KELLY",
+                "MOORE,TESSA",
+                "MORALES,NELLY",
+                "MOSIER-HAYES,DAWN",
+                "MOYER,JOHNNY",
+                "MURY,JENNIFER",
+                "RIVERA,ALFREDO",
+                "SCHIWEK,JACQUELINE",
+                "SHARMA,SHRADDHA",
+                "SULLIVAN,JAMIE",
+                "WALKER,EDWIN",
+                "WHITE,LINDA",
+                "WITTHAR,LISA",
+                "YEARWOOD,BEVERLY",
+                "ZIBELIN,KEVEN",
+                "ZINK,LYNN"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "745",
+                  "specialityDesc": "Pediatric Allergy/Immunology"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42130744",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKPAKA,CYNTHIA",
+                "BANGI,RICHELLE",
+                "BATCHELOR,MONIQUE",
+                "BAXLEY,LAURA",
+                "BAYLESS,JAMES",
+                "BURKS,APRIL",
+                "CANNON,MICHELE",
+                "CIEZA,OCTAVIO",
+                "CONNEL,STEFANI",
+                "CORNELIUS,DANIKA",
+                "DIAZ,RACHEL",
+                "EZA,KAYLA",
+                "FORD,KENNETH",
+                "JOHNSON,LAUREN",
+                "LEWIS,CAROLINE",
+                "LEWIS,CHRISTINA",
+                "LYNCH,ANN",
+                "MCKINNEY,JUSTIN",
+                "MCSHINE,SHERMIN",
+                "MCSWEEN,KELLY",
+                "MOORE,TESSA",
+                "MORALES,NELLY",
+                "MOSIER-HAYES,DAWN",
+                "MOYER,JOHNNY",
+                "MURY,JENNIFER",
+                "RIVERA,ALFREDO",
+                "SCHIWEK,JACQUELINE",
+                "SHARMA,SHRADDHA",
+                "SULLIVAN,JAMIE",
+                "WALKER,EDWIN",
+                "WHITE,LINDA",
+                "WITTHAR,LISA",
+                "YEARWOOD,BEVERLY",
+                "ZIBELIN,KEVEN",
+                "ZINK,LYNN"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "745",
+                  "specialityDesc": "Pediatric Allergy/Immunology"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "55762471",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKPAKA,CYNTHIA",
+                "BANGI,RICHELLE",
+                "BATCHELOR,MONIQUE",
+                "BAXLEY,LAURA",
+                "BAYLESS,JAMES",
+                "BURKS,APRIL",
+                "CANNON,MICHELE",
+                "CIEZA,OCTAVIO",
+                "CONNEL,STEFANI",
+                "CORNELIUS,DANIKA",
+                "DIAZ,RACHEL",
+                "EZA,KAYLA",
+                "FORD,KENNETH",
+                "JOHNSON,LAUREN",
+                "LEWIS,CAROLINE",
+                "LEWIS,CHRISTINA",
+                "LYNCH,ANN",
+                "MCKINNEY,JUSTIN",
+                "MCSHINE,SHERMIN",
+                "MCSWEEN,KELLY",
+                "MOORE,TESSA",
+                "MORALES,NELLY",
+                "MOSIER-HAYES,DAWN",
+                "MOYER,JOHNNY",
+                "MURY,JENNIFER",
+                "RIVERA,ALFREDO",
+                "SCHIWEK,JACQUELINE",
+                "SHARMA,SHRADDHA",
+                "SULLIVAN,JAMIE",
+                "WALKER,EDWIN",
+                "WHITE,LINDA",
+                "WITTHAR,LISA",
+                "YEARWOOD,BEVERLY",
+                "ZIBELIN,KEVEN",
+                "ZINK,LYNN"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "745",
+                  "specialityDesc": "Pediatric Allergy/Immunology"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42130745",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKPAKA,CYNTHIA",
+                "BANGI,RICHELLE",
+                "BATCHELOR,MONIQUE",
+                "BAXLEY,LAURA",
+                "BAYLESS,JAMES",
+                "BURKS,APRIL",
+                "CANNON,MICHELE",
+                "CIEZA,OCTAVIO",
+                "CONNEL,STEFANI",
+                "CORNELIUS,DANIKA",
+                "DIAZ,RACHEL",
+                "EZA,KAYLA",
+                "FORD,KENNETH",
+                "JOHNSON,LAUREN",
+                "LEWIS,CAROLINE",
+                "LEWIS,CHRISTINA",
+                "LYNCH,ANN",
+                "MCKINNEY,JUSTIN",
+                "MCSHINE,SHERMIN",
+                "MCSWEEN,KELLY",
+                "MOORE,TESSA",
+                "MORALES,NELLY",
+                "MOSIER-HAYES,DAWN",
+                "MOYER,JOHNNY",
+                "MURY,JENNIFER",
+                "RIVERA,ALFREDO",
+                "SCHIWEK,JACQUELINE",
+                "SHARMA,SHRADDHA",
+                "SULLIVAN,JAMIE",
+                "WALKER,EDWIN",
+                "WHITE,LINDA",
+                "WITTHAR,LISA",
+                "YEARWOOD,BEVERLY",
+                "ZIBELIN,KEVEN",
+                "ZINK,LYNN"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "745",
+                  "specialityDesc": "Pediatric Allergy/Immunology"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42130741",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKPAKA,CYNTHIA",
+                "BANGI,RICHELLE",
+                "BATCHELOR,MONIQUE",
+                "BAXLEY,LAURA",
+                "BAYLESS,JAMES",
+                "BURKS,APRIL",
+                "CANNON,MICHELE",
+                "CIEZA,OCTAVIO",
+                "CONNEL,STEFANI",
+                "CORNELIUS,DANIKA",
+                "DIAZ,RACHEL",
+                "EZA,KAYLA",
+                "FORD,KENNETH",
+                "JOHNSON,LAUREN",
+                "LEWIS,CAROLINE",
+                "LEWIS,CHRISTINA",
+                "LYNCH,ANN",
+                "MCKINNEY,JUSTIN",
+                "MCSHINE,SHERMIN",
+                "MCSWEEN,KELLY",
+                "MOORE,TESSA",
+                "MORALES,NELLY",
+                "MOSIER-HAYES,DAWN",
+                "MOYER,JOHNNY",
+                "MURY,JENNIFER",
+                "RIVERA,ALFREDO",
+                "SCHIWEK,JACQUELINE",
+                "SHARMA,SHRADDHA",
+                "SULLIVAN,JAMIE",
+                "WALKER,EDWIN",
+                "WHITE,LINDA",
+                "WITTHAR,LISA",
+                "YEARWOOD,BEVERLY",
+                "ZIBELIN,KEVEN",
+                "ZINK,LYNN"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "745",
+                  "specialityDesc": "Pediatric Allergy/Immunology"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "973769041",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKPAKA,CYNTHIA",
+                "BANGI,RICHELLE",
+                "BATCHELOR,MONIQUE",
+                "BAXLEY,LAURA",
+                "BAYLESS,JAMES",
+                "BURKS,APRIL",
+                "CANNON,MICHELE",
+                "CIEZA,OCTAVIO",
+                "CONNEL,STEFANI",
+                "CORNELIUS,DANIKA",
+                "DIAZ,RACHEL",
+                "EZA,KAYLA",
+                "FORD,KENNETH",
+                "JOHNSON,LAUREN",
+                "LEWIS,CAROLINE",
+                "LEWIS,CHRISTINA",
+                "LYNCH,ANN",
+                "MCKINNEY,JUSTIN",
+                "MCSHINE,SHERMIN",
+                "MCSWEEN,KELLY",
+                "MOORE,TESSA",
+                "MORALES,NELLY",
+                "MOSIER-HAYES,DAWN",
+                "MOYER,JOHNNY",
+                "MURY,JENNIFER",
+                "RIVERA,ALFREDO",
+                "SCHIWEK,JACQUELINE",
+                "SHARMA,SHRADDHA",
+                "SULLIVAN,JAMIE",
+                "WALKER,EDWIN",
+                "WHITE,LINDA",
+                "WITTHAR,LISA",
+                "YEARWOOD,BEVERLY",
+                "ZIBELIN,KEVEN",
+                "ZINK,LYNN"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "745",
+                  "specialityDesc": "Pediatric Allergy/Immunology"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "968751661",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKPAKA,CYNTHIA",
+                "BANGI,RICHELLE",
+                "BATCHELOR,MONIQUE",
+                "BAXLEY,LAURA",
+                "BAYLESS,JAMES",
+                "BURKS,APRIL",
+                "CANNON,MICHELE",
+                "CIEZA,OCTAVIO",
+                "CONNEL,STEFANI",
+                "CORNELIUS,DANIKA",
+                "DIAZ,RACHEL",
+                "EZA,KAYLA",
+                "FORD,KENNETH",
+                "JOHNSON,LAUREN",
+                "LEWIS,CAROLINE",
+                "LEWIS,CHRISTINA",
+                "LYNCH,ANN",
+                "MCKINNEY,JUSTIN",
+                "MCSHINE,SHERMIN",
+                "MCSWEEN,KELLY",
+                "MOORE,TESSA",
+                "MORALES,NELLY",
+                "MOSIER-HAYES,DAWN",
+                "MOYER,JOHNNY",
+                "MURY,JENNIFER",
+                "RIVERA,ALFREDO",
+                "SCHIWEK,JACQUELINE",
+                "SHARMA,SHRADDHA",
+                "SULLIVAN,JAMIE",
+                "WALKER,EDWIN",
+                "WHITE,LINDA",
+                "WITTHAR,LISA",
+                "YEARWOOD,BEVERLY",
+                "ZIBELIN,KEVEN",
+                "ZINK,LYNN"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "745",
+                  "specialityDesc": "Pediatric Allergy/Immunology"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "93780299",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKPAKA,CYNTHIA",
+                "BANGI,RICHELLE",
+                "BATCHELOR,MONIQUE",
+                "BAXLEY,LAURA",
+                "BAYLESS,JAMES",
+                "BURKS,APRIL",
+                "CANNON,MICHELE",
+                "CIEZA,OCTAVIO",
+                "CONNEL,STEFANI",
+                "CORNELIUS,DANIKA",
+                "DIAZ,RACHEL",
+                "EZA,KAYLA",
+                "FORD,KENNETH",
+                "JOHNSON,LAUREN",
+                "LEWIS,CAROLINE",
+                "LEWIS,CHRISTINA",
+                "LYNCH,ANN",
+                "MCKINNEY,JUSTIN",
+                "MCSHINE,SHERMIN",
+                "MCSWEEN,KELLY",
+                "MOORE,TESSA",
+                "MORALES,NELLY",
+                "MOSIER-HAYES,DAWN",
+                "MOYER,JOHNNY",
+                "MURY,JENNIFER",
+                "RIVERA,ALFREDO",
+                "SCHIWEK,JACQUELINE",
+                "SHARMA,SHRADDHA",
+                "SULLIVAN,JAMIE",
+                "WALKER,EDWIN",
+                "WHITE,LINDA",
+                "WITTHAR,LISA",
+                "YEARWOOD,BEVERLY",
+                "ZIBELIN,KEVEN",
+                "ZINK,LYNN"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "745",
+                  "specialityDesc": "Pediatric Allergy/Immunology"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "992245631",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKPAKA,CYNTHIA",
+                "BANGI,RICHELLE",
+                "BATCHELOR,MONIQUE",
+                "BAXLEY,LAURA",
+                "BAYLESS,JAMES",
+                "BURKS,APRIL",
+                "CANNON,MICHELE",
+                "CIEZA,OCTAVIO",
+                "CONNEL,STEFANI",
+                "CORNELIUS,DANIKA",
+                "DIAZ,RACHEL",
+                "EZA,KAYLA",
+                "FORD,KENNETH",
+                "JOHNSON,LAUREN",
+                "LEWIS,CAROLINE",
+                "LEWIS,CHRISTINA",
+                "LYNCH,ANN",
+                "MCKINNEY,JUSTIN",
+                "MCSHINE,SHERMIN",
+                "MCSWEEN,KELLY",
+                "MOORE,TESSA",
+                "MORALES,NELLY",
+                "MOSIER-HAYES,DAWN",
+                "MOYER,JOHNNY",
+                "MURY,JENNIFER",
+                "RIVERA,ALFREDO",
+                "SCHIWEK,JACQUELINE",
+                "SHARMA,SHRADDHA",
+                "SULLIVAN,JAMIE",
+                "WALKER,EDWIN",
+                "WHITE,LINDA",
+                "WITTHAR,LISA",
+                "YEARWOOD,BEVERLY",
+                "ZIBELIN,KEVEN",
+                "ZINK,LYNN"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "745",
+                  "specialityDesc": "Pediatric Allergy/Immunology"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42130810",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AKPAKA,CYNTHIA",
+                "BANGI,RICHELLE",
+                "BATCHELOR,MONIQUE",
+                "BAXLEY,LAURA",
+                "BAYLESS,JAMES",
+                "BURKS,APRIL",
+                "CANNON,MICHELE",
+                "CIEZA,OCTAVIO",
+                "CONNEL,STEFANI",
+                "CORNELIUS,DANIKA",
+                "DIAZ,RACHEL",
+                "EZA,KAYLA",
+                "FORD,KENNETH",
+                "JOHNSON,LAUREN",
+                "LEWIS,CAROLINE",
+                "LEWIS,CHRISTINA",
+                "LYNCH,ANN",
+                "MCKINNEY,JUSTIN",
+                "MCSHINE,SHERMIN",
+                "MCSWEEN,KELLY",
+                "MOORE,TESSA",
+                "MORALES,NELLY",
+                "MOSIER-HAYES,DAWN",
+                "MOYER,JOHNNY",
+                "MURY,JENNIFER",
+                "RIVERA,ALFREDO",
+                "SCHIWEK,JACQUELINE",
+                "SHARMA,SHRADDHA",
+                "SULLIVAN,JAMIE",
+                "WALKER,EDWIN",
+                "WHITE,LINDA",
+                "WITTHAR,LISA",
+                "YEARWOOD,BEVERLY",
+                "ZIBELIN,KEVEN",
+                "ZINK,LYNN"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "745",
+                  "specialityDesc": "Pediatric Allergy/Immunology"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1992171060",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1730",
+            "MONDAY PM 0000-0000",
+            "TUESDAY AM 0800-1730",
+            "TUESDAY PM 0000-0000",
+            "WEDNESDAY AM 0800-1700",
+            "WEDNESDAY PM 0000-0000",
+            "THURSDAY AM 0800-1730",
+            "THURSDAY PM 0000-0000",
+            "FRIDAY AM 0800-1300",
+            "FRIDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "8779355255",
+          "dbaName": "COMMWELL HEALTH OF BOLIVIA",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "4311 OLD OCEAN HWY",
+            "addressLine2": null,
+            "city": "BOLIVIA",
+            "state": "NC",
+            "zipCode": "28422",
+            "countyCode": "010",
+            "countyName": "Brunswick",
+            "latitude": 34.076694,
+            "longitude": -78.14182,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "8779355255",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10367193"
+        }
+      ],
+      "pageable": null,
+      "last": null,
+      "totalPages": null,
+      "totalElements": null,
+      "sort": null,
+      "first": null,
+      "numberOfElements": 1,
+      "size": 1,
+      "number": 0,
+      "totalRecords": 1,
+      "empty": false
+    }
+  },
+  "statusCode": 200
+}

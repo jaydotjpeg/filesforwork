@@ -1,0 +1,5382 @@
+ {
+  "data": {
+    "status": 200,
+    "error": null,
+    "errorMessage": null,
+    "backend": "NCEB",
+    "data": {
+      "providers": [
+        {
+          "firstName": null,
+          "lastName": "PIEDMONT HEALTH SERVICES INC",
+          "middleName": null,
+          "fullName": "PIEDMONT HEALTH SERVICES INC",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1245",
+              "specialityDesc": "Primary Care Nurse Practitioner"
+            },
+            {
+              "specialityCd": "370",
+              "specialityDesc": "Emergency Medicine"
+            },
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "690",
+              "specialityDesc": "Obstetrics & Gynecology"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "430",
+              "specialityDesc": "Geriatric Medicine"
+            },
+            {
+              "specialityCd": "970",
+              "specialityDesc": "Psychologist"
+            },
+            {
+              "specialityCd": "140",
+              "specialityDesc": "Cardiovascular Disease"
+            },
+            {
+              "specialityCd": "680",
+              "specialityDesc": "Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1110",
+              "specialityDesc": "Adult Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "560",
+              "specialityDesc": "Internal Medicine"
+            },
+            {
+              "specialityCd": "285",
+              "specialityDesc": "General Practice"
+            },
+            {
+              "specialityCd": "1130",
+              "specialityDesc": "Community Health"
+            },
+            {
+              "specialityCd": "880",
+              "specialityDesc": "Physical Medicine & Rehabilitation"
+            },
+            {
+              "specialityCd": "1250",
+              "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1150",
+              "specialityDesc": "Gerontology Nurse Practitioner"
+            },
+            {
+              "specialityCd": "400",
+              "specialityDesc": "Federally Qualified Health Center (FQHC)"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "885",
+              "specialityDesc": "Physical Therapist"
+            },
+            {
+              "specialityCd": "865",
+              "specialityDesc": "Pediatrics"
+            },
+            {
+              "specialityCd": "425",
+              "specialityDesc": "General Practice"
+            },
+            {
+              "specialityCd": "965",
+              "specialityDesc": "Psychiatry"
+            },
+            {
+              "specialityCd": "40",
+              "specialityDesc": "Advanced Practice Midwife"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "902604726",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOLLOWELL,ALLISON",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41905541",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOLLOWELL,ALLISON",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41905547",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOLLOWELL,ALLISON",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41905544",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOLLOWELL,ALLISON",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41905538",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOLLOWELL,ALLISON",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "844189423",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOLLOWELL,ALLISON",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "841839453",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOLLOWELL,ALLISON",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41905550",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOLLOWELL,ALLISON",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "993614356",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOLLOWELL,ALLISON",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "52577866",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOLLOWELL,ALLISON",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1821192865",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1700",
+            "MONDAY PM 0000-0000",
+            "TUESDAY AM 0800-1700",
+            "TUESDAY PM 0000-0000",
+            "WEDNESDAY AM 0800-1700",
+            "WEDNESDAY PM 0000-0000",
+            "THURSDAY AM 0800-2000",
+            "THURSDAY PM 0000-0000",
+            "FRIDAY AM 0800-1700",
+            "FRIDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "9196631744",
+          "dbaName": "SILER CITY COMMUNITY HEALTH CENTER",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "224 S 10TH AVE",
+            "addressLine2": null,
+            "city": "SILER CITY",
+            "state": "NC",
+            "zipCode": "27344",
+            "countyCode": "019",
+            "countyName": "Chatham",
+            "latitude": 35.72449,
+            "longitude": -79.4485,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "9196631744",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10432005"
+        },
+        {
+          "firstName": null,
+          "lastName": "PIEDMONT HEALTH SERVICES INC",
+          "middleName": null,
+          "fullName": "PIEDMONT HEALTH SERVICES INC",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1245",
+              "specialityDesc": "Primary Care Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "370",
+              "specialityDesc": "Emergency Medicine"
+            },
+            {
+              "specialityCd": "690",
+              "specialityDesc": "Obstetrics & Gynecology"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "430",
+              "specialityDesc": "Geriatric Medicine"
+            },
+            {
+              "specialityCd": "970",
+              "specialityDesc": "Psychologist"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "140",
+              "specialityDesc": "Cardiovascular Disease"
+            },
+            {
+              "specialityCd": "1110",
+              "specialityDesc": "Adult Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "680",
+              "specialityDesc": "Nurse Practitioner"
+            },
+            {
+              "specialityCd": "285",
+              "specialityDesc": "General Practice"
+            },
+            {
+              "specialityCd": "560",
+              "specialityDesc": "Internal Medicine"
+            },
+            {
+              "specialityCd": "880",
+              "specialityDesc": "Physical Medicine & Rehabilitation"
+            },
+            {
+              "specialityCd": "1130",
+              "specialityDesc": "Community Health"
+            },
+            {
+              "specialityCd": "1250",
+              "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1150",
+              "specialityDesc": "Gerontology Nurse Practitioner"
+            },
+            {
+              "specialityCd": "400",
+              "specialityDesc": "Federally Qualified Health Center (FQHC)"
+            },
+            {
+              "specialityCd": "885",
+              "specialityDesc": "Physical Therapist"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "865",
+              "specialityDesc": "Pediatrics"
+            },
+            {
+              "specialityCd": "425",
+              "specialityDesc": "General Practice"
+            },
+            {
+              "specialityCd": "965",
+              "specialityDesc": "Psychiatry"
+            },
+            {
+              "specialityCd": "40",
+              "specialityDesc": "Advanced Practice Midwife"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "902608616",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41905181",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41905183",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41905182",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41905180",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "970071848",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "970071850",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41905184",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "993621987",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41905185",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMO,ELENA",
+                "ALEXANDER,NICHOLAS",
+                "ALLEN,COLETTE",
+                "ALLEN,COLETTE",
+                "ANGLE,LUCY",
+                "APARICIO,MARIA",
+                "ASHKIN,EVAN",
+                "AYCOCK,NGWE",
+                "BARON,JILL",
+                "BENDER,ABBY",
+                "BLAKE,DOROTHY",
+                "BLANCHARD,LAURA",
+                "BLUMBERG,MEREDITH",
+                "BOUSSIOS,HELEN",
+                "BRADY,CRISTER",
+                "BURNS,HARRIET",
+                "CARRION,BENJAMIN",
+                "CARROLL,HEATHER",
+                "CASTRO,MARIA",
+                "CHADBOURNE,MOLLY",
+                "CHEREN,ISA",
+                "CHILDS,ELIZABETH",
+                "CRAWFORD,ANNA",
+                "CRAWLEY,MARITZA",
+                "CRITES,SAVANNAH",
+                "CRONK,CHRISTINA",
+                "DANCEL,REX",
+                "DESMOND,ELIZABETH",
+                "DEVRIES,ABIGAIL",
+                "DIMATE NAVARRO,RUBY",
+                "DRIGGERS,LAURA",
+                "DROBOT,DANIELLE",
+                "DUBARD,CAROL",
+                "EAST,JOAN",
+                "FARAHI,NARGES",
+                "FLAUHAUS,LYNETTE",
+                "FORBES,KAROLYN",
+                "FOWLER,NATALIE",
+                "GARCIA,CHRISTINA",
+                "GILMER SCOTT,MELISSA",
+                "GONZALEZ,LISANNA",
+                "HARPER-GAMPP,RYAN",
+                "HEADRICK,EMILY",
+                "HERRING,LESLIE",
+                "HOOKER,JAMES",
+                "HOOPER,IVENITA",
+                "HOWELL,DAKAR",
+                "IGLESIA,CAROL",
+                "IGLESIAS,DANA",
+                "JENNINGS,ZOE",
+                "JOAQUIN,MIGUEL",
+                "JOHNSON PATEL,SARAH",
+                "KOOISTRA,REBECCA",
+                "KOTHARY,KRISHNA",
+                "KRIDER,ANGELA",
+                "KROLL,RHONDA",
+                "LEYVA,TERESA",
+                "LINVELL,ALYSSA",
+                "LLAMAS,JEWEL",
+                "MAHONEY,JENNIFER",
+                "MANCHENO REVELO,ADRIAN",
+                "MARIN,FRANCIA",
+                "MARKLEY,LINDA",
+                "MARTIN,WILLIAM",
+                "MASON,VERLISSA",
+                "MATTISON,KATRINA",
+                "MAULDIN,GINA",
+                "MCCUDDY,MICHAELA",
+                "MCMANUS,BRENNA",
+                "MIKUL,HELEN",
+                "MILES,LINDA",
+                "MONAHAN,GISELLE",
+                "MOON,AMY",
+                "MOREHOUSE,YARELI",
+                "MORETTO,REBECA",
+                "MORRIS,KRISTINA",
+                "MOUW,MARY",
+                "MULHOLLAND,ANDREA",
+                "MUNIR,NAEEMAH",
+                "MYERS,SUSAN",
+                "NIMALENDRAN,RATHIKA",
+                "ONEAL,LANA",
+                "ORTIZ PATE,NATHALIE",
+                "PARADIS,PAULA",
+                "PELLIGRA,KYLE",
+                "PERRIN,JACOB",
+                "PITTS,SUSAN",
+                "PULLIAM II,CHARLES",
+                "RASMUSSEN,ELIZABETH",
+                "REILLY,SHARON",
+                "ROBERTS,CAROLINE",
+                "ROSENBERG,BETH",
+                "RUBIO,JESSICA",
+                "RUIZ PATINO,JESUS",
+                "SCHETTINI,PRISCILLE",
+                "SERRANO,NEFTALI",
+                "SMITH,CAROLINE",
+                "SMITH,KAREN",
+                "SONI,RAJIV",
+                "SPENCER,NICOLE",
+                "STARNES,SHERYL",
+                "STEPHENS,ANNE",
+                "STEPHENSON,LARS",
+                "STONEKING,SARAH",
+                "SWAN,ANDREA",
+                "TAYLOE,MARY",
+                "TAYLOR,DESTRY",
+                "THOMPSON,BENJAMIN",
+                "TILLER,ELI",
+                "TILLER,ROSANNE",
+                "TOBIN,PAUL",
+                "VAN HORN,JILL",
+                "VAN SCOYOC,ERIN",
+                "WEATHERBY,NORA",
+                "WEEKS,CYNTHIA",
+                "WHITE,CHRISTINA",
+                "WHITTEN,ROBIN",
+                "WILEY,NETASHIA",
+                "WILKINSON,NICHOLAS",
+                "WILLIAMS,MARISSA",
+                "WOOD,ROBYN",
+                "WOUK,NOAH",
+                "WROTH,THOMAS",
+                "WYMAN,KACEY",
+                "YU,RUPAL",
+                "ZENG,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "690",
+                  "specialityDesc": "Obstetrics & Gynecology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "880",
+                  "specialityDesc": "Physical Medicine & Rehabilitation"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "885",
+                  "specialityDesc": "Physical Therapist"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "40",
+                  "specialityDesc": "Advanced Practice Midwife"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1871697599",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-2000",
+            "MONDAY PM 0000-0000",
+            "TUESDAY AM 0800-1700",
+            "TUESDAY PM 0000-0000",
+            "WEDNESDAY AM 0800-1700",
+            "WEDNESDAY PM 0000-0000",
+            "THURSDAY AM 0800-2000",
+            "THURSDAY PM 0000-0000",
+            "FRIDAY AM 0800-1300",
+            "FRIDAY PM 0000-0000",
+            "SATURDAY AM 0800-1300",
+            "SATURDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "9195424991",
+          "dbaName": "MONCURE COMMUNITY HEALTH CENTER",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "7228 MONCURE PITTSBORO RD",
+            "addressLine2": null,
+            "city": "MONCURE",
+            "state": "NC",
+            "zipCode": "27559",
+            "countyCode": "019",
+            "countyName": "Chatham",
+            "latitude": 35.63143,
+            "longitude": -79.09619,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "9195424991",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10463468"
+        }
+      ],
+      "pageable": null,
+      "last": null,
+      "totalPages": null,
+      "totalElements": null,
+      "sort": null,
+      "first": null,
+      "numberOfElements": 2,
+      "size": 2,
+      "number": 0,
+      "totalRecords": 2,
+      "empty": false
+    }
+  },
+  "statusCode": 200
+}

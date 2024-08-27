@@ -1,0 +1,771 @@
+ {
+  "data": {
+    "status": 200,
+    "error": null,
+    "errorMessage": null,
+    "backend": "NCEB",
+    "data": {
+      "providers": [
+        {
+          "firstName": null,
+          "lastName": "GRANVILLE-VANCE DISTRICT HEALTH DEP",
+          "middleName": null,
+          "fullName": "GRANVILLE-VANCE DISTRICT HEALTH DEP",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "935",
+              "specialityDesc": "Primary Care"
+            },
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "240",
+              "specialityDesc": "Community Health Clinic"
+            },
+            {
+              "specialityCd": "980",
+              "specialityDesc": "Public Health; State or Local"
+            },
+            {
+              "specialityCd": "455",
+              "specialityDesc": "Health Service - Clinic"
+            },
+            {
+              "specialityCd": "940",
+              "specialityDesc": "Professional"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "975056699",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "CONSTANTINO,MARY",
+                "FAULK,MARGO",
+                "GRIGGS,MELANIE",
+                "GUTHRIE,SHAUNA",
+                "HUGHES,LINDA",
+                "SATTERWHITE,PEYTON"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "240",
+                  "specialityDesc": "Community Health Clinic"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41877139",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "CONSTANTINO,MARY",
+                "FAULK,MARGO",
+                "GRIGGS,MELANIE",
+                "GUTHRIE,SHAUNA",
+                "HUGHES,LINDA",
+                "SATTERWHITE,PEYTON"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "240",
+                  "specialityDesc": "Community Health Clinic"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "55478723",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "CONSTANTINO,MARY",
+                "FAULK,MARGO",
+                "GRIGGS,MELANIE",
+                "GUTHRIE,SHAUNA",
+                "HUGHES,LINDA",
+                "SATTERWHITE,PEYTON"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "240",
+                  "specialityDesc": "Community Health Clinic"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41877230",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "CONSTANTINO,MARY",
+                "FAULK,MARGO",
+                "GRIGGS,MELANIE",
+                "GUTHRIE,SHAUNA",
+                "HUGHES,LINDA",
+                "SATTERWHITE,PEYTON"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "240",
+                  "specialityDesc": "Community Health Clinic"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41877138",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "CONSTANTINO,MARY",
+                "FAULK,MARGO",
+                "GRIGGS,MELANIE",
+                "GUTHRIE,SHAUNA",
+                "HUGHES,LINDA",
+                "SATTERWHITE,PEYTON"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "240",
+                  "specialityDesc": "Community Health Clinic"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "848861730",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "CONSTANTINO,MARY",
+                "FAULK,MARGO",
+                "GRIGGS,MELANIE",
+                "GUTHRIE,SHAUNA",
+                "HUGHES,LINDA",
+                "SATTERWHITE,PEYTON"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "240",
+                  "specialityDesc": "Community Health Clinic"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "851242074",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "CONSTANTINO,MARY",
+                "FAULK,MARGO",
+                "GRIGGS,MELANIE",
+                "GUTHRIE,SHAUNA",
+                "HUGHES,LINDA",
+                "SATTERWHITE,PEYTON"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "240",
+                  "specialityDesc": "Community Health Clinic"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41877231",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "CONSTANTINO,MARY",
+                "FAULK,MARGO",
+                "GRIGGS,MELANIE",
+                "GUTHRIE,SHAUNA",
+                "HUGHES,LINDA",
+                "SATTERWHITE,PEYTON"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "240",
+                  "specialityDesc": "Community Health Clinic"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "993547450",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "CONSTANTINO,MARY",
+                "FAULK,MARGO",
+                "GRIGGS,MELANIE",
+                "GUTHRIE,SHAUNA",
+                "HUGHES,LINDA",
+                "SATTERWHITE,PEYTON"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "240",
+                  "specialityDesc": "Community Health Clinic"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41877232",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "CONSTANTINO,MARY",
+                "FAULK,MARGO",
+                "GRIGGS,MELANIE",
+                "GUTHRIE,SHAUNA",
+                "HUGHES,LINDA",
+                "SATTERWHITE,PEYTON"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "935",
+                  "specialityDesc": "Primary Care"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "240",
+                  "specialityDesc": "Community Health Clinic"
+                },
+                {
+                  "specialityCd": "980",
+                  "specialityDesc": "Public Health; State or Local"
+                },
+                {
+                  "specialityCd": "455",
+                  "specialityDesc": "Health Service - Clinic"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1184783409",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0830-1200",
+            "MONDAY PM 1300-1700",
+            "TUESDAY AM 0830-1200",
+            "TUESDAY PM 1300-1700",
+            "WEDNESDAY AM 0830-1200",
+            "WEDNESDAY PM 1300-1700",
+            "THURSDAY AM 0830-1200",
+            "THURSDAY PM 1300-1700",
+            "FRIDAY AM 0830-1200",
+            "FRIDAY PM 1300-1700"
+          ],
+          "afterHoursPhone": "9192309330",
+          "dbaName": null,
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "1032 COLLEGE ST",
+            "addressLine2": null,
+            "city": "OXFORD",
+            "state": "NC",
+            "zipCode": "27565",
+            "countyCode": "039",
+            "countyName": "Granville",
+            "latitude": 36.32581,
+            "longitude": -78.59466,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "9196932141",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10384369"
+        }
+      ],
+      "pageable": null,
+      "last": null,
+      "totalPages": null,
+      "totalElements": null,
+      "sort": null,
+      "first": null,
+      "numberOfElements": 1,
+      "size": 1,
+      "number": 0,
+      "totalRecords": 1,
+      "empty": false
+    }
+  },
+  "statusCode": 200
+}

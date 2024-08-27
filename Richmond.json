@@ -1,0 +1,2020 @@
+ {
+  "data": {
+    "status": 200,
+    "error": null,
+    "errorMessage": null,
+    "backend": "NCEB",
+    "data": {
+      "providers": [
+        {
+          "firstName": null,
+          "lastName": "SANDHILLS BEHAVIORAL CARE PLLC",
+          "middleName": null,
+          "fullName": "SANDHILLS BEHAVIORAL CARE PLLC",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "580",
+              "specialityDesc": "Marriage & Family Therapist"
+            },
+            {
+              "specialityCd": "1110",
+              "specialityDesc": "Adult Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "1250",
+              "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "940",
+              "specialityDesc": "Professional"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "600",
+              "specialityDesc": "Mental Health"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "974204751",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BATES,JACLYN",
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MCDONALD,SUSAN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NARIGON,STEPHEN",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42203566",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BATES,JACLYN",
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MCDONALD,SUSAN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NARIGON,STEPHEN",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "55849358",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BATES,JACLYN",
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MCDONALD,SUSAN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NARIGON,STEPHEN",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42203568",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BATES,JACLYN",
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MCDONALD,SUSAN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NARIGON,STEPHEN",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42203565",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BATES,JACLYN",
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MCDONALD,SUSAN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NARIGON,STEPHEN",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "974204795",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BATES,JACLYN",
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MCDONALD,SUSAN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NARIGON,STEPHEN",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1257112450",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BATES,JACLYN",
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MCDONALD,SUSAN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NARIGON,STEPHEN",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "102888955",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BATES,JACLYN",
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MCDONALD,SUSAN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NARIGON,STEPHEN",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "992627984",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BATES,JACLYN",
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MCDONALD,SUSAN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NARIGON,STEPHEN",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42203569",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BATES,JACLYN",
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MCDONALD,SUSAN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NARIGON,STEPHEN",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"Y\"}",
+          "npi": "1437653359",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1200",
+            "MONDAY PM 1300-1700",
+            "TUESDAY AM 0800-1200",
+            "TUESDAY PM 1300-1700",
+            "WEDNESDAY AM 0800-1200",
+            "WEDNESDAY PM 1300-1700",
+            "THURSDAY AM 0800-1200",
+            "THURSDAY PM 1300-1700",
+            "FRIDAY AM 0800-1200",
+            "FRIDAY PM 1300-1700"
+          ],
+          "afterHoursPhone": "9105629882",
+          "dbaName": "SANDHILLS BEST CARE",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "523 ROCKINGHAM RD",
+            "addressLine2": null,
+            "city": "ROCKINGHAM",
+            "state": "NC",
+            "zipCode": "28379",
+            "countyCode": "077",
+            "countyName": "Richmond",
+            "latitude": 34.937927,
+            "longitude": -79.767784,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "9105629882",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10532674"
+        },
+        {
+          "firstName": null,
+          "lastName": "SANDHILLS BEHAVIORAL CARE PLLC",
+          "middleName": null,
+          "fullName": "SANDHILLS BEHAVIORAL CARE PLLC",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [
+            "SANDHILLS BEHAVIORAL CARE"
+          ],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "580",
+              "specialityDesc": "Marriage & Family Therapist"
+            },
+            {
+              "specialityCd": "680",
+              "specialityDesc": "Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1110",
+              "specialityDesc": "Adult Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1250",
+              "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "940",
+              "specialityDesc": "Professional"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "600",
+              "specialityDesc": "Mental Health"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "974190146",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "PUCKETT,KIM",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "532118520",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "PUCKETT,KIM",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "92570346",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "PUCKETT,KIM",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42193503",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "PUCKETT,KIM",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42193502",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "PUCKETT,KIM",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "974190191",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "PUCKETT,KIM",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1257114390",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "PUCKETT,KIM",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "690261666",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "PUCKETT,KIM",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "992710058",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "PUCKETT,KIM",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "984749453",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "BLAKE,COURTNEY",
+                "BULLER,TAUCHA",
+                "CAMPION,MORGAN",
+                "CLINE,STEPHEN",
+                "CONLEY,CHRISTI",
+                "DURSTINE,TERESA",
+                "FAIN,STACEY",
+                "FRANCO,WHITNEY",
+                "FREEMAN,TERESA",
+                "FREEMAN,TONYA",
+                "GAINEY,TAMMIE",
+                "HARRINGTON,IZMEICA",
+                "HICKS,JENNIFER",
+                "HOWELL,ASHLEY",
+                "JONES,VALERIE",
+                "JOSEPH,ROSETTE",
+                "LOCKLEAR,MARTIN",
+                "MERTA,AUBRIE",
+                "METCALF,LIED",
+                "MILLEN,STEVEN",
+                "MURPHY,ROSEMARIE",
+                "NGUYEN,HA",
+                "O'DELL,BECKY",
+                "PUCKETT,KIM",
+                "SALE,JAIME",
+                "SIMMONS-FUTRELL,HEATHER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1437653359",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1200",
+            "MONDAY PM 1300-1700",
+            "TUESDAY AM 0800-1200",
+            "TUESDAY PM 1300-1700",
+            "WEDNESDAY AM 0800-1200",
+            "WEDNESDAY PM 1300-1700",
+            "THURSDAY AM 0800-1200",
+            "THURSDAY PM 1300-1700",
+            "FRIDAY AM 0800-1200",
+            "FRIDAY PM 1300-1700"
+          ],
+          "afterHoursPhone": "9105629882",
+          "dbaName": "SANDHILLS BEST CARE",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "523A ROCKINGHAM RD",
+            "addressLine2": null,
+            "city": "ROCKINGHAM",
+            "state": "NC",
+            "zipCode": "28379",
+            "countyCode": "077",
+            "countyName": "Richmond",
+            "latitude": 34.937927,
+            "longitude": -79.767784,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "9105629882",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10506919"
+        }
+      ],
+      "pageable": null,
+      "last": null,
+      "totalPages": null,
+      "totalElements": null,
+      "sort": null,
+      "first": null,
+      "numberOfElements": 2,
+      "size": 2,
+      "number": 0,
+      "totalRecords": 2,
+      "empty": false
+    }
+  },
+  "statusCode": 200
+}

@@ -1,0 +1,5531 @@
+ {
+  "data": {
+    "status": 200,
+    "error": null,
+    "errorMessage": null,
+    "backend": "NCEB",
+    "data": {
+      "providers": [
+        {
+          "firstName": null,
+          "lastName": "B & D INTEGRATED HEALTH SERVICES",
+          "middleName": null,
+          "fullName": "B & D INTEGRATED HEALTH SERVICES",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1245",
+              "specialityDesc": "Primary Care Nurse Practitioner"
+            },
+            {
+              "specialityCd": "160",
+              "specialityDesc": "Child & Adolescent Psychiatry"
+            },
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "1130",
+              "specialityDesc": "Community Health"
+            },
+            {
+              "specialityCd": "1250",
+              "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "650",
+              "specialityDesc": "Non-emergency Medical Transport (VAN)"
+            },
+            {
+              "specialityCd": "970",
+              "specialityDesc": "Psychologist"
+            },
+            {
+              "specialityCd": "245",
+              "specialityDesc": "Community/Behavioral Health"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "940",
+              "specialityDesc": "Professional"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "600",
+              "specialityDesc": "Mental Health"
+            },
+            {
+              "specialityCd": "965",
+              "specialityDesc": "Psychiatry"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "973856437",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADKINS,DANIELLE",
+                "Allen,America",
+                "BALL,NATALIE",
+                "BEST,CRYSTAL",
+                "CADLETT,TAKIARA",
+                "DANIELS,MONIQUE",
+                "DICKERSON,LATEESHA",
+                "DURANT,LAUREN",
+                "GODWIN,ROBIN",
+                "GRANDSTAFF,CHRISTINA",
+                "GREEN,AQUANDA",
+                "HARRISON,DIONNE",
+                "HINCKLE,TANYA",
+                "JEPHUNNEH,CHERUBIM",
+                "JONES,CHENISE",
+                "LEARY,SHAUNQUISHA",
+                "LOWERY,ETASHA",
+                "MACK,D'ANDRAEA",
+                "MALLAN,KAVITHAMANI",
+                "MAZYCK-WRIGHT,MARQUISE",
+                "MCCABE,KATIE",
+                "MITCHELL,ARIEL",
+                "MITCHELL,BERNARD",
+                "NELSON,DIANA",
+                "OATES PRYOR,LAURA",
+                "ROMEIS,JULIE",
+                "ROTHENBERG,KELSEY",
+                "SCARBOROUGH,THERESA",
+                "SHEIKH,SAADIA",
+                "SLIGH,CATHERINE",
+                "SMITH,PAMELA",
+                "SOLOMON,DIANN",
+                "THARWANI,HARESH",
+                "WAGUESPACK,LORRAINE",
+                "WRIGHT,KATHLEEN",
+                "YEARDE,ASHLEIGH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "650",
+                  "specialityDesc": "Non-emergency Medical Transport (VAN)"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42145557",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADKINS,DANIELLE",
+                "Allen,America",
+                "BALL,NATALIE",
+                "BEST,CRYSTAL",
+                "CADLETT,TAKIARA",
+                "DANIELS,MONIQUE",
+                "DICKERSON,LATEESHA",
+                "DURANT,LAUREN",
+                "GODWIN,ROBIN",
+                "GRANDSTAFF,CHRISTINA",
+                "GREEN,AQUANDA",
+                "HARRISON,DIONNE",
+                "HINCKLE,TANYA",
+                "JEPHUNNEH,CHERUBIM",
+                "JONES,CHENISE",
+                "LEARY,SHAUNQUISHA",
+                "LOWERY,ETASHA",
+                "MACK,D'ANDRAEA",
+                "MALLAN,KAVITHAMANI",
+                "MAZYCK-WRIGHT,MARQUISE",
+                "MCCABE,KATIE",
+                "MITCHELL,ARIEL",
+                "MITCHELL,BERNARD",
+                "NELSON,DIANA",
+                "OATES PRYOR,LAURA",
+                "ROMEIS,JULIE",
+                "ROTHENBERG,KELSEY",
+                "SCARBOROUGH,THERESA",
+                "SHEIKH,SAADIA",
+                "SLIGH,CATHERINE",
+                "SMITH,PAMELA",
+                "SOLOMON,DIANN",
+                "THARWANI,HARESH",
+                "WAGUESPACK,LORRAINE",
+                "WRIGHT,KATHLEEN",
+                "YEARDE,ASHLEIGH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "650",
+                  "specialityDesc": "Non-emergency Medical Transport (VAN)"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "55785390",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADKINS,DANIELLE",
+                "Allen,America",
+                "BALL,NATALIE",
+                "BEST,CRYSTAL",
+                "CADLETT,TAKIARA",
+                "DANIELS,MONIQUE",
+                "DICKERSON,LATEESHA",
+                "DURANT,LAUREN",
+                "GODWIN,ROBIN",
+                "GRANDSTAFF,CHRISTINA",
+                "GREEN,AQUANDA",
+                "HARRISON,DIONNE",
+                "HINCKLE,TANYA",
+                "JEPHUNNEH,CHERUBIM",
+                "JONES,CHENISE",
+                "LEARY,SHAUNQUISHA",
+                "LOWERY,ETASHA",
+                "MACK,D'ANDRAEA",
+                "MALLAN,KAVITHAMANI",
+                "MAZYCK-WRIGHT,MARQUISE",
+                "MCCABE,KATIE",
+                "MITCHELL,ARIEL",
+                "MITCHELL,BERNARD",
+                "NELSON,DIANA",
+                "OATES PRYOR,LAURA",
+                "ROMEIS,JULIE",
+                "ROTHENBERG,KELSEY",
+                "SCARBOROUGH,THERESA",
+                "SHEIKH,SAADIA",
+                "SLIGH,CATHERINE",
+                "SMITH,PAMELA",
+                "SOLOMON,DIANN",
+                "THARWANI,HARESH",
+                "WAGUESPACK,LORRAINE",
+                "WRIGHT,KATHLEEN",
+                "YEARDE,ASHLEIGH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "650",
+                  "specialityDesc": "Non-emergency Medical Transport (VAN)"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42145558",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADKINS,DANIELLE",
+                "Allen,America",
+                "BALL,NATALIE",
+                "BEST,CRYSTAL",
+                "CADLETT,TAKIARA",
+                "DANIELS,MONIQUE",
+                "DICKERSON,LATEESHA",
+                "DURANT,LAUREN",
+                "GODWIN,ROBIN",
+                "GRANDSTAFF,CHRISTINA",
+                "GREEN,AQUANDA",
+                "HARRISON,DIONNE",
+                "HINCKLE,TANYA",
+                "JEPHUNNEH,CHERUBIM",
+                "JONES,CHENISE",
+                "LEARY,SHAUNQUISHA",
+                "LOWERY,ETASHA",
+                "MACK,D'ANDRAEA",
+                "MALLAN,KAVITHAMANI",
+                "MAZYCK-WRIGHT,MARQUISE",
+                "MCCABE,KATIE",
+                "MITCHELL,ARIEL",
+                "MITCHELL,BERNARD",
+                "NELSON,DIANA",
+                "OATES PRYOR,LAURA",
+                "ROMEIS,JULIE",
+                "ROTHENBERG,KELSEY",
+                "SCARBOROUGH,THERESA",
+                "SHEIKH,SAADIA",
+                "SLIGH,CATHERINE",
+                "SMITH,PAMELA",
+                "SOLOMON,DIANN",
+                "THARWANI,HARESH",
+                "WAGUESPACK,LORRAINE",
+                "WRIGHT,KATHLEEN",
+                "YEARDE,ASHLEIGH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "650",
+                  "specialityDesc": "Non-emergency Medical Transport (VAN)"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42145556",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADKINS,DANIELLE",
+                "Allen,America",
+                "BALL,NATALIE",
+                "BEST,CRYSTAL",
+                "CADLETT,TAKIARA",
+                "DANIELS,MONIQUE",
+                "DICKERSON,LATEESHA",
+                "DURANT,LAUREN",
+                "GODWIN,ROBIN",
+                "GRANDSTAFF,CHRISTINA",
+                "GREEN,AQUANDA",
+                "HARRISON,DIONNE",
+                "HINCKLE,TANYA",
+                "JEPHUNNEH,CHERUBIM",
+                "JONES,CHENISE",
+                "LEARY,SHAUNQUISHA",
+                "LOWERY,ETASHA",
+                "MACK,D'ANDRAEA",
+                "MALLAN,KAVITHAMANI",
+                "MAZYCK-WRIGHT,MARQUISE",
+                "MCCABE,KATIE",
+                "MITCHELL,ARIEL",
+                "MITCHELL,BERNARD",
+                "NELSON,DIANA",
+                "OATES PRYOR,LAURA",
+                "ROMEIS,JULIE",
+                "ROTHENBERG,KELSEY",
+                "SCARBOROUGH,THERESA",
+                "SHEIKH,SAADIA",
+                "SLIGH,CATHERINE",
+                "SMITH,PAMELA",
+                "SOLOMON,DIANN",
+                "THARWANI,HARESH",
+                "WAGUESPACK,LORRAINE",
+                "WRIGHT,KATHLEEN",
+                "YEARDE,ASHLEIGH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "650",
+                  "specialityDesc": "Non-emergency Medical Transport (VAN)"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "2755160796",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADKINS,DANIELLE",
+                "Allen,America",
+                "BALL,NATALIE",
+                "BEST,CRYSTAL",
+                "CADLETT,TAKIARA",
+                "DANIELS,MONIQUE",
+                "DICKERSON,LATEESHA",
+                "DURANT,LAUREN",
+                "GODWIN,ROBIN",
+                "GRANDSTAFF,CHRISTINA",
+                "GREEN,AQUANDA",
+                "HARRISON,DIONNE",
+                "HINCKLE,TANYA",
+                "JEPHUNNEH,CHERUBIM",
+                "JONES,CHENISE",
+                "LEARY,SHAUNQUISHA",
+                "LOWERY,ETASHA",
+                "MACK,D'ANDRAEA",
+                "MALLAN,KAVITHAMANI",
+                "MAZYCK-WRIGHT,MARQUISE",
+                "MCCABE,KATIE",
+                "MITCHELL,ARIEL",
+                "MITCHELL,BERNARD",
+                "NELSON,DIANA",
+                "OATES PRYOR,LAURA",
+                "ROMEIS,JULIE",
+                "ROTHENBERG,KELSEY",
+                "SCARBOROUGH,THERESA",
+                "SHEIKH,SAADIA",
+                "SLIGH,CATHERINE",
+                "SMITH,PAMELA",
+                "SOLOMON,DIANN",
+                "THARWANI,HARESH",
+                "WAGUESPACK,LORRAINE",
+                "WRIGHT,KATHLEEN",
+                "YEARDE,ASHLEIGH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "650",
+                  "specialityDesc": "Non-emergency Medical Transport (VAN)"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1256765860",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADKINS,DANIELLE",
+                "Allen,America",
+                "BALL,NATALIE",
+                "BEST,CRYSTAL",
+                "CADLETT,TAKIARA",
+                "DANIELS,MONIQUE",
+                "DICKERSON,LATEESHA",
+                "DURANT,LAUREN",
+                "GODWIN,ROBIN",
+                "GRANDSTAFF,CHRISTINA",
+                "GREEN,AQUANDA",
+                "HARRISON,DIONNE",
+                "HINCKLE,TANYA",
+                "JEPHUNNEH,CHERUBIM",
+                "JONES,CHENISE",
+                "LEARY,SHAUNQUISHA",
+                "LOWERY,ETASHA",
+                "MACK,D'ANDRAEA",
+                "MALLAN,KAVITHAMANI",
+                "MAZYCK-WRIGHT,MARQUISE",
+                "MCCABE,KATIE",
+                "MITCHELL,ARIEL",
+                "MITCHELL,BERNARD",
+                "NELSON,DIANA",
+                "OATES PRYOR,LAURA",
+                "ROMEIS,JULIE",
+                "ROTHENBERG,KELSEY",
+                "SCARBOROUGH,THERESA",
+                "SHEIKH,SAADIA",
+                "SLIGH,CATHERINE",
+                "SMITH,PAMELA",
+                "SOLOMON,DIANN",
+                "THARWANI,HARESH",
+                "WAGUESPACK,LORRAINE",
+                "WRIGHT,KATHLEEN",
+                "YEARDE,ASHLEIGH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "650",
+                  "specialityDesc": "Non-emergency Medical Transport (VAN)"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "111786779",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADKINS,DANIELLE",
+                "Allen,America",
+                "BALL,NATALIE",
+                "BEST,CRYSTAL",
+                "CADLETT,TAKIARA",
+                "DANIELS,MONIQUE",
+                "DICKERSON,LATEESHA",
+                "DURANT,LAUREN",
+                "GODWIN,ROBIN",
+                "GRANDSTAFF,CHRISTINA",
+                "GREEN,AQUANDA",
+                "HARRISON,DIONNE",
+                "HINCKLE,TANYA",
+                "JEPHUNNEH,CHERUBIM",
+                "JONES,CHENISE",
+                "LEARY,SHAUNQUISHA",
+                "LOWERY,ETASHA",
+                "MACK,D'ANDRAEA",
+                "MALLAN,KAVITHAMANI",
+                "MAZYCK-WRIGHT,MARQUISE",
+                "MCCABE,KATIE",
+                "MITCHELL,ARIEL",
+                "MITCHELL,BERNARD",
+                "NELSON,DIANA",
+                "OATES PRYOR,LAURA",
+                "ROMEIS,JULIE",
+                "ROTHENBERG,KELSEY",
+                "SCARBOROUGH,THERESA",
+                "SHEIKH,SAADIA",
+                "SLIGH,CATHERINE",
+                "SMITH,PAMELA",
+                "SOLOMON,DIANN",
+                "THARWANI,HARESH",
+                "WAGUESPACK,LORRAINE",
+                "WRIGHT,KATHLEEN",
+                "YEARDE,ASHLEIGH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "650",
+                  "specialityDesc": "Non-emergency Medical Transport (VAN)"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "992268912",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADKINS,DANIELLE",
+                "Allen,America",
+                "BALL,NATALIE",
+                "BEST,CRYSTAL",
+                "CADLETT,TAKIARA",
+                "DANIELS,MONIQUE",
+                "DICKERSON,LATEESHA",
+                "DURANT,LAUREN",
+                "GODWIN,ROBIN",
+                "GRANDSTAFF,CHRISTINA",
+                "GREEN,AQUANDA",
+                "HARRISON,DIONNE",
+                "HINCKLE,TANYA",
+                "JEPHUNNEH,CHERUBIM",
+                "JONES,CHENISE",
+                "LEARY,SHAUNQUISHA",
+                "LOWERY,ETASHA",
+                "MACK,D'ANDRAEA",
+                "MALLAN,KAVITHAMANI",
+                "MAZYCK-WRIGHT,MARQUISE",
+                "MCCABE,KATIE",
+                "MITCHELL,ARIEL",
+                "MITCHELL,BERNARD",
+                "NELSON,DIANA",
+                "OATES PRYOR,LAURA",
+                "ROMEIS,JULIE",
+                "ROTHENBERG,KELSEY",
+                "SCARBOROUGH,THERESA",
+                "SHEIKH,SAADIA",
+                "SLIGH,CATHERINE",
+                "SMITH,PAMELA",
+                "SOLOMON,DIANN",
+                "THARWANI,HARESH",
+                "WAGUESPACK,LORRAINE",
+                "WRIGHT,KATHLEEN",
+                "YEARDE,ASHLEIGH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "650",
+                  "specialityDesc": "Non-emergency Medical Transport (VAN)"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42145559",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADKINS,DANIELLE",
+                "Allen,America",
+                "BALL,NATALIE",
+                "BEST,CRYSTAL",
+                "CADLETT,TAKIARA",
+                "DANIELS,MONIQUE",
+                "DICKERSON,LATEESHA",
+                "DURANT,LAUREN",
+                "GODWIN,ROBIN",
+                "GRANDSTAFF,CHRISTINA",
+                "GREEN,AQUANDA",
+                "HARRISON,DIONNE",
+                "HINCKLE,TANYA",
+                "JEPHUNNEH,CHERUBIM",
+                "JONES,CHENISE",
+                "LEARY,SHAUNQUISHA",
+                "LOWERY,ETASHA",
+                "MACK,D'ANDRAEA",
+                "MALLAN,KAVITHAMANI",
+                "MAZYCK-WRIGHT,MARQUISE",
+                "MCCABE,KATIE",
+                "MITCHELL,ARIEL",
+                "MITCHELL,BERNARD",
+                "NELSON,DIANA",
+                "OATES PRYOR,LAURA",
+                "ROMEIS,JULIE",
+                "ROTHENBERG,KELSEY",
+                "SCARBOROUGH,THERESA",
+                "SHEIKH,SAADIA",
+                "SLIGH,CATHERINE",
+                "SMITH,PAMELA",
+                "SOLOMON,DIANN",
+                "THARWANI,HARESH",
+                "WAGUESPACK,LORRAINE",
+                "WRIGHT,KATHLEEN",
+                "YEARDE,ASHLEIGH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1130",
+                  "specialityDesc": "Community Health"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "650",
+                  "specialityDesc": "Non-emergency Medical Transport (VAN)"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"Y\"}",
+          "npi": "1689029605",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1700",
+            "MONDAY PM 0000-0000",
+            "TUESDAY AM 0800-1700",
+            "TUESDAY PM 0000-0000",
+            "WEDNESDAY AM 0800-1700",
+            "WEDNESDAY PM 0000-0000",
+            "THURSDAY AM 0800-2000",
+            "THURSDAY PM 0000-0000",
+            "FRIDAY AM 0800-1900",
+            "FRIDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "9192250636",
+          "dbaName": null,
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "249 E NC HIGHWAY 54",
+            "addressLine2": "STE 320",
+            "city": "DURHAM",
+            "state": "NC",
+            "zipCode": "27713",
+            "countyCode": "032",
+            "countyName": "Durham",
+            "latitude": 35.910583,
+            "longitude": -78.92942,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "9199073334",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10467690"
+        },
+        {
+          "firstName": null,
+          "lastName": "LINCOLN COMMUNITY HEALTH CENTER INC",
+          "middleName": null,
+          "fullName": "LINCOLN COMMUNITY HEALTH CENTER INC",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "Arabic",
+              "languageTypeCd": "AR"
+            },
+            {
+              "languageDesc": "Cambodian",
+              "languageTypeCd": "CA"
+            },
+            {
+              "languageDesc": "Chinese",
+              "languageTypeCd": "CH"
+            },
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "French Creole",
+              "languageTypeCd": "FC"
+            },
+            {
+              "languageDesc": "French",
+              "languageTypeCd": "FR"
+            },
+            {
+              "languageDesc": "German",
+              "languageTypeCd": "GE"
+            },
+            {
+              "languageDesc": "Greek",
+              "languageTypeCd": "GR"
+            },
+            {
+              "languageDesc": "Hindi",
+              "languageTypeCd": "HI"
+            },
+            {
+              "languageDesc": "Hmong",
+              "languageTypeCd": "HM"
+            },
+            {
+              "languageDesc": "Italian",
+              "languageTypeCd": "IT"
+            },
+            {
+              "languageDesc": "Japanese",
+              "languageTypeCd": "JA"
+            },
+            {
+              "languageDesc": "Korean",
+              "languageTypeCd": "KO"
+            },
+            {
+              "languageDesc": "Laotian",
+              "languageTypeCd": "LA"
+            },
+            {
+              "languageDesc": "Other",
+              "languageTypeCd": "OT"
+            },
+            {
+              "languageDesc": "Persian",
+              "languageTypeCd": "PE"
+            },
+            {
+              "languageDesc": "Portuguese",
+              "languageTypeCd": "PG"
+            },
+            {
+              "languageDesc": "Russian",
+              "languageTypeCd": "RU"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            },
+            {
+              "languageDesc": "Thai",
+              "languageTypeCd": "TH"
+            },
+            {
+              "languageDesc": "Vietnamese",
+              "languageTypeCd": "VI"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "470",
+              "specialityDesc": "Hematology"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "1185",
+              "specialityDesc": "Pediatrics Nurse Practitioner"
+            },
+            {
+              "specialityCd": "770",
+              "specialityDesc": "Pediatric Dentistry"
+            },
+            {
+              "specialityCd": "550",
+              "specialityDesc": "Infectious Disease"
+            },
+            {
+              "specialityCd": "430",
+              "specialityDesc": "Geriatric Medicine"
+            },
+            {
+              "specialityCd": "715",
+              "specialityDesc": "Optometrist"
+            },
+            {
+              "specialityCd": "10",
+              "specialityDesc": "Addiction Medicine (Internal Medicine)"
+            },
+            {
+              "specialityCd": "15",
+              "specialityDesc": "Addiction Medicine"
+            },
+            {
+              "specialityCd": "680",
+              "specialityDesc": "Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1110",
+              "specialityDesc": "Adult Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "560",
+              "specialityDesc": "Internal Medicine"
+            },
+            {
+              "specialityCd": "285",
+              "specialityDesc": "General Practice"
+            },
+            {
+              "specialityCd": "400",
+              "specialityDesc": "Federally Qualified Health Center (FQHC)"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "600",
+              "specialityDesc": "Mental Health"
+            },
+            {
+              "specialityCd": "325",
+              "specialityDesc": "Dermatology"
+            },
+            {
+              "specialityCd": "425",
+              "specialityDesc": "General Practice"
+            },
+            {
+              "specialityCd": "865",
+              "specialityDesc": "Pediatrics"
+            },
+            {
+              "specialityCd": "1435",
+              "specialityDesc": "Hospitalist"
+            },
+            {
+              "specialityCd": "965",
+              "specialityDesc": "Psychiatry"
+            },
+            {
+              "specialityCd": "705",
+              "specialityDesc": "Ophthamology"
+            },
+            {
+              "specialityCd": "1050",
+              "specialityDesc": "Speech-Language Pathologist"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "941776805",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ACEVEDO,VERONICA",
+                "ADAMS,LOGAN",
+                "ARONIN,ELIZABETH",
+                "BAJWA,JAMAL",
+                "BANKS,FAYE",
+                "BARBER,LEO",
+                "BEJARANO OVIEDO,GIOVANNI",
+                "BELL-RUSHAKOFF,SAMANTHA",
+                "BETHEA,KIERSTEN",
+                "BIOLA,HOLLY",
+                "BOON,HEIDI",
+                "BRAME,MEGAN",
+                "BRAMSON,BRIAN",
+                "BRAYBOY,JACOB",
+                "BRILEY,MEAGAN",
+                "BRYANT,ROXANNE",
+                "BUSCHER,APRIL",
+                "Bullock,Brittany",
+                "CALLEJO-BLACK,PETER",
+                "CARO,KATHERINE",
+                "CARTER,JAMIE",
+                "CHANDRAN,ANJANA",
+                "CONNOLLY,GILLIAN",
+                "CORRAO,MARIA",
+                "COTTINGHAM,SARAH",
+                "CRAWLEY,MARITZA",
+                "CREWS-LLOYD,ASHLEY",
+                "CROWDER,JANE",
+                "CURTIS,CAITLIN",
+                "DAVIS,DIANE",
+                "DEROUIN,ANNE",
+                "DEW,RACHEL",
+                "DI BONA,ROBIN",
+                "EISENSON,HOWARD",
+                "ESMAILI,BAHAR",
+                "FEIGAL,JACOB",
+                "FELTON,SHANDA",
+                "FERRY,EVAN",
+                "FLORES,ANDREA",
+                "FORD,AMY",
+                "FORD,SHANNON",
+                "GAMBLE,JULIA",
+                "GEST,KATHLEEN",
+                "GOODING,ZANE",
+                "GRANDA,KAITLYN",
+                "GREEN,HEIDI",
+                "GURNEY,BRIAN",
+                "HARRIS,BRITTANY",
+                "HELMKE,NICOLE",
+                "HOLLAND,MICHAEL",
+                "HORGAN,EDMUND",
+                "HOWELL,ROSE",
+                "ITO,KRISTIN",
+                "JACOBS,CAROLYN",
+                "JIBOWU,DAMILOLA",
+                "JORDAN,MOLLY",
+                "KARKI,PRATIKSHYA",
+                "KEELING,MARION",
+                "KHANDELWAL,ARCHANA",
+                "KILGORE,RUHIYYIH",
+                "KIM FREEMAN,CHRISTINE",
+                "LAGOO,JANAKA",
+                "LANCASTER,JOSHUA",
+                "LANGHANS,ERIC",
+                "LIANG,ZHONGFEI",
+                "LIPSCOMB,SARAH",
+                "MARTINEZ,STEPHANIE",
+                "MARTINEZ-BIANCHI,VIVIANA",
+                "MASTEN,BETTY",
+                "MATTHEWS,KATHLEEN",
+                "MAYO,CARRIE",
+                "MAZZARELLI,SARA",
+                "MCCOLLERS,CHARITA",
+                "MCINTOSH VICK,OVETA",
+                "MELTON,CATHLEEN",
+                "MOORE,NICOLE",
+                "MOSU,VIRGIL",
+                "MUIR,KELLY",
+                "Mutima,Nekoba",
+                "NEUMARK,ESZTER",
+                "NOYOLA,YESENIA",
+                "NUAMAH,ISAAC",
+                "OKORO,ROSEDELIA",
+                "ONABANJO,BABAFEMI",
+                "OWUSU,DEBORAH",
+                "PADILLA,BLANCA",
+                "PATEL,MILANI",
+                "PATEL,SEEMA",
+                "PAYE,LAURA",
+                "PLAKSIN,JOSEPH",
+                "POLLY,ALISON",
+                "QUINONEZ,ROCIO",
+                "RAO,CAROLINE",
+                "RAY,VERONICA",
+                "RICHARDSON,JUSTIN",
+                "RIDER,JESSICA",
+                "ROSOFF,PHILIP",
+                "SANCHEZ,MARA",
+                "SCHWARZ,CARLYN",
+                "SHEKAR,SHRUTHI",
+                "SHERMAN,PAULA",
+                "SIDDIQUI,WAJIHA",
+                "SILBERSTEIN,KRISTINA",
+                "TAYLOR,DESTRY",
+                "TOUNSEL,DANIEL",
+                "TRIVEDI,VAIDEHI",
+                "VANDIS,ANNA",
+                "WALHART,TARA",
+                "WEIGLE,NANCY",
+                "WILLIAMS,JOHN",
+                "WILLIAMS,RHONDA",
+                "WILSON,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "770",
+                  "specialityDesc": "Pediatric Dentistry"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "715",
+                  "specialityDesc": "Optometrist"
+                },
+                {
+                  "specialityCd": "10",
+                  "specialityDesc": "Addiction Medicine (Internal Medicine)"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "705",
+                  "specialityDesc": "Ophthamology"
+                },
+                {
+                  "specialityCd": "1050",
+                  "specialityDesc": "Speech-Language Pathologist"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41873946",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ACEVEDO,VERONICA",
+                "ADAMS,LOGAN",
+                "ARONIN,ELIZABETH",
+                "BAJWA,JAMAL",
+                "BANKS,FAYE",
+                "BARBER,LEO",
+                "BEJARANO OVIEDO,GIOVANNI",
+                "BELL-RUSHAKOFF,SAMANTHA",
+                "BETHEA,KIERSTEN",
+                "BIOLA,HOLLY",
+                "BOON,HEIDI",
+                "BRAME,MEGAN",
+                "BRAMSON,BRIAN",
+                "BRAYBOY,JACOB",
+                "BRILEY,MEAGAN",
+                "BRYANT,ROXANNE",
+                "BUSCHER,APRIL",
+                "Bullock,Brittany",
+                "CALLEJO-BLACK,PETER",
+                "CARO,KATHERINE",
+                "CARTER,JAMIE",
+                "CHANDRAN,ANJANA",
+                "CONNOLLY,GILLIAN",
+                "CORRAO,MARIA",
+                "COTTINGHAM,SARAH",
+                "CRAWLEY,MARITZA",
+                "CREWS-LLOYD,ASHLEY",
+                "CROWDER,JANE",
+                "CURTIS,CAITLIN",
+                "DAVIS,DIANE",
+                "DEROUIN,ANNE",
+                "DEW,RACHEL",
+                "DI BONA,ROBIN",
+                "EISENSON,HOWARD",
+                "ESMAILI,BAHAR",
+                "FEIGAL,JACOB",
+                "FELTON,SHANDA",
+                "FERRY,EVAN",
+                "FLORES,ANDREA",
+                "FORD,AMY",
+                "FORD,SHANNON",
+                "GAMBLE,JULIA",
+                "GEST,KATHLEEN",
+                "GOODING,ZANE",
+                "GRANDA,KAITLYN",
+                "GREEN,HEIDI",
+                "GURNEY,BRIAN",
+                "HARRIS,BRITTANY",
+                "HELMKE,NICOLE",
+                "HOLLAND,MICHAEL",
+                "HORGAN,EDMUND",
+                "HOWELL,ROSE",
+                "ITO,KRISTIN",
+                "JACOBS,CAROLYN",
+                "JIBOWU,DAMILOLA",
+                "JORDAN,MOLLY",
+                "KARKI,PRATIKSHYA",
+                "KEELING,MARION",
+                "KHANDELWAL,ARCHANA",
+                "KILGORE,RUHIYYIH",
+                "KIM FREEMAN,CHRISTINE",
+                "LAGOO,JANAKA",
+                "LANCASTER,JOSHUA",
+                "LANGHANS,ERIC",
+                "LIANG,ZHONGFEI",
+                "LIPSCOMB,SARAH",
+                "MARTINEZ,STEPHANIE",
+                "MARTINEZ-BIANCHI,VIVIANA",
+                "MASTEN,BETTY",
+                "MATTHEWS,KATHLEEN",
+                "MAYO,CARRIE",
+                "MAZZARELLI,SARA",
+                "MCCOLLERS,CHARITA",
+                "MCINTOSH VICK,OVETA",
+                "MELTON,CATHLEEN",
+                "MOORE,NICOLE",
+                "MOSU,VIRGIL",
+                "MUIR,KELLY",
+                "Mutima,Nekoba",
+                "NEUMARK,ESZTER",
+                "NOYOLA,YESENIA",
+                "NUAMAH,ISAAC",
+                "OKORO,ROSEDELIA",
+                "ONABANJO,BABAFEMI",
+                "OWUSU,DEBORAH",
+                "PADILLA,BLANCA",
+                "PATEL,MILANI",
+                "PATEL,SEEMA",
+                "PAYE,LAURA",
+                "PLAKSIN,JOSEPH",
+                "POLLY,ALISON",
+                "QUINONEZ,ROCIO",
+                "RAO,CAROLINE",
+                "RAY,VERONICA",
+                "RICHARDSON,JUSTIN",
+                "RIDER,JESSICA",
+                "ROSOFF,PHILIP",
+                "SANCHEZ,MARA",
+                "SCHWARZ,CARLYN",
+                "SHEKAR,SHRUTHI",
+                "SHERMAN,PAULA",
+                "SIDDIQUI,WAJIHA",
+                "SILBERSTEIN,KRISTINA",
+                "TAYLOR,DESTRY",
+                "TOUNSEL,DANIEL",
+                "TRIVEDI,VAIDEHI",
+                "VANDIS,ANNA",
+                "WALHART,TARA",
+                "WEIGLE,NANCY",
+                "WILLIAMS,JOHN",
+                "WILLIAMS,RHONDA",
+                "WILSON,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "770",
+                  "specialityDesc": "Pediatric Dentistry"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "715",
+                  "specialityDesc": "Optometrist"
+                },
+                {
+                  "specialityCd": "10",
+                  "specialityDesc": "Addiction Medicine (Internal Medicine)"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "705",
+                  "specialityDesc": "Ophthamology"
+                },
+                {
+                  "specialityCd": "1050",
+                  "specialityDesc": "Speech-Language Pathologist"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "55476527",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ACEVEDO,VERONICA",
+                "ADAMS,LOGAN",
+                "ARONIN,ELIZABETH",
+                "BAJWA,JAMAL",
+                "BANKS,FAYE",
+                "BARBER,LEO",
+                "BEJARANO OVIEDO,GIOVANNI",
+                "BELL-RUSHAKOFF,SAMANTHA",
+                "BETHEA,KIERSTEN",
+                "BIOLA,HOLLY",
+                "BOON,HEIDI",
+                "BRAME,MEGAN",
+                "BRAMSON,BRIAN",
+                "BRAYBOY,JACOB",
+                "BRILEY,MEAGAN",
+                "BRYANT,ROXANNE",
+                "BUSCHER,APRIL",
+                "Bullock,Brittany",
+                "CALLEJO-BLACK,PETER",
+                "CARO,KATHERINE",
+                "CARTER,JAMIE",
+                "CHANDRAN,ANJANA",
+                "CONNOLLY,GILLIAN",
+                "CORRAO,MARIA",
+                "COTTINGHAM,SARAH",
+                "CRAWLEY,MARITZA",
+                "CREWS-LLOYD,ASHLEY",
+                "CROWDER,JANE",
+                "CURTIS,CAITLIN",
+                "DAVIS,DIANE",
+                "DEROUIN,ANNE",
+                "DEW,RACHEL",
+                "DI BONA,ROBIN",
+                "EISENSON,HOWARD",
+                "ESMAILI,BAHAR",
+                "FEIGAL,JACOB",
+                "FELTON,SHANDA",
+                "FERRY,EVAN",
+                "FLORES,ANDREA",
+                "FORD,AMY",
+                "FORD,SHANNON",
+                "GAMBLE,JULIA",
+                "GEST,KATHLEEN",
+                "GOODING,ZANE",
+                "GRANDA,KAITLYN",
+                "GREEN,HEIDI",
+                "GURNEY,BRIAN",
+                "HARRIS,BRITTANY",
+                "HELMKE,NICOLE",
+                "HOLLAND,MICHAEL",
+                "HORGAN,EDMUND",
+                "HOWELL,ROSE",
+                "ITO,KRISTIN",
+                "JACOBS,CAROLYN",
+                "JIBOWU,DAMILOLA",
+                "JORDAN,MOLLY",
+                "KARKI,PRATIKSHYA",
+                "KEELING,MARION",
+                "KHANDELWAL,ARCHANA",
+                "KILGORE,RUHIYYIH",
+                "KIM FREEMAN,CHRISTINE",
+                "LAGOO,JANAKA",
+                "LANCASTER,JOSHUA",
+                "LANGHANS,ERIC",
+                "LIANG,ZHONGFEI",
+                "LIPSCOMB,SARAH",
+                "MARTINEZ,STEPHANIE",
+                "MARTINEZ-BIANCHI,VIVIANA",
+                "MASTEN,BETTY",
+                "MATTHEWS,KATHLEEN",
+                "MAYO,CARRIE",
+                "MAZZARELLI,SARA",
+                "MCCOLLERS,CHARITA",
+                "MCINTOSH VICK,OVETA",
+                "MELTON,CATHLEEN",
+                "MOORE,NICOLE",
+                "MOSU,VIRGIL",
+                "MUIR,KELLY",
+                "Mutima,Nekoba",
+                "NEUMARK,ESZTER",
+                "NOYOLA,YESENIA",
+                "NUAMAH,ISAAC",
+                "OKORO,ROSEDELIA",
+                "ONABANJO,BABAFEMI",
+                "OWUSU,DEBORAH",
+                "PADILLA,BLANCA",
+                "PATEL,MILANI",
+                "PATEL,SEEMA",
+                "PAYE,LAURA",
+                "PLAKSIN,JOSEPH",
+                "POLLY,ALISON",
+                "QUINONEZ,ROCIO",
+                "RAO,CAROLINE",
+                "RAY,VERONICA",
+                "RICHARDSON,JUSTIN",
+                "RIDER,JESSICA",
+                "ROSOFF,PHILIP",
+                "SANCHEZ,MARA",
+                "SCHWARZ,CARLYN",
+                "SHEKAR,SHRUTHI",
+                "SHERMAN,PAULA",
+                "SIDDIQUI,WAJIHA",
+                "SILBERSTEIN,KRISTINA",
+                "TAYLOR,DESTRY",
+                "TOUNSEL,DANIEL",
+                "TRIVEDI,VAIDEHI",
+                "VANDIS,ANNA",
+                "WALHART,TARA",
+                "WEIGLE,NANCY",
+                "WILLIAMS,JOHN",
+                "WILLIAMS,RHONDA",
+                "WILSON,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "770",
+                  "specialityDesc": "Pediatric Dentistry"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "715",
+                  "specialityDesc": "Optometrist"
+                },
+                {
+                  "specialityCd": "10",
+                  "specialityDesc": "Addiction Medicine (Internal Medicine)"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "705",
+                  "specialityDesc": "Ophthamology"
+                },
+                {
+                  "specialityCd": "1050",
+                  "specialityDesc": "Speech-Language Pathologist"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41873947",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ACEVEDO,VERONICA",
+                "ADAMS,LOGAN",
+                "ARONIN,ELIZABETH",
+                "BAJWA,JAMAL",
+                "BANKS,FAYE",
+                "BARBER,LEO",
+                "BEJARANO OVIEDO,GIOVANNI",
+                "BELL-RUSHAKOFF,SAMANTHA",
+                "BETHEA,KIERSTEN",
+                "BIOLA,HOLLY",
+                "BOON,HEIDI",
+                "BRAME,MEGAN",
+                "BRAMSON,BRIAN",
+                "BRAYBOY,JACOB",
+                "BRILEY,MEAGAN",
+                "BRYANT,ROXANNE",
+                "BUSCHER,APRIL",
+                "Bullock,Brittany",
+                "CALLEJO-BLACK,PETER",
+                "CARO,KATHERINE",
+                "CARTER,JAMIE",
+                "CHANDRAN,ANJANA",
+                "CONNOLLY,GILLIAN",
+                "CORRAO,MARIA",
+                "COTTINGHAM,SARAH",
+                "CRAWLEY,MARITZA",
+                "CREWS-LLOYD,ASHLEY",
+                "CROWDER,JANE",
+                "CURTIS,CAITLIN",
+                "DAVIS,DIANE",
+                "DEROUIN,ANNE",
+                "DEW,RACHEL",
+                "DI BONA,ROBIN",
+                "EISENSON,HOWARD",
+                "ESMAILI,BAHAR",
+                "FEIGAL,JACOB",
+                "FELTON,SHANDA",
+                "FERRY,EVAN",
+                "FLORES,ANDREA",
+                "FORD,AMY",
+                "FORD,SHANNON",
+                "GAMBLE,JULIA",
+                "GEST,KATHLEEN",
+                "GOODING,ZANE",
+                "GRANDA,KAITLYN",
+                "GREEN,HEIDI",
+                "GURNEY,BRIAN",
+                "HARRIS,BRITTANY",
+                "HELMKE,NICOLE",
+                "HOLLAND,MICHAEL",
+                "HORGAN,EDMUND",
+                "HOWELL,ROSE",
+                "ITO,KRISTIN",
+                "JACOBS,CAROLYN",
+                "JIBOWU,DAMILOLA",
+                "JORDAN,MOLLY",
+                "KARKI,PRATIKSHYA",
+                "KEELING,MARION",
+                "KHANDELWAL,ARCHANA",
+                "KILGORE,RUHIYYIH",
+                "KIM FREEMAN,CHRISTINE",
+                "LAGOO,JANAKA",
+                "LANCASTER,JOSHUA",
+                "LANGHANS,ERIC",
+                "LIANG,ZHONGFEI",
+                "LIPSCOMB,SARAH",
+                "MARTINEZ,STEPHANIE",
+                "MARTINEZ-BIANCHI,VIVIANA",
+                "MASTEN,BETTY",
+                "MATTHEWS,KATHLEEN",
+                "MAYO,CARRIE",
+                "MAZZARELLI,SARA",
+                "MCCOLLERS,CHARITA",
+                "MCINTOSH VICK,OVETA",
+                "MELTON,CATHLEEN",
+                "MOORE,NICOLE",
+                "MOSU,VIRGIL",
+                "MUIR,KELLY",
+                "Mutima,Nekoba",
+                "NEUMARK,ESZTER",
+                "NOYOLA,YESENIA",
+                "NUAMAH,ISAAC",
+                "OKORO,ROSEDELIA",
+                "ONABANJO,BABAFEMI",
+                "OWUSU,DEBORAH",
+                "PADILLA,BLANCA",
+                "PATEL,MILANI",
+                "PATEL,SEEMA",
+                "PAYE,LAURA",
+                "PLAKSIN,JOSEPH",
+                "POLLY,ALISON",
+                "QUINONEZ,ROCIO",
+                "RAO,CAROLINE",
+                "RAY,VERONICA",
+                "RICHARDSON,JUSTIN",
+                "RIDER,JESSICA",
+                "ROSOFF,PHILIP",
+                "SANCHEZ,MARA",
+                "SCHWARZ,CARLYN",
+                "SHEKAR,SHRUTHI",
+                "SHERMAN,PAULA",
+                "SIDDIQUI,WAJIHA",
+                "SILBERSTEIN,KRISTINA",
+                "TAYLOR,DESTRY",
+                "TOUNSEL,DANIEL",
+                "TRIVEDI,VAIDEHI",
+                "VANDIS,ANNA",
+                "WALHART,TARA",
+                "WEIGLE,NANCY",
+                "WILLIAMS,JOHN",
+                "WILLIAMS,RHONDA",
+                "WILSON,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "770",
+                  "specialityDesc": "Pediatric Dentistry"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "715",
+                  "specialityDesc": "Optometrist"
+                },
+                {
+                  "specialityCd": "10",
+                  "specialityDesc": "Addiction Medicine (Internal Medicine)"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "705",
+                  "specialityDesc": "Ophthamology"
+                },
+                {
+                  "specialityCd": "1050",
+                  "specialityDesc": "Speech-Language Pathologist"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41873945",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ACEVEDO,VERONICA",
+                "ADAMS,LOGAN",
+                "ARONIN,ELIZABETH",
+                "BAJWA,JAMAL",
+                "BANKS,FAYE",
+                "BARBER,LEO",
+                "BEJARANO OVIEDO,GIOVANNI",
+                "BELL-RUSHAKOFF,SAMANTHA",
+                "BETHEA,KIERSTEN",
+                "BIOLA,HOLLY",
+                "BOON,HEIDI",
+                "BRAME,MEGAN",
+                "BRAMSON,BRIAN",
+                "BRAYBOY,JACOB",
+                "BRILEY,MEAGAN",
+                "BRYANT,ROXANNE",
+                "BUSCHER,APRIL",
+                "Bullock,Brittany",
+                "CALLEJO-BLACK,PETER",
+                "CARO,KATHERINE",
+                "CARTER,JAMIE",
+                "CHANDRAN,ANJANA",
+                "CONNOLLY,GILLIAN",
+                "CORRAO,MARIA",
+                "COTTINGHAM,SARAH",
+                "CRAWLEY,MARITZA",
+                "CREWS-LLOYD,ASHLEY",
+                "CROWDER,JANE",
+                "CURTIS,CAITLIN",
+                "DAVIS,DIANE",
+                "DEROUIN,ANNE",
+                "DEW,RACHEL",
+                "DI BONA,ROBIN",
+                "EISENSON,HOWARD",
+                "ESMAILI,BAHAR",
+                "FEIGAL,JACOB",
+                "FELTON,SHANDA",
+                "FERRY,EVAN",
+                "FLORES,ANDREA",
+                "FORD,AMY",
+                "FORD,SHANNON",
+                "GAMBLE,JULIA",
+                "GEST,KATHLEEN",
+                "GOODING,ZANE",
+                "GRANDA,KAITLYN",
+                "GREEN,HEIDI",
+                "GURNEY,BRIAN",
+                "HARRIS,BRITTANY",
+                "HELMKE,NICOLE",
+                "HOLLAND,MICHAEL",
+                "HORGAN,EDMUND",
+                "HOWELL,ROSE",
+                "ITO,KRISTIN",
+                "JACOBS,CAROLYN",
+                "JIBOWU,DAMILOLA",
+                "JORDAN,MOLLY",
+                "KARKI,PRATIKSHYA",
+                "KEELING,MARION",
+                "KHANDELWAL,ARCHANA",
+                "KILGORE,RUHIYYIH",
+                "KIM FREEMAN,CHRISTINE",
+                "LAGOO,JANAKA",
+                "LANCASTER,JOSHUA",
+                "LANGHANS,ERIC",
+                "LIANG,ZHONGFEI",
+                "LIPSCOMB,SARAH",
+                "MARTINEZ,STEPHANIE",
+                "MARTINEZ-BIANCHI,VIVIANA",
+                "MASTEN,BETTY",
+                "MATTHEWS,KATHLEEN",
+                "MAYO,CARRIE",
+                "MAZZARELLI,SARA",
+                "MCCOLLERS,CHARITA",
+                "MCINTOSH VICK,OVETA",
+                "MELTON,CATHLEEN",
+                "MOORE,NICOLE",
+                "MOSU,VIRGIL",
+                "MUIR,KELLY",
+                "Mutima,Nekoba",
+                "NEUMARK,ESZTER",
+                "NOYOLA,YESENIA",
+                "NUAMAH,ISAAC",
+                "OKORO,ROSEDELIA",
+                "ONABANJO,BABAFEMI",
+                "OWUSU,DEBORAH",
+                "PADILLA,BLANCA",
+                "PATEL,MILANI",
+                "PATEL,SEEMA",
+                "PAYE,LAURA",
+                "PLAKSIN,JOSEPH",
+                "POLLY,ALISON",
+                "QUINONEZ,ROCIO",
+                "RAO,CAROLINE",
+                "RAY,VERONICA",
+                "RICHARDSON,JUSTIN",
+                "RIDER,JESSICA",
+                "ROSOFF,PHILIP",
+                "SANCHEZ,MARA",
+                "SCHWARZ,CARLYN",
+                "SHEKAR,SHRUTHI",
+                "SHERMAN,PAULA",
+                "SIDDIQUI,WAJIHA",
+                "SILBERSTEIN,KRISTINA",
+                "TAYLOR,DESTRY",
+                "TOUNSEL,DANIEL",
+                "TRIVEDI,VAIDEHI",
+                "VANDIS,ANNA",
+                "WALHART,TARA",
+                "WEIGLE,NANCY",
+                "WILLIAMS,JOHN",
+                "WILLIAMS,RHONDA",
+                "WILSON,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "770",
+                  "specialityDesc": "Pediatric Dentistry"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "715",
+                  "specialityDesc": "Optometrist"
+                },
+                {
+                  "specialityCd": "10",
+                  "specialityDesc": "Addiction Medicine (Internal Medicine)"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "705",
+                  "specialityDesc": "Ophthamology"
+                },
+                {
+                  "specialityCd": "1050",
+                  "specialityDesc": "Speech-Language Pathologist"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41873948",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ACEVEDO,VERONICA",
+                "ADAMS,LOGAN",
+                "ARONIN,ELIZABETH",
+                "BAJWA,JAMAL",
+                "BANKS,FAYE",
+                "BARBER,LEO",
+                "BEJARANO OVIEDO,GIOVANNI",
+                "BELL-RUSHAKOFF,SAMANTHA",
+                "BETHEA,KIERSTEN",
+                "BIOLA,HOLLY",
+                "BOON,HEIDI",
+                "BRAME,MEGAN",
+                "BRAMSON,BRIAN",
+                "BRAYBOY,JACOB",
+                "BRILEY,MEAGAN",
+                "BRYANT,ROXANNE",
+                "BUSCHER,APRIL",
+                "Bullock,Brittany",
+                "CALLEJO-BLACK,PETER",
+                "CARO,KATHERINE",
+                "CARTER,JAMIE",
+                "CHANDRAN,ANJANA",
+                "CONNOLLY,GILLIAN",
+                "CORRAO,MARIA",
+                "COTTINGHAM,SARAH",
+                "CRAWLEY,MARITZA",
+                "CREWS-LLOYD,ASHLEY",
+                "CROWDER,JANE",
+                "CURTIS,CAITLIN",
+                "DAVIS,DIANE",
+                "DEROUIN,ANNE",
+                "DEW,RACHEL",
+                "DI BONA,ROBIN",
+                "EISENSON,HOWARD",
+                "ESMAILI,BAHAR",
+                "FEIGAL,JACOB",
+                "FELTON,SHANDA",
+                "FERRY,EVAN",
+                "FLORES,ANDREA",
+                "FORD,AMY",
+                "FORD,SHANNON",
+                "GAMBLE,JULIA",
+                "GEST,KATHLEEN",
+                "GOODING,ZANE",
+                "GRANDA,KAITLYN",
+                "GREEN,HEIDI",
+                "GURNEY,BRIAN",
+                "HARRIS,BRITTANY",
+                "HELMKE,NICOLE",
+                "HOLLAND,MICHAEL",
+                "HORGAN,EDMUND",
+                "HOWELL,ROSE",
+                "ITO,KRISTIN",
+                "JACOBS,CAROLYN",
+                "JIBOWU,DAMILOLA",
+                "JORDAN,MOLLY",
+                "KARKI,PRATIKSHYA",
+                "KEELING,MARION",
+                "KHANDELWAL,ARCHANA",
+                "KILGORE,RUHIYYIH",
+                "KIM FREEMAN,CHRISTINE",
+                "LAGOO,JANAKA",
+                "LANCASTER,JOSHUA",
+                "LANGHANS,ERIC",
+                "LIANG,ZHONGFEI",
+                "LIPSCOMB,SARAH",
+                "MARTINEZ,STEPHANIE",
+                "MARTINEZ-BIANCHI,VIVIANA",
+                "MASTEN,BETTY",
+                "MATTHEWS,KATHLEEN",
+                "MAYO,CARRIE",
+                "MAZZARELLI,SARA",
+                "MCCOLLERS,CHARITA",
+                "MCINTOSH VICK,OVETA",
+                "MELTON,CATHLEEN",
+                "MOORE,NICOLE",
+                "MOSU,VIRGIL",
+                "MUIR,KELLY",
+                "Mutima,Nekoba",
+                "NEUMARK,ESZTER",
+                "NOYOLA,YESENIA",
+                "NUAMAH,ISAAC",
+                "OKORO,ROSEDELIA",
+                "ONABANJO,BABAFEMI",
+                "OWUSU,DEBORAH",
+                "PADILLA,BLANCA",
+                "PATEL,MILANI",
+                "PATEL,SEEMA",
+                "PAYE,LAURA",
+                "PLAKSIN,JOSEPH",
+                "POLLY,ALISON",
+                "QUINONEZ,ROCIO",
+                "RAO,CAROLINE",
+                "RAY,VERONICA",
+                "RICHARDSON,JUSTIN",
+                "RIDER,JESSICA",
+                "ROSOFF,PHILIP",
+                "SANCHEZ,MARA",
+                "SCHWARZ,CARLYN",
+                "SHEKAR,SHRUTHI",
+                "SHERMAN,PAULA",
+                "SIDDIQUI,WAJIHA",
+                "SILBERSTEIN,KRISTINA",
+                "TAYLOR,DESTRY",
+                "TOUNSEL,DANIEL",
+                "TRIVEDI,VAIDEHI",
+                "VANDIS,ANNA",
+                "WALHART,TARA",
+                "WEIGLE,NANCY",
+                "WILLIAMS,JOHN",
+                "WILLIAMS,RHONDA",
+                "WILSON,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "770",
+                  "specialityDesc": "Pediatric Dentistry"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "715",
+                  "specialityDesc": "Optometrist"
+                },
+                {
+                  "specialityCd": "10",
+                  "specialityDesc": "Addiction Medicine (Internal Medicine)"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "705",
+                  "specialityDesc": "Ophthamology"
+                },
+                {
+                  "specialityCd": "1050",
+                  "specialityDesc": "Speech-Language Pathologist"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "2912864551",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ACEVEDO,VERONICA",
+                "ADAMS,LOGAN",
+                "ARONIN,ELIZABETH",
+                "BAJWA,JAMAL",
+                "BANKS,FAYE",
+                "BARBER,LEO",
+                "BEJARANO OVIEDO,GIOVANNI",
+                "BELL-RUSHAKOFF,SAMANTHA",
+                "BETHEA,KIERSTEN",
+                "BIOLA,HOLLY",
+                "BOON,HEIDI",
+                "BRAME,MEGAN",
+                "BRAMSON,BRIAN",
+                "BRAYBOY,JACOB",
+                "BRILEY,MEAGAN",
+                "BRYANT,ROXANNE",
+                "BUSCHER,APRIL",
+                "Bullock,Brittany",
+                "CALLEJO-BLACK,PETER",
+                "CARO,KATHERINE",
+                "CARTER,JAMIE",
+                "CHANDRAN,ANJANA",
+                "CONNOLLY,GILLIAN",
+                "CORRAO,MARIA",
+                "COTTINGHAM,SARAH",
+                "CRAWLEY,MARITZA",
+                "CREWS-LLOYD,ASHLEY",
+                "CROWDER,JANE",
+                "CURTIS,CAITLIN",
+                "DAVIS,DIANE",
+                "DEROUIN,ANNE",
+                "DEW,RACHEL",
+                "DI BONA,ROBIN",
+                "EISENSON,HOWARD",
+                "ESMAILI,BAHAR",
+                "FEIGAL,JACOB",
+                "FELTON,SHANDA",
+                "FERRY,EVAN",
+                "FLORES,ANDREA",
+                "FORD,AMY",
+                "FORD,SHANNON",
+                "GAMBLE,JULIA",
+                "GEST,KATHLEEN",
+                "GOODING,ZANE",
+                "GRANDA,KAITLYN",
+                "GREEN,HEIDI",
+                "GURNEY,BRIAN",
+                "HARRIS,BRITTANY",
+                "HELMKE,NICOLE",
+                "HOLLAND,MICHAEL",
+                "HORGAN,EDMUND",
+                "HOWELL,ROSE",
+                "ITO,KRISTIN",
+                "JACOBS,CAROLYN",
+                "JIBOWU,DAMILOLA",
+                "JORDAN,MOLLY",
+                "KARKI,PRATIKSHYA",
+                "KEELING,MARION",
+                "KHANDELWAL,ARCHANA",
+                "KILGORE,RUHIYYIH",
+                "KIM FREEMAN,CHRISTINE",
+                "LAGOO,JANAKA",
+                "LANCASTER,JOSHUA",
+                "LANGHANS,ERIC",
+                "LIANG,ZHONGFEI",
+                "LIPSCOMB,SARAH",
+                "MARTINEZ,STEPHANIE",
+                "MARTINEZ-BIANCHI,VIVIANA",
+                "MASTEN,BETTY",
+                "MATTHEWS,KATHLEEN",
+                "MAYO,CARRIE",
+                "MAZZARELLI,SARA",
+                "MCCOLLERS,CHARITA",
+                "MCINTOSH VICK,OVETA",
+                "MELTON,CATHLEEN",
+                "MOORE,NICOLE",
+                "MOSU,VIRGIL",
+                "MUIR,KELLY",
+                "Mutima,Nekoba",
+                "NEUMARK,ESZTER",
+                "NOYOLA,YESENIA",
+                "NUAMAH,ISAAC",
+                "OKORO,ROSEDELIA",
+                "ONABANJO,BABAFEMI",
+                "OWUSU,DEBORAH",
+                "PADILLA,BLANCA",
+                "PATEL,MILANI",
+                "PATEL,SEEMA",
+                "PAYE,LAURA",
+                "PLAKSIN,JOSEPH",
+                "POLLY,ALISON",
+                "QUINONEZ,ROCIO",
+                "RAO,CAROLINE",
+                "RAY,VERONICA",
+                "RICHARDSON,JUSTIN",
+                "RIDER,JESSICA",
+                "ROSOFF,PHILIP",
+                "SANCHEZ,MARA",
+                "SCHWARZ,CARLYN",
+                "SHEKAR,SHRUTHI",
+                "SHERMAN,PAULA",
+                "SIDDIQUI,WAJIHA",
+                "SILBERSTEIN,KRISTINA",
+                "TAYLOR,DESTRY",
+                "TOUNSEL,DANIEL",
+                "TRIVEDI,VAIDEHI",
+                "VANDIS,ANNA",
+                "WALHART,TARA",
+                "WEIGLE,NANCY",
+                "WILLIAMS,JOHN",
+                "WILLIAMS,RHONDA",
+                "WILSON,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "770",
+                  "specialityDesc": "Pediatric Dentistry"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "715",
+                  "specialityDesc": "Optometrist"
+                },
+                {
+                  "specialityCd": "10",
+                  "specialityDesc": "Addiction Medicine (Internal Medicine)"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "705",
+                  "specialityDesc": "Ophthamology"
+                },
+                {
+                  "specialityCd": "1050",
+                  "specialityDesc": "Speech-Language Pathologist"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41873949",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ACEVEDO,VERONICA",
+                "ADAMS,LOGAN",
+                "ARONIN,ELIZABETH",
+                "BAJWA,JAMAL",
+                "BANKS,FAYE",
+                "BARBER,LEO",
+                "BEJARANO OVIEDO,GIOVANNI",
+                "BELL-RUSHAKOFF,SAMANTHA",
+                "BETHEA,KIERSTEN",
+                "BIOLA,HOLLY",
+                "BOON,HEIDI",
+                "BRAME,MEGAN",
+                "BRAMSON,BRIAN",
+                "BRAYBOY,JACOB",
+                "BRILEY,MEAGAN",
+                "BRYANT,ROXANNE",
+                "BUSCHER,APRIL",
+                "Bullock,Brittany",
+                "CALLEJO-BLACK,PETER",
+                "CARO,KATHERINE",
+                "CARTER,JAMIE",
+                "CHANDRAN,ANJANA",
+                "CONNOLLY,GILLIAN",
+                "CORRAO,MARIA",
+                "COTTINGHAM,SARAH",
+                "CRAWLEY,MARITZA",
+                "CREWS-LLOYD,ASHLEY",
+                "CROWDER,JANE",
+                "CURTIS,CAITLIN",
+                "DAVIS,DIANE",
+                "DEROUIN,ANNE",
+                "DEW,RACHEL",
+                "DI BONA,ROBIN",
+                "EISENSON,HOWARD",
+                "ESMAILI,BAHAR",
+                "FEIGAL,JACOB",
+                "FELTON,SHANDA",
+                "FERRY,EVAN",
+                "FLORES,ANDREA",
+                "FORD,AMY",
+                "FORD,SHANNON",
+                "GAMBLE,JULIA",
+                "GEST,KATHLEEN",
+                "GOODING,ZANE",
+                "GRANDA,KAITLYN",
+                "GREEN,HEIDI",
+                "GURNEY,BRIAN",
+                "HARRIS,BRITTANY",
+                "HELMKE,NICOLE",
+                "HOLLAND,MICHAEL",
+                "HORGAN,EDMUND",
+                "HOWELL,ROSE",
+                "ITO,KRISTIN",
+                "JACOBS,CAROLYN",
+                "JIBOWU,DAMILOLA",
+                "JORDAN,MOLLY",
+                "KARKI,PRATIKSHYA",
+                "KEELING,MARION",
+                "KHANDELWAL,ARCHANA",
+                "KILGORE,RUHIYYIH",
+                "KIM FREEMAN,CHRISTINE",
+                "LAGOO,JANAKA",
+                "LANCASTER,JOSHUA",
+                "LANGHANS,ERIC",
+                "LIANG,ZHONGFEI",
+                "LIPSCOMB,SARAH",
+                "MARTINEZ,STEPHANIE",
+                "MARTINEZ-BIANCHI,VIVIANA",
+                "MASTEN,BETTY",
+                "MATTHEWS,KATHLEEN",
+                "MAYO,CARRIE",
+                "MAZZARELLI,SARA",
+                "MCCOLLERS,CHARITA",
+                "MCINTOSH VICK,OVETA",
+                "MELTON,CATHLEEN",
+                "MOORE,NICOLE",
+                "MOSU,VIRGIL",
+                "MUIR,KELLY",
+                "Mutima,Nekoba",
+                "NEUMARK,ESZTER",
+                "NOYOLA,YESENIA",
+                "NUAMAH,ISAAC",
+                "OKORO,ROSEDELIA",
+                "ONABANJO,BABAFEMI",
+                "OWUSU,DEBORAH",
+                "PADILLA,BLANCA",
+                "PATEL,MILANI",
+                "PATEL,SEEMA",
+                "PAYE,LAURA",
+                "PLAKSIN,JOSEPH",
+                "POLLY,ALISON",
+                "QUINONEZ,ROCIO",
+                "RAO,CAROLINE",
+                "RAY,VERONICA",
+                "RICHARDSON,JUSTIN",
+                "RIDER,JESSICA",
+                "ROSOFF,PHILIP",
+                "SANCHEZ,MARA",
+                "SCHWARZ,CARLYN",
+                "SHEKAR,SHRUTHI",
+                "SHERMAN,PAULA",
+                "SIDDIQUI,WAJIHA",
+                "SILBERSTEIN,KRISTINA",
+                "TAYLOR,DESTRY",
+                "TOUNSEL,DANIEL",
+                "TRIVEDI,VAIDEHI",
+                "VANDIS,ANNA",
+                "WALHART,TARA",
+                "WEIGLE,NANCY",
+                "WILLIAMS,JOHN",
+                "WILLIAMS,RHONDA",
+                "WILSON,GINA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "770",
+                  "specialityDesc": "Pediatric Dentistry"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "550",
+                  "specialityDesc": "Infectious Disease"
+                },
+                {
+                  "specialityCd": "430",
+                  "specialityDesc": "Geriatric Medicine"
+                },
+                {
+                  "specialityCd": "715",
+                  "specialityDesc": "Optometrist"
+                },
+                {
+                  "specialityCd": "10",
+                  "specialityDesc": "Addiction Medicine (Internal Medicine)"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "285",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "705",
+                  "specialityDesc": "Ophthamology"
+                },
+                {
+                  "specialityCd": "1050",
+                  "specialityDesc": "Speech-Language Pathologist"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1114978582",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1200",
+            "MONDAY PM 1300-2000",
+            "TUESDAY AM 0800-1200",
+            "TUESDAY PM 1300-2000",
+            "WEDNESDAY AM 0800-1200",
+            "WEDNESDAY PM 1300-2000",
+            "THURSDAY AM 0800-1200",
+            "THURSDAY PM 1300-2000",
+            "FRIDAY AM 0800-1200",
+            "FRIDAY PM 1300-2000",
+            "SATURDAY AM 0800-1200",
+            "SATURDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "9199564000",
+          "dbaName": "LINCOLN COMMUNITY HEALTH CENTER INC",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "1301 FAYETTEVILLE ST",
+            "addressLine2": null,
+            "city": "DURHAM",
+            "state": "NC",
+            "zipCode": "27707",
+            "countyCode": "032",
+            "countyName": "Durham",
+            "latitude": 35.980614,
+            "longitude": -78.897804,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "9199564000",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10363314"
+        },
+        {
+          "firstName": null,
+          "lastName": "RAPHA HEALTHCARE SERVICES LLC",
+          "middleName": null,
+          "fullName": "RAPHA HEALTHCARE SERVICES LLC",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "370",
+              "specialityDesc": "Emergency Medicine"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "560",
+              "specialityDesc": "Internal Medicine"
+            },
+            {
+              "specialityCd": "1250",
+              "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "245",
+              "specialityDesc": "Community/Behavioral Health"
+            },
+            {
+              "specialityCd": "620",
+              "specialityDesc": "Neurodevelopmental Disabilities"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "600",
+              "specialityDesc": "Mental Health"
+            },
+            {
+              "specialityCd": "435",
+              "specialityDesc": "Geriatric Psychiatry"
+            },
+            {
+              "specialityCd": "1435",
+              "specialityDesc": "Hospitalist"
+            },
+            {
+              "specialityCd": "965",
+              "specialityDesc": "Psychiatry"
+            },
+            {
+              "specialityCd": "615",
+              "specialityDesc": "Nephrology"
+            },
+            {
+              "specialityCd": "15",
+              "specialityDesc": "Addiction Medicine"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "712683080",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ARFEEN,SYED",
+                "BETHEA,JASMINE",
+                "DICKEY,SYLVONIA",
+                "EZE,NGOZI",
+                "GRAY III,LEE",
+                "KIM,JAMES",
+                "LEATHERS,LOVIETTE",
+                "OLOYEDE,JULIET",
+                "PAVELOCK,RICHARD",
+                "STUCKES,NATIELA",
+                "THOMPSON,JACQUELINE",
+                "UCHENDU,CHINENYE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "620",
+                  "specialityDesc": "Neurodevelopmental Disabilities"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "435",
+                  "specialityDesc": "Geriatric Psychiatry"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42144076",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ARFEEN,SYED",
+                "BETHEA,JASMINE",
+                "DICKEY,SYLVONIA",
+                "EZE,NGOZI",
+                "GRAY III,LEE",
+                "KIM,JAMES",
+                "LEATHERS,LOVIETTE",
+                "OLOYEDE,JULIET",
+                "PAVELOCK,RICHARD",
+                "STUCKES,NATIELA",
+                "THOMPSON,JACQUELINE",
+                "UCHENDU,CHINENYE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "620",
+                  "specialityDesc": "Neurodevelopmental Disabilities"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "435",
+                  "specialityDesc": "Geriatric Psychiatry"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "55782397",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ARFEEN,SYED",
+                "BETHEA,JASMINE",
+                "DICKEY,SYLVONIA",
+                "EZE,NGOZI",
+                "GRAY III,LEE",
+                "KIM,JAMES",
+                "LEATHERS,LOVIETTE",
+                "OLOYEDE,JULIET",
+                "PAVELOCK,RICHARD",
+                "STUCKES,NATIELA",
+                "THOMPSON,JACQUELINE",
+                "UCHENDU,CHINENYE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "620",
+                  "specialityDesc": "Neurodevelopmental Disabilities"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "435",
+                  "specialityDesc": "Geriatric Psychiatry"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42144081",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ARFEEN,SYED",
+                "BETHEA,JASMINE",
+                "DICKEY,SYLVONIA",
+                "EZE,NGOZI",
+                "GRAY III,LEE",
+                "KIM,JAMES",
+                "LEATHERS,LOVIETTE",
+                "OLOYEDE,JULIET",
+                "PAVELOCK,RICHARD",
+                "STUCKES,NATIELA",
+                "THOMPSON,JACQUELINE",
+                "UCHENDU,CHINENYE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "620",
+                  "specialityDesc": "Neurodevelopmental Disabilities"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "435",
+                  "specialityDesc": "Geriatric Psychiatry"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42143930",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ARFEEN,SYED",
+                "BETHEA,JASMINE",
+                "DICKEY,SYLVONIA",
+                "EZE,NGOZI",
+                "GRAY III,LEE",
+                "KIM,JAMES",
+                "LEATHERS,LOVIETTE",
+                "OLOYEDE,JULIET",
+                "PAVELOCK,RICHARD",
+                "STUCKES,NATIELA",
+                "THOMPSON,JACQUELINE",
+                "UCHENDU,CHINENYE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "620",
+                  "specialityDesc": "Neurodevelopmental Disabilities"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "435",
+                  "specialityDesc": "Geriatric Psychiatry"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1141547908",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ARFEEN,SYED",
+                "BETHEA,JASMINE",
+                "DICKEY,SYLVONIA",
+                "EZE,NGOZI",
+                "GRAY III,LEE",
+                "KIM,JAMES",
+                "LEATHERS,LOVIETTE",
+                "OLOYEDE,JULIET",
+                "PAVELOCK,RICHARD",
+                "STUCKES,NATIELA",
+                "THOMPSON,JACQUELINE",
+                "UCHENDU,CHINENYE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "620",
+                  "specialityDesc": "Neurodevelopmental Disabilities"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "435",
+                  "specialityDesc": "Geriatric Psychiatry"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "N",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "202988424",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ARFEEN,SYED",
+                "BETHEA,JASMINE",
+                "DICKEY,SYLVONIA",
+                "EZE,NGOZI",
+                "GRAY III,LEE",
+                "KIM,JAMES",
+                "LEATHERS,LOVIETTE",
+                "OLOYEDE,JULIET",
+                "PAVELOCK,RICHARD",
+                "STUCKES,NATIELA",
+                "THOMPSON,JACQUELINE",
+                "UCHENDU,CHINENYE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "370",
+                  "specialityDesc": "Emergency Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "245",
+                  "specialityDesc": "Community/Behavioral Health"
+                },
+                {
+                  "specialityCd": "620",
+                  "specialityDesc": "Neurodevelopmental Disabilities"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "435",
+                  "specialityDesc": "Geriatric Psychiatry"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"N\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"N\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1316335128",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1700",
+            "MONDAY PM 0000-0000",
+            "TUESDAY AM 0800-1700",
+            "TUESDAY PM 0000-0000",
+            "WEDNESDAY AM 0800-1700",
+            "WEDNESDAY PM 0000-0000",
+            "THURSDAY AM 0800-1700",
+            "THURSDAY PM 0000-0000",
+            "FRIDAY AM 0800-1700",
+            "FRIDAY PM 0000-0000",
+            "SATURDAY AM 1000-1500",
+            "SATURDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "9196676679",
+          "dbaName": null,
+          "maleAgeRange": "10",
+          "femaleAgeRange": "10",
+          "address": {
+            "addressLine1": "4411 BEN FRANKLIN BLVD",
+            "addressLine2": null,
+            "city": "DURHAM",
+            "state": "NC",
+            "zipCode": "27704",
+            "countyCode": "032",
+            "countyName": "Durham",
+            "latitude": 36.04806,
+            "longitude": -78.89147,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "9194715474",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10372295"
+        },
+        {
+          "firstName": null,
+          "lastName": "UNIVERSITY OF NORTH CAROLINA AT CHA",
+          "middleName": null,
+          "fullName": "UNIVERSITY OF NORTH CAROLINA AT CHA",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [
+            "UNC FACULTY PHYSICIANS"
+          ],
+          "providerLanguages": [
+            {
+              "languageDesc": "Arabic",
+              "languageTypeCd": "AR"
+            },
+            {
+              "languageDesc": "Cambodian",
+              "languageTypeCd": "CA"
+            },
+            {
+              "languageDesc": "Chinese",
+              "languageTypeCd": "CH"
+            },
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "French Creole",
+              "languageTypeCd": "FC"
+            },
+            {
+              "languageDesc": "French",
+              "languageTypeCd": "FR"
+            },
+            {
+              "languageDesc": "German",
+              "languageTypeCd": "GE"
+            },
+            {
+              "languageDesc": "Greek",
+              "languageTypeCd": "GR"
+            },
+            {
+              "languageDesc": "Hindi",
+              "languageTypeCd": "HI"
+            },
+            {
+              "languageDesc": "Hmong",
+              "languageTypeCd": "HM"
+            },
+            {
+              "languageDesc": "Italian",
+              "languageTypeCd": "IT"
+            },
+            {
+              "languageDesc": "Japanese",
+              "languageTypeCd": "JA"
+            },
+            {
+              "languageDesc": "Korean",
+              "languageTypeCd": "KO"
+            },
+            {
+              "languageDesc": "Laotian",
+              "languageTypeCd": "LA"
+            },
+            {
+              "languageDesc": "Other",
+              "languageTypeCd": "OT"
+            },
+            {
+              "languageDesc": "Persian",
+              "languageTypeCd": "PE"
+            },
+            {
+              "languageDesc": "Portuguese",
+              "languageTypeCd": "PG"
+            },
+            {
+              "languageDesc": "Russian",
+              "languageTypeCd": "RU"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            },
+            {
+              "languageDesc": "Thai",
+              "languageTypeCd": "TH"
+            },
+            {
+              "languageDesc": "Vietnamese",
+              "languageTypeCd": "VI"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "350",
+              "specialityDesc": "Diagnostic Radiology"
+            },
+            {
+              "specialityCd": "1055",
+              "specialityDesc": "Sports Medicine"
+            },
+            {
+              "specialityCd": "680",
+              "specialityDesc": "Nurse Practitioner"
+            },
+            {
+              "specialityCd": "840",
+              "specialityDesc": "Pediatric Radiology"
+            },
+            {
+              "specialityCd": "940",
+              "specialityDesc": "Professional"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "720",
+              "specialityDesc": "Orthopaedic Surgery"
+            },
+            {
+              "specialityCd": "665",
+              "specialityDesc": "Nuclear Medicine"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "425",
+              "specialityDesc": "General Practice"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "3079313437",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS MORANCIE,NAILAH",
+                "ALKHALDI,RANA",
+                "BOGGIANO,VICTORIA",
+                "BURCH,DESTINEE'",
+                "CHEWNING,MEGHAN",
+                "FORDHAM,LYNN",
+                "GOLDSTEIN,AMI",
+                "HALPERT,KAREN",
+                "HYLER,JORDAN",
+                "IRVIN,LANDON",
+                "JACKSON,LERON",
+                "JEWELLS,VALERIE",
+                "JOYNER,RACHAEL",
+                "KANE,SHAWN",
+                "LEE,JUSTIN",
+                "LEE,YUEH",
+                "LLAMAS,JEWEL",
+                "METZGER,GREGORY",
+                "MIESES MALCHUK,ALEXA",
+                "MOORE,RICHARD",
+                "MYREX,PALEE",
+                "NESSIM,NOA",
+                "ROPERO-CARTIER,MICHAEL",
+                "SAKTHIVEL,MUTHU",
+                "SCHETTINI,PRISCILLE",
+                "STAFFORD,HARRY",
+                "STERLING,SARAH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "350",
+                  "specialityDesc": "Diagnostic Radiology"
+                },
+                {
+                  "specialityCd": "1055",
+                  "specialityDesc": "Sports Medicine"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "840",
+                  "specialityDesc": "Pediatric Radiology"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "720",
+                  "specialityDesc": "Orthopaedic Surgery"
+                },
+                {
+                  "specialityCd": "665",
+                  "specialityDesc": "Nuclear Medicine"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "49281450",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS MORANCIE,NAILAH",
+                "ALKHALDI,RANA",
+                "BOGGIANO,VICTORIA",
+                "BURCH,DESTINEE'",
+                "CHEWNING,MEGHAN",
+                "FORDHAM,LYNN",
+                "GOLDSTEIN,AMI",
+                "HALPERT,KAREN",
+                "HYLER,JORDAN",
+                "IRVIN,LANDON",
+                "JACKSON,LERON",
+                "JEWELLS,VALERIE",
+                "JOYNER,RACHAEL",
+                "KANE,SHAWN",
+                "LEE,JUSTIN",
+                "LEE,YUEH",
+                "LLAMAS,JEWEL",
+                "METZGER,GREGORY",
+                "MIESES MALCHUK,ALEXA",
+                "MOORE,RICHARD",
+                "MYREX,PALEE",
+                "NESSIM,NOA",
+                "ROPERO-CARTIER,MICHAEL",
+                "SAKTHIVEL,MUTHU",
+                "SCHETTINI,PRISCILLE",
+                "STAFFORD,HARRY",
+                "STERLING,SARAH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "350",
+                  "specialityDesc": "Diagnostic Radiology"
+                },
+                {
+                  "specialityCd": "1055",
+                  "specialityDesc": "Sports Medicine"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "840",
+                  "specialityDesc": "Pediatric Radiology"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "665",
+                  "specialityDesc": "Nuclear Medicine"
+                },
+                {
+                  "specialityCd": "720",
+                  "specialityDesc": "Orthopaedic Surgery"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "106037405",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS MORANCIE,NAILAH",
+                "ALKHALDI,RANA",
+                "BOGGIANO,VICTORIA",
+                "BURCH,DESTINEE'",
+                "CHEWNING,MEGHAN",
+                "FORDHAM,LYNN",
+                "GOLDSTEIN,AMI",
+                "HALPERT,KAREN",
+                "HYLER,JORDAN",
+                "IRVIN,LANDON",
+                "JACKSON,LERON",
+                "JEWELLS,VALERIE",
+                "JOYNER,RACHAEL",
+                "KANE,SHAWN",
+                "LEE,JUSTIN",
+                "LEE,YUEH",
+                "LLAMAS,JEWEL",
+                "METZGER,GREGORY",
+                "MIESES MALCHUK,ALEXA",
+                "MOORE,RICHARD",
+                "MYREX,PALEE",
+                "NESSIM,NOA",
+                "ROPERO-CARTIER,MICHAEL",
+                "SAKTHIVEL,MUTHU",
+                "SCHETTINI,PRISCILLE",
+                "STAFFORD,HARRY",
+                "STERLING,SARAH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1055",
+                  "specialityDesc": "Sports Medicine"
+                },
+                {
+                  "specialityCd": "350",
+                  "specialityDesc": "Diagnostic Radiology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "840",
+                  "specialityDesc": "Pediatric Radiology"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "720",
+                  "specialityDesc": "Orthopaedic Surgery"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "665",
+                  "specialityDesc": "Nuclear Medicine"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41900955",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS MORANCIE,NAILAH",
+                "ALKHALDI,RANA",
+                "BOGGIANO,VICTORIA",
+                "BURCH,DESTINEE'",
+                "CHEWNING,MEGHAN",
+                "FORDHAM,LYNN",
+                "GOLDSTEIN,AMI",
+                "HALPERT,KAREN",
+                "HYLER,JORDAN",
+                "IRVIN,LANDON",
+                "JACKSON,LERON",
+                "JEWELLS,VALERIE",
+                "JOYNER,RACHAEL",
+                "KANE,SHAWN",
+                "LEE,JUSTIN",
+                "LEE,YUEH",
+                "LLAMAS,JEWEL",
+                "METZGER,GREGORY",
+                "MIESES MALCHUK,ALEXA",
+                "MOORE,RICHARD",
+                "MYREX,PALEE",
+                "NESSIM,NOA",
+                "ROPERO-CARTIER,MICHAEL",
+                "SAKTHIVEL,MUTHU",
+                "SCHETTINI,PRISCILLE",
+                "STAFFORD,HARRY",
+                "STERLING,SARAH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "350",
+                  "specialityDesc": "Diagnostic Radiology"
+                },
+                {
+                  "specialityCd": "1055",
+                  "specialityDesc": "Sports Medicine"
+                },
+                {
+                  "specialityCd": "840",
+                  "specialityDesc": "Pediatric Radiology"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "720",
+                  "specialityDesc": "Orthopaedic Surgery"
+                },
+                {
+                  "specialityCd": "665",
+                  "specialityDesc": "Nuclear Medicine"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41900953",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS MORANCIE,NAILAH",
+                "ALKHALDI,RANA",
+                "BOGGIANO,VICTORIA",
+                "BURCH,DESTINEE'",
+                "CHEWNING,MEGHAN",
+                "FORDHAM,LYNN",
+                "GOLDSTEIN,AMI",
+                "HALPERT,KAREN",
+                "HYLER,JORDAN",
+                "IRVIN,LANDON",
+                "JACKSON,LERON",
+                "JEWELLS,VALERIE",
+                "JOYNER,RACHAEL",
+                "KANE,SHAWN",
+                "LEE,JUSTIN",
+                "LEE,YUEH",
+                "LLAMAS,JEWEL",
+                "METZGER,GREGORY",
+                "MIESES MALCHUK,ALEXA",
+                "MOORE,RICHARD",
+                "MYREX,PALEE",
+                "NESSIM,NOA",
+                "ROPERO-CARTIER,MICHAEL",
+                "SAKTHIVEL,MUTHU",
+                "SCHETTINI,PRISCILLE",
+                "STAFFORD,HARRY",
+                "STERLING,SARAH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "350",
+                  "specialityDesc": "Diagnostic Radiology"
+                },
+                {
+                  "specialityCd": "1055",
+                  "specialityDesc": "Sports Medicine"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "840",
+                  "specialityDesc": "Pediatric Radiology"
+                },
+                {
+                  "specialityCd": "720",
+                  "specialityDesc": "Orthopaedic Surgery"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "665",
+                  "specialityDesc": "Nuclear Medicine"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "3494275938",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS MORANCIE,NAILAH",
+                "ALKHALDI,RANA",
+                "BOGGIANO,VICTORIA",
+                "BURCH,DESTINEE'",
+                "CHEWNING,MEGHAN",
+                "FORDHAM,LYNN",
+                "GOLDSTEIN,AMI",
+                "HALPERT,KAREN",
+                "HYLER,JORDAN",
+                "IRVIN,LANDON",
+                "JACKSON,LERON",
+                "JEWELLS,VALERIE",
+                "JOYNER,RACHAEL",
+                "KANE,SHAWN",
+                "LEE,JUSTIN",
+                "LEE,YUEH",
+                "LLAMAS,JEWEL",
+                "METZGER,GREGORY",
+                "MIESES MALCHUK,ALEXA",
+                "MOORE,RICHARD",
+                "MYREX,PALEE",
+                "NESSIM,NOA",
+                "ROPERO-CARTIER,MICHAEL",
+                "SAKTHIVEL,MUTHU",
+                "SCHETTINI,PRISCILLE",
+                "STAFFORD,HARRY",
+                "STERLING,SARAH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1055",
+                  "specialityDesc": "Sports Medicine"
+                },
+                {
+                  "specialityCd": "350",
+                  "specialityDesc": "Diagnostic Radiology"
+                },
+                {
+                  "specialityCd": "840",
+                  "specialityDesc": "Pediatric Radiology"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "665",
+                  "specialityDesc": "Nuclear Medicine"
+                },
+                {
+                  "specialityCd": "720",
+                  "specialityDesc": "Orthopaedic Surgery"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "2904450300",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS MORANCIE,NAILAH",
+                "ALKHALDI,RANA",
+                "BOGGIANO,VICTORIA",
+                "BURCH,DESTINEE'",
+                "CHEWNING,MEGHAN",
+                "FORDHAM,LYNN",
+                "GOLDSTEIN,AMI",
+                "HALPERT,KAREN",
+                "HYLER,JORDAN",
+                "IRVIN,LANDON",
+                "JACKSON,LERON",
+                "JEWELLS,VALERIE",
+                "JOYNER,RACHAEL",
+                "KANE,SHAWN",
+                "LEE,JUSTIN",
+                "LEE,YUEH",
+                "LLAMAS,JEWEL",
+                "METZGER,GREGORY",
+                "MIESES MALCHUK,ALEXA",
+                "MOORE,RICHARD",
+                "MYREX,PALEE",
+                "NESSIM,NOA",
+                "ROPERO-CARTIER,MICHAEL",
+                "SAKTHIVEL,MUTHU",
+                "SCHETTINI,PRISCILLE",
+                "STAFFORD,HARRY",
+                "STERLING,SARAH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1055",
+                  "specialityDesc": "Sports Medicine"
+                },
+                {
+                  "specialityCd": "350",
+                  "specialityDesc": "Diagnostic Radiology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "840",
+                  "specialityDesc": "Pediatric Radiology"
+                },
+                {
+                  "specialityCd": "665",
+                  "specialityDesc": "Nuclear Medicine"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "720",
+                  "specialityDesc": "Orthopaedic Surgery"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "109810196",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS MORANCIE,NAILAH",
+                "ALKHALDI,RANA",
+                "BOGGIANO,VICTORIA",
+                "BURCH,DESTINEE'",
+                "CHEWNING,MEGHAN",
+                "FORDHAM,LYNN",
+                "GOLDSTEIN,AMI",
+                "HALPERT,KAREN",
+                "HYLER,JORDAN",
+                "IRVIN,LANDON",
+                "JACKSON,LERON",
+                "JEWELLS,VALERIE",
+                "JOYNER,RACHAEL",
+                "KANE,SHAWN",
+                "LEE,JUSTIN",
+                "LEE,YUEH",
+                "LLAMAS,JEWEL",
+                "METZGER,GREGORY",
+                "MIESES MALCHUK,ALEXA",
+                "MOORE,RICHARD",
+                "MYREX,PALEE",
+                "NESSIM,NOA",
+                "ROPERO-CARTIER,MICHAEL",
+                "SAKTHIVEL,MUTHU",
+                "SCHETTINI,PRISCILLE",
+                "STAFFORD,HARRY",
+                "STERLING,SARAH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1055",
+                  "specialityDesc": "Sports Medicine"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "350",
+                  "specialityDesc": "Diagnostic Radiology"
+                },
+                {
+                  "specialityCd": "840",
+                  "specialityDesc": "Pediatric Radiology"
+                },
+                {
+                  "specialityCd": "665",
+                  "specialityDesc": "Nuclear Medicine"
+                },
+                {
+                  "specialityCd": "720",
+                  "specialityDesc": "Orthopaedic Surgery"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1378663832",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS MORANCIE,NAILAH",
+                "ALKHALDI,RANA",
+                "BOGGIANO,VICTORIA",
+                "BURCH,DESTINEE'",
+                "CHEWNING,MEGHAN",
+                "FORDHAM,LYNN",
+                "GOLDSTEIN,AMI",
+                "HALPERT,KAREN",
+                "HYLER,JORDAN",
+                "IRVIN,LANDON",
+                "JACKSON,LERON",
+                "JEWELLS,VALERIE",
+                "JOYNER,RACHAEL",
+                "KANE,SHAWN",
+                "LEE,JUSTIN",
+                "LEE,YUEH",
+                "LLAMAS,JEWEL",
+                "METZGER,GREGORY",
+                "MIESES MALCHUK,ALEXA",
+                "MOORE,RICHARD",
+                "MYREX,PALEE",
+                "NESSIM,NOA",
+                "ROPERO-CARTIER,MICHAEL",
+                "SAKTHIVEL,MUTHU",
+                "SCHETTINI,PRISCILLE",
+                "STAFFORD,HARRY",
+                "STERLING,SARAH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "350",
+                  "specialityDesc": "Diagnostic Radiology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1055",
+                  "specialityDesc": "Sports Medicine"
+                },
+                {
+                  "specialityCd": "840",
+                  "specialityDesc": "Pediatric Radiology"
+                },
+                {
+                  "specialityCd": "665",
+                  "specialityDesc": "Nuclear Medicine"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "720",
+                  "specialityDesc": "Orthopaedic Surgery"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "133462690",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ADAMS MORANCIE,NAILAH",
+                "ALKHALDI,RANA",
+                "BOGGIANO,VICTORIA",
+                "BURCH,DESTINEE'",
+                "CHEWNING,MEGHAN",
+                "FORDHAM,LYNN",
+                "GOLDSTEIN,AMI",
+                "HALPERT,KAREN",
+                "HYLER,JORDAN",
+                "IRVIN,LANDON",
+                "JACKSON,LERON",
+                "JEWELLS,VALERIE",
+                "JOYNER,RACHAEL",
+                "KANE,SHAWN",
+                "LEE,JUSTIN",
+                "LEE,YUEH",
+                "LLAMAS,JEWEL",
+                "METZGER,GREGORY",
+                "MIESES MALCHUK,ALEXA",
+                "MOORE,RICHARD",
+                "MYREX,PALEE",
+                "NESSIM,NOA",
+                "ROPERO-CARTIER,MICHAEL",
+                "SAKTHIVEL,MUTHU",
+                "SCHETTINI,PRISCILLE",
+                "STAFFORD,HARRY",
+                "STERLING,SARAH"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "350",
+                  "specialityDesc": "Diagnostic Radiology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1055",
+                  "specialityDesc": "Sports Medicine"
+                },
+                {
+                  "specialityCd": "840",
+                  "specialityDesc": "Pediatric Radiology"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "720",
+                  "specialityDesc": "Orthopaedic Surgery"
+                },
+                {
+                  "specialityCd": "665",
+                  "specialityDesc": "Nuclear Medicine"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"Y\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1780669200",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1700",
+            "MONDAY PM 0000-0000",
+            "TUESDAY AM 0800-1700",
+            "TUESDAY PM 0000-0000",
+            "WEDNESDAY AM 0800-1700",
+            "WEDNESDAY PM 0000-0000",
+            "THURSDAY AM 0800-1700",
+            "THURSDAY PM 0000-0000",
+            "FRIDAY AM 0800-1700",
+            "FRIDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "9849741000",
+          "dbaName": "UNC FACULTY PHYSICIANS",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "3708 MAYFAIR ST",
+            "addressLine2": "STE 100",
+            "city": "DURHAM",
+            "state": "NC",
+            "zipCode": "27707",
+            "countyCode": "032",
+            "countyName": "Durham",
+            "latitude": 35.969246,
+            "longitude": -78.95103,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "9842154780",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10505444"
+        }
+      ],
+      "pageable": null,
+      "last": null,
+      "totalPages": null,
+      "totalElements": null,
+      "sort": null,
+      "first": null,
+      "numberOfElements": 4,
+      "size": 4,
+      "number": 0,
+      "totalRecords": 4,
+      "empty": false
+    }
+  },
+  "statusCode": 200
+}

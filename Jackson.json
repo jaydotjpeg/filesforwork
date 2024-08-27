@@ -1,0 +1,3755 @@
+ {
+  "data": {
+    "status": 200,
+    "error": null,
+    "errorMessage": null,
+    "backend": "NCEB",
+    "data": {
+      "providers": [
+        {
+          "firstName": null,
+          "lastName": "BLUE RIDGE COMMUNITY HEALTH SERVICE",
+          "middleName": null,
+          "fullName": "BLUE RIDGE COMMUNITY HEALTH SERVICE",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": true,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1245",
+              "specialityDesc": "Primary Care Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "1185",
+              "specialityDesc": "Pediatrics Nurse Practitioner"
+            },
+            {
+              "specialityCd": "970",
+              "specialityDesc": "Psychologist"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "1105",
+              "specialityDesc": "Acute Care Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1500",
+              "specialityDesc": "Pediatric Nutrition"
+            },
+            {
+              "specialityCd": "835",
+              "specialityDesc": "Pediatric Pulmonology"
+            },
+            {
+              "specialityCd": "1060",
+              "specialityDesc": "Student Health Care"
+            },
+            {
+              "specialityCd": "15",
+              "specialityDesc": "Addiction Medicine"
+            },
+            {
+              "specialityCd": "160",
+              "specialityDesc": "Child & Adolescent Psychiatry"
+            },
+            {
+              "specialityCd": "580",
+              "specialityDesc": "Marriage & Family Therapist"
+            },
+            {
+              "specialityCd": "1110",
+              "specialityDesc": "Adult Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "680",
+              "specialityDesc": "Nurse Practitioner"
+            },
+            {
+              "specialityCd": "220",
+              "specialityDesc": "Clinic Pharmacist Practitioner"
+            },
+            {
+              "specialityCd": "1295",
+              "specialityDesc": "Women's Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1250",
+              "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1150",
+              "specialityDesc": "Gerontology Nurse Practitioner"
+            },
+            {
+              "specialityCd": "400",
+              "specialityDesc": "Federally Qualified Health Center (FQHC)"
+            },
+            {
+              "specialityCd": "785",
+              "specialityDesc": "Pediatric Endocrinology"
+            },
+            {
+              "specialityCd": "940",
+              "specialityDesc": "Professional"
+            },
+            {
+              "specialityCd": "1515",
+              "specialityDesc": "Registered Dietician"
+            },
+            {
+              "specialityCd": "445",
+              "specialityDesc": "Gynecology"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "765",
+              "specialityDesc": "Pediatric Critical Care Medicine"
+            },
+            {
+              "specialityCd": "600",
+              "specialityDesc": "Mental Health"
+            },
+            {
+              "specialityCd": "865",
+              "specialityDesc": "Pediatrics"
+            },
+            {
+              "specialityCd": "425",
+              "specialityDesc": "General Practice"
+            },
+            {
+              "specialityCd": "965",
+              "specialityDesc": "Psychiatry"
+            },
+            {
+              "specialityCd": "1435",
+              "specialityDesc": "Hospitalist"
+            },
+            {
+              "specialityCd": "20",
+              "specialityDesc": "Addiction Psychiatry"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "507",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "940708644",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AGOSTINI,MEGHAN",
+                "AGUILAR VALDEZ,GEORGINA",
+                "ALFANO,HEATHER",
+                "ALTAMIRANO,MELISSA",
+                "ATKINSON,BRIAN",
+                "AUFIERO,BIANCA",
+                "AUSTIN,KIMBERLEY",
+                "BARBEE,ERIN",
+                "BERLINER,JULEAH",
+                "BESSEY,CAROLINE",
+                "BLIZARD,BETHANY",
+                "BOONE,DEBRA",
+                "BRAHY,KELLY",
+                "BRASWELL,TROY",
+                "BRAZIL,MICHAEL",
+                "BRINK,JONATHAN",
+                "BROOKS,LAURA",
+                "BUCKNER JR,DONALD",
+                "BURTON,CANDACE",
+                "BUTTERFIELD,NENA",
+                "CAMP,JAMIE",
+                "CARPENTER,JULIE",
+                "CARTEE,RHONDA",
+                "CASSUM,MARIAH",
+                "CASWELL,KASIE",
+                "CATANIA,GIANNA",
+                "CATANIA-THOMAS,GIANNA",
+                "CAVE,AUDRA",
+                "CHAMBERLAIN,HEATHER",
+                "CHESNA,SUSAN",
+                "CHILDERS,BRIANA",
+                "CLARKE,ROBERT",
+                "CONNER,LONDYN",
+                "COOK,MORGAN",
+                "COOLEY,RACHEL",
+                "CORN,WILBURN",
+                "CORREA,EDUARDO",
+                "CURRAN,DIANA",
+                "DAVES,HARRISON",
+                "DAVIS,DAYTON",
+                "DE NARDO,ANAMARIA",
+                "DENES,AMY",
+                "DIAZ PEREZ,JUANA",
+                "DOCKERY,SAMUEL",
+                "DOIRON,PAULETTE",
+                "EICHHORN,EMILY",
+                "ELLINGTON,LAURA",
+                "ELMORE,CARRIE",
+                "ERBSEN,RITA",
+                "FERRELL,JENNIFER",
+                "FERRON,MARY",
+                "FINCHER,KRISTY",
+                "FISHER,ZACHARY",
+                "FRALIX,TERESA",
+                "GALLOWAY,ERIN",
+                "GAMBLE,TAYLOR",
+                "GARCIA,KELLY",
+                "GIORDANO,MEAGAN",
+                "GLOVER,CHRISTIAN",
+                "GREEN,LORI",
+                "GREENWAY,KIMBERLY",
+                "GREER,LEAH",
+                "GRUNER,KRISTIN",
+                "HANSLEY,LATOYA",
+                "HARRIS,STACY",
+                "HATFIELD,SAMANTHA",
+                "HAYES,MAGDALENA",
+                "HEDGES,LAUREN",
+                "HENSON,AMBER",
+                "HERDT,LINDA",
+                "HILL,JAMES",
+                "HINDERLITER,DANIEL",
+                "HIPKINS,BRITTANY",
+                "HISLOP,FAITH",
+                "HODGE,BRYAN",
+                "HODGE,HANNAH",
+                "HOLMES,REBECCA",
+                "HORWITZ,JAMES",
+                "HUDSPETH,RICHARD",
+                "HUTCHINSON,CATHERINE",
+                "JAMES,MELISSA",
+                "JOHN,GABRIELLA",
+                "JONES,AMANDA",
+                "JONES,BRITTA",
+                "JULIUS,STEVEN",
+                "KAUFMAN,CHRISTIAN",
+                "KIESEL,JULIANNE",
+                "KLASSEN,ROSEMARY",
+                "LADD,LISA",
+                "LADD,NICHOLAS",
+                "LAGAN,GARRETT",
+                "LAM,LAURA",
+                "LANGEFELD,STEPHANIE",
+                "LATTER,MACY",
+                "LATTER,PHILIP",
+                "LELAND,PARKER",
+                "LOCKERBY,MISHELLE",
+                "LONG,STEPHANIE",
+                "LOOKADOO,KIRSTEN",
+                "LOVETTE,DANIEL",
+                "LUDWIG,TAYLOR",
+                "MAHALA,LORI",
+                "MAICHE,ELIZABETH",
+                "MARIETTA,AMY",
+                "MARTIN,KATIE",
+                "MARTINEZ SEAGLE,LACEY",
+                "MAXWELL,REGAN",
+                "MAY,AARON",
+                "MAYSE,COURTNEY",
+                "MCCRAW,MEGAN",
+                "MCDONALD,JENNIFER",
+                "MILLER,JESSICA",
+                "MINICK,HANNAH",
+                "MITCHELL,SHANNON",
+                "MONACO,ERIC",
+                "MOODY,KAITLYN",
+                "MORINI,ALEXIS",
+                "MORRIS,ANDREW",
+                "MORRIS,ANDREW",
+                "MURPHY,TORRIE",
+                "NEIHEISEL,KIMBERLY",
+                "NICHOLLS,JOHN",
+                "NIELAND,ROBERT",
+                "OCONNER,SHANNON",
+                "OGLES,BENJAMIN",
+                "OLIVIER,JULIANNE",
+                "ONASH,NICHOLE",
+                "OWENS,KAITLIN",
+                "PARKS,HANNAH",
+                "PEARL,MELISSA",
+                "PEIFFER,SARAH",
+                "PETERSON WILSON,TWYLA",
+                "PIOR,JESSICA",
+                "PITTMAN,CYNTHIA",
+                "RAY,NICOLE",
+                "RAY,WILLIAM",
+                "REDMOND,MICHAEL",
+                "ROBBINS,HANNAH",
+                "RODNEY,OCTAVIA",
+                "ROE,MATTHEW",
+                "ROGERS,ROLAND",
+                "ROSENBERGER,DARBY",
+                "RYAN,LISA",
+                "SANFORD,KATHRYN",
+                "SASLOW,THEODORE",
+                "SCHAFHAUSEN,SHANNON",
+                "SCHWAB,KORAH",
+                "SEAGO,JUDITH",
+                "SELLERS,DONNA",
+                "SHIRLEY,TERRY",
+                "SHUTE,AMY",
+                "SIAS,CORRIE",
+                "SMITH,LAURIE",
+                "SNYDER,THOMAS",
+                "SPRINGHETTI,NICHOLAS",
+                "STEWART,CATHERINE",
+                "STILLWACHS,KIMBERLY",
+                "SULLIVAN,CAITLIN",
+                "SUTTON,AMY",
+                "SUTTON-HANNAH,JENNIFER",
+                "SWANGER,REBECCA",
+                "TAYLOR,CORRINE",
+                "TEATER,DONALD",
+                "THOMAS,DAVID",
+                "THOMPSON,LUKE",
+                "THOMPSON,LUVENIA",
+                "TODD,JUELENA",
+                "TUCKER,REBEKAH",
+                "TULLY,EMILY",
+                "TURNER,CECIL",
+                "TURNER,STEPHANIE",
+                "VANLANDINGHAM,JENNIFER",
+                "VINCELLI,SARA",
+                "WAGNER,LORI",
+                "WALKER,ABIGAIL",
+                "WALKER,AUDRA",
+                "WARPULA,GLENN",
+                "WEEMS,AMELIE",
+                "WEISGERBER,WILLIAM",
+                "WESTON,JAMIE",
+                "WHISNANT,HEATHER",
+                "WHITE,KENDRICK",
+                "WILDER,AMANDA",
+                "WILKINS,ANNALYSE",
+                "WILLIAMSON,BOBBIE",
+                "WILSON,HALEY",
+                "WISE,SUSANNE",
+                "WOODWARD,RIVERS",
+                "YODER,DANIEL",
+                "YONTZ,SARAH",
+                "YORK,ELIZABETH",
+                "ZADEL,ARI",
+                "ZAFFINO,MARYSHELL",
+                "ZELOV,ANNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "1105",
+                  "specialityDesc": "Acute Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1500",
+                  "specialityDesc": "Pediatric Nutrition"
+                },
+                {
+                  "specialityCd": "835",
+                  "specialityDesc": "Pediatric Pulmonology"
+                },
+                {
+                  "specialityCd": "1060",
+                  "specialityDesc": "Student Health Care"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "220",
+                  "specialityDesc": "Clinic Pharmacist Practitioner"
+                },
+                {
+                  "specialityCd": "1295",
+                  "specialityDesc": "Women's Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "785",
+                  "specialityDesc": "Pediatric Endocrinology"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "445",
+                  "specialityDesc": "Gynecology"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "765",
+                  "specialityDesc": "Pediatric Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "162",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "57714825",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AGOSTINI,MEGHAN",
+                "AGUILAR VALDEZ,GEORGINA",
+                "ALFANO,HEATHER",
+                "ALTAMIRANO,MELISSA",
+                "ATKINSON,BRIAN",
+                "AUFIERO,BIANCA",
+                "AUSTIN,KIMBERLEY",
+                "BARBEE,ERIN",
+                "BERLINER,JULEAH",
+                "BESSEY,CAROLINE",
+                "BLIZARD,BETHANY",
+                "BOONE,DEBRA",
+                "BRAHY,KELLY",
+                "BRASWELL,TROY",
+                "BRAZIL,MICHAEL",
+                "BRINK,JONATHAN",
+                "BROOKS,LAURA",
+                "BUCKNER JR,DONALD",
+                "BURTON,CANDACE",
+                "BUTTERFIELD,NENA",
+                "CAMP,JAMIE",
+                "CARPENTER,JULIE",
+                "CARTEE,RHONDA",
+                "CASSUM,MARIAH",
+                "CASWELL,KASIE",
+                "CATANIA,GIANNA",
+                "CATANIA-THOMAS,GIANNA",
+                "CAVE,AUDRA",
+                "CHAMBERLAIN,HEATHER",
+                "CHESNA,SUSAN",
+                "CHILDERS,BRIANA",
+                "CLARKE,ROBERT",
+                "CONNER,LONDYN",
+                "COOK,MORGAN",
+                "COOLEY,RACHEL",
+                "CORN,WILBURN",
+                "CORREA,EDUARDO",
+                "CURRAN,DIANA",
+                "DAVES,HARRISON",
+                "DAVIS,DAYTON",
+                "DE NARDO,ANAMARIA",
+                "DENES,AMY",
+                "DIAZ PEREZ,JUANA",
+                "DOCKERY,SAMUEL",
+                "DOIRON,PAULETTE",
+                "EICHHORN,EMILY",
+                "ELLINGTON,LAURA",
+                "ELMORE,CARRIE",
+                "ERBSEN,RITA",
+                "FERRELL,JENNIFER",
+                "FERRON,MARY",
+                "FINCHER,KRISTY",
+                "FISHER,ZACHARY",
+                "FRALIX,TERESA",
+                "GALLOWAY,ERIN",
+                "GAMBLE,TAYLOR",
+                "GARCIA,KELLY",
+                "GIORDANO,MEAGAN",
+                "GLOVER,CHRISTIAN",
+                "GREEN,LORI",
+                "GREENWAY,KIMBERLY",
+                "GREER,LEAH",
+                "GRUNER,KRISTIN",
+                "HANSLEY,LATOYA",
+                "HARRIS,STACY",
+                "HATFIELD,SAMANTHA",
+                "HAYES,MAGDALENA",
+                "HEDGES,LAUREN",
+                "HENSON,AMBER",
+                "HERDT,LINDA",
+                "HILL,JAMES",
+                "HINDERLITER,DANIEL",
+                "HIPKINS,BRITTANY",
+                "HISLOP,FAITH",
+                "HODGE,BRYAN",
+                "HODGE,HANNAH",
+                "HOLMES,REBECCA",
+                "HORWITZ,JAMES",
+                "HUDSPETH,RICHARD",
+                "HUTCHINSON,CATHERINE",
+                "JAMES,MELISSA",
+                "JOHN,GABRIELLA",
+                "JONES,AMANDA",
+                "JONES,BRITTA",
+                "JULIUS,STEVEN",
+                "KAUFMAN,CHRISTIAN",
+                "KIESEL,JULIANNE",
+                "KLASSEN,ROSEMARY",
+                "LADD,LISA",
+                "LADD,NICHOLAS",
+                "LAGAN,GARRETT",
+                "LAM,LAURA",
+                "LANGEFELD,STEPHANIE",
+                "LATTER,MACY",
+                "LATTER,PHILIP",
+                "LELAND,PARKER",
+                "LOCKERBY,MISHELLE",
+                "LONG,STEPHANIE",
+                "LOOKADOO,KIRSTEN",
+                "LOVETTE,DANIEL",
+                "LUDWIG,TAYLOR",
+                "MAHALA,LORI",
+                "MAICHE,ELIZABETH",
+                "MARIETTA,AMY",
+                "MARTIN,KATIE",
+                "MARTINEZ SEAGLE,LACEY",
+                "MAXWELL,REGAN",
+                "MAY,AARON",
+                "MAYSE,COURTNEY",
+                "MCCRAW,MEGAN",
+                "MCDONALD,JENNIFER",
+                "MILLER,JESSICA",
+                "MINICK,HANNAH",
+                "MITCHELL,SHANNON",
+                "MONACO,ERIC",
+                "MOODY,KAITLYN",
+                "MORINI,ALEXIS",
+                "MORRIS,ANDREW",
+                "MORRIS,ANDREW",
+                "MURPHY,TORRIE",
+                "NEIHEISEL,KIMBERLY",
+                "NICHOLLS,JOHN",
+                "NIELAND,ROBERT",
+                "OCONNER,SHANNON",
+                "OGLES,BENJAMIN",
+                "OLIVIER,JULIANNE",
+                "ONASH,NICHOLE",
+                "OWENS,KAITLIN",
+                "PARKS,HANNAH",
+                "PEARL,MELISSA",
+                "PEIFFER,SARAH",
+                "PETERSON WILSON,TWYLA",
+                "PIOR,JESSICA",
+                "PITTMAN,CYNTHIA",
+                "RAY,NICOLE",
+                "RAY,WILLIAM",
+                "REDMOND,MICHAEL",
+                "ROBBINS,HANNAH",
+                "RODNEY,OCTAVIA",
+                "ROE,MATTHEW",
+                "ROGERS,ROLAND",
+                "ROSENBERGER,DARBY",
+                "RYAN,LISA",
+                "SANFORD,KATHRYN",
+                "SASLOW,THEODORE",
+                "SCHAFHAUSEN,SHANNON",
+                "SCHWAB,KORAH",
+                "SEAGO,JUDITH",
+                "SELLERS,DONNA",
+                "SHIRLEY,TERRY",
+                "SHUTE,AMY",
+                "SIAS,CORRIE",
+                "SMITH,LAURIE",
+                "SNYDER,THOMAS",
+                "SPRINGHETTI,NICHOLAS",
+                "STEWART,CATHERINE",
+                "STILLWACHS,KIMBERLY",
+                "SULLIVAN,CAITLIN",
+                "SUTTON,AMY",
+                "SUTTON-HANNAH,JENNIFER",
+                "SWANGER,REBECCA",
+                "TAYLOR,CORRINE",
+                "TEATER,DONALD",
+                "THOMAS,DAVID",
+                "THOMPSON,LUKE",
+                "THOMPSON,LUVENIA",
+                "TODD,JUELENA",
+                "TUCKER,REBEKAH",
+                "TULLY,EMILY",
+                "TURNER,CECIL",
+                "TURNER,STEPHANIE",
+                "VANLANDINGHAM,JENNIFER",
+                "VINCELLI,SARA",
+                "WAGNER,LORI",
+                "WALKER,ABIGAIL",
+                "WALKER,AUDRA",
+                "WARPULA,GLENN",
+                "WEEMS,AMELIE",
+                "WEISGERBER,WILLIAM",
+                "WESTON,JAMIE",
+                "WHISNANT,HEATHER",
+                "WHITE,KENDRICK",
+                "WILDER,AMANDA",
+                "WILKINS,ANNALYSE",
+                "WILLIAMSON,BOBBIE",
+                "WILSON,HALEY",
+                "WISE,SUSANNE",
+                "WOODWARD,RIVERS",
+                "YODER,DANIEL",
+                "YONTZ,SARAH",
+                "YORK,ELIZABETH",
+                "ZADEL,ARI",
+                "ZAFFINO,MARYSHELL",
+                "ZELOV,ANNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "1105",
+                  "specialityDesc": "Acute Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1500",
+                  "specialityDesc": "Pediatric Nutrition"
+                },
+                {
+                  "specialityCd": "835",
+                  "specialityDesc": "Pediatric Pulmonology"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "1060",
+                  "specialityDesc": "Student Health Care"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1295",
+                  "specialityDesc": "Women's Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "220",
+                  "specialityDesc": "Clinic Pharmacist Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "785",
+                  "specialityDesc": "Pediatric Endocrinology"
+                },
+                {
+                  "specialityCd": "445",
+                  "specialityDesc": "Gynecology"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "765",
+                  "specialityDesc": "Pediatric Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42173975",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AGOSTINI,MEGHAN",
+                "AGUILAR VALDEZ,GEORGINA",
+                "ALFANO,HEATHER",
+                "ALTAMIRANO,MELISSA",
+                "ATKINSON,BRIAN",
+                "AUFIERO,BIANCA",
+                "AUSTIN,KIMBERLEY",
+                "BARBEE,ERIN",
+                "BERLINER,JULEAH",
+                "BESSEY,CAROLINE",
+                "BLIZARD,BETHANY",
+                "BOONE,DEBRA",
+                "BRAHY,KELLY",
+                "BRASWELL,TROY",
+                "BRAZIL,MICHAEL",
+                "BRINK,JONATHAN",
+                "BROOKS,LAURA",
+                "BUCKNER JR,DONALD",
+                "BURTON,CANDACE",
+                "BUTTERFIELD,NENA",
+                "CAMP,JAMIE",
+                "CARPENTER,JULIE",
+                "CARTEE,RHONDA",
+                "CASSUM,MARIAH",
+                "CASWELL,KASIE",
+                "CATANIA,GIANNA",
+                "CATANIA-THOMAS,GIANNA",
+                "CAVE,AUDRA",
+                "CHAMBERLAIN,HEATHER",
+                "CHESNA,SUSAN",
+                "CHILDERS,BRIANA",
+                "CLARKE,ROBERT",
+                "CONNER,LONDYN",
+                "COOK,MORGAN",
+                "COOLEY,RACHEL",
+                "CORN,WILBURN",
+                "CORREA,EDUARDO",
+                "CURRAN,DIANA",
+                "DAVES,HARRISON",
+                "DAVIS,DAYTON",
+                "DE NARDO,ANAMARIA",
+                "DENES,AMY",
+                "DIAZ PEREZ,JUANA",
+                "DOCKERY,SAMUEL",
+                "DOIRON,PAULETTE",
+                "EICHHORN,EMILY",
+                "ELLINGTON,LAURA",
+                "ELMORE,CARRIE",
+                "ERBSEN,RITA",
+                "FERRELL,JENNIFER",
+                "FERRON,MARY",
+                "FINCHER,KRISTY",
+                "FISHER,ZACHARY",
+                "FRALIX,TERESA",
+                "GALLOWAY,ERIN",
+                "GAMBLE,TAYLOR",
+                "GARCIA,KELLY",
+                "GIORDANO,MEAGAN",
+                "GLOVER,CHRISTIAN",
+                "GREEN,LORI",
+                "GREENWAY,KIMBERLY",
+                "GREER,LEAH",
+                "GRUNER,KRISTIN",
+                "HANSLEY,LATOYA",
+                "HARRIS,STACY",
+                "HATFIELD,SAMANTHA",
+                "HAYES,MAGDALENA",
+                "HEDGES,LAUREN",
+                "HENSON,AMBER",
+                "HERDT,LINDA",
+                "HILL,JAMES",
+                "HINDERLITER,DANIEL",
+                "HIPKINS,BRITTANY",
+                "HISLOP,FAITH",
+                "HODGE,BRYAN",
+                "HODGE,HANNAH",
+                "HOLMES,REBECCA",
+                "HORWITZ,JAMES",
+                "HUDSPETH,RICHARD",
+                "HUTCHINSON,CATHERINE",
+                "JAMES,MELISSA",
+                "JOHN,GABRIELLA",
+                "JONES,AMANDA",
+                "JONES,BRITTA",
+                "JULIUS,STEVEN",
+                "KAUFMAN,CHRISTIAN",
+                "KIESEL,JULIANNE",
+                "KLASSEN,ROSEMARY",
+                "LADD,LISA",
+                "LADD,NICHOLAS",
+                "LAGAN,GARRETT",
+                "LAM,LAURA",
+                "LANGEFELD,STEPHANIE",
+                "LATTER,MACY",
+                "LATTER,PHILIP",
+                "LELAND,PARKER",
+                "LOCKERBY,MISHELLE",
+                "LONG,STEPHANIE",
+                "LOOKADOO,KIRSTEN",
+                "LOVETTE,DANIEL",
+                "LUDWIG,TAYLOR",
+                "MAHALA,LORI",
+                "MAICHE,ELIZABETH",
+                "MARIETTA,AMY",
+                "MARTIN,KATIE",
+                "MARTINEZ SEAGLE,LACEY",
+                "MAXWELL,REGAN",
+                "MAY,AARON",
+                "MAYSE,COURTNEY",
+                "MCCRAW,MEGAN",
+                "MCDONALD,JENNIFER",
+                "MILLER,JESSICA",
+                "MINICK,HANNAH",
+                "MITCHELL,SHANNON",
+                "MONACO,ERIC",
+                "MOODY,KAITLYN",
+                "MORINI,ALEXIS",
+                "MORRIS,ANDREW",
+                "MORRIS,ANDREW",
+                "MURPHY,TORRIE",
+                "NEIHEISEL,KIMBERLY",
+                "NICHOLLS,JOHN",
+                "NIELAND,ROBERT",
+                "OCONNER,SHANNON",
+                "OGLES,BENJAMIN",
+                "OLIVIER,JULIANNE",
+                "ONASH,NICHOLE",
+                "OWENS,KAITLIN",
+                "PARKS,HANNAH",
+                "PEARL,MELISSA",
+                "PEIFFER,SARAH",
+                "PETERSON WILSON,TWYLA",
+                "PIOR,JESSICA",
+                "PITTMAN,CYNTHIA",
+                "RAY,NICOLE",
+                "RAY,WILLIAM",
+                "REDMOND,MICHAEL",
+                "ROBBINS,HANNAH",
+                "RODNEY,OCTAVIA",
+                "ROE,MATTHEW",
+                "ROGERS,ROLAND",
+                "ROSENBERGER,DARBY",
+                "RYAN,LISA",
+                "SANFORD,KATHRYN",
+                "SASLOW,THEODORE",
+                "SCHAFHAUSEN,SHANNON",
+                "SCHWAB,KORAH",
+                "SEAGO,JUDITH",
+                "SELLERS,DONNA",
+                "SHIRLEY,TERRY",
+                "SHUTE,AMY",
+                "SIAS,CORRIE",
+                "SMITH,LAURIE",
+                "SNYDER,THOMAS",
+                "SPRINGHETTI,NICHOLAS",
+                "STEWART,CATHERINE",
+                "STILLWACHS,KIMBERLY",
+                "SULLIVAN,CAITLIN",
+                "SUTTON,AMY",
+                "SUTTON-HANNAH,JENNIFER",
+                "SWANGER,REBECCA",
+                "TAYLOR,CORRINE",
+                "TEATER,DONALD",
+                "THOMAS,DAVID",
+                "THOMPSON,LUKE",
+                "THOMPSON,LUVENIA",
+                "TODD,JUELENA",
+                "TUCKER,REBEKAH",
+                "TULLY,EMILY",
+                "TURNER,CECIL",
+                "TURNER,STEPHANIE",
+                "VANLANDINGHAM,JENNIFER",
+                "VINCELLI,SARA",
+                "WAGNER,LORI",
+                "WALKER,ABIGAIL",
+                "WALKER,AUDRA",
+                "WARPULA,GLENN",
+                "WEEMS,AMELIE",
+                "WEISGERBER,WILLIAM",
+                "WESTON,JAMIE",
+                "WHISNANT,HEATHER",
+                "WHITE,KENDRICK",
+                "WILDER,AMANDA",
+                "WILKINS,ANNALYSE",
+                "WILLIAMSON,BOBBIE",
+                "WILSON,HALEY",
+                "WISE,SUSANNE",
+                "WOODWARD,RIVERS",
+                "YODER,DANIEL",
+                "YONTZ,SARAH",
+                "YORK,ELIZABETH",
+                "ZADEL,ARI",
+                "ZAFFINO,MARYSHELL",
+                "ZELOV,ANNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "1105",
+                  "specialityDesc": "Acute Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1500",
+                  "specialityDesc": "Pediatric Nutrition"
+                },
+                {
+                  "specialityCd": "835",
+                  "specialityDesc": "Pediatric Pulmonology"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "1060",
+                  "specialityDesc": "Student Health Care"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "220",
+                  "specialityDesc": "Clinic Pharmacist Practitioner"
+                },
+                {
+                  "specialityCd": "1295",
+                  "specialityDesc": "Women's Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "785",
+                  "specialityDesc": "Pediatric Endocrinology"
+                },
+                {
+                  "specialityCd": "445",
+                  "specialityDesc": "Gynecology"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "765",
+                  "specialityDesc": "Pediatric Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42173972",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AGOSTINI,MEGHAN",
+                "AGUILAR VALDEZ,GEORGINA",
+                "ALFANO,HEATHER",
+                "ALTAMIRANO,MELISSA",
+                "ATKINSON,BRIAN",
+                "AUFIERO,BIANCA",
+                "AUSTIN,KIMBERLEY",
+                "BARBEE,ERIN",
+                "BERLINER,JULEAH",
+                "BESSEY,CAROLINE",
+                "BLIZARD,BETHANY",
+                "BOONE,DEBRA",
+                "BRAHY,KELLY",
+                "BRASWELL,TROY",
+                "BRAZIL,MICHAEL",
+                "BRINK,JONATHAN",
+                "BROOKS,LAURA",
+                "BUCKNER JR,DONALD",
+                "BURTON,CANDACE",
+                "BUTTERFIELD,NENA",
+                "CAMP,JAMIE",
+                "CARPENTER,JULIE",
+                "CARTEE,RHONDA",
+                "CASSUM,MARIAH",
+                "CASWELL,KASIE",
+                "CATANIA,GIANNA",
+                "CATANIA-THOMAS,GIANNA",
+                "CAVE,AUDRA",
+                "CHAMBERLAIN,HEATHER",
+                "CHESNA,SUSAN",
+                "CHILDERS,BRIANA",
+                "CLARKE,ROBERT",
+                "CONNER,LONDYN",
+                "COOK,MORGAN",
+                "COOLEY,RACHEL",
+                "CORN,WILBURN",
+                "CORREA,EDUARDO",
+                "CURRAN,DIANA",
+                "DAVES,HARRISON",
+                "DAVIS,DAYTON",
+                "DE NARDO,ANAMARIA",
+                "DENES,AMY",
+                "DIAZ PEREZ,JUANA",
+                "DOCKERY,SAMUEL",
+                "DOIRON,PAULETTE",
+                "EICHHORN,EMILY",
+                "ELLINGTON,LAURA",
+                "ELMORE,CARRIE",
+                "ERBSEN,RITA",
+                "FERRELL,JENNIFER",
+                "FERRON,MARY",
+                "FINCHER,KRISTY",
+                "FISHER,ZACHARY",
+                "FRALIX,TERESA",
+                "GALLOWAY,ERIN",
+                "GAMBLE,TAYLOR",
+                "GARCIA,KELLY",
+                "GIORDANO,MEAGAN",
+                "GLOVER,CHRISTIAN",
+                "GREEN,LORI",
+                "GREENWAY,KIMBERLY",
+                "GREER,LEAH",
+                "GRUNER,KRISTIN",
+                "HANSLEY,LATOYA",
+                "HARRIS,STACY",
+                "HATFIELD,SAMANTHA",
+                "HAYES,MAGDALENA",
+                "HEDGES,LAUREN",
+                "HENSON,AMBER",
+                "HERDT,LINDA",
+                "HILL,JAMES",
+                "HINDERLITER,DANIEL",
+                "HIPKINS,BRITTANY",
+                "HISLOP,FAITH",
+                "HODGE,BRYAN",
+                "HODGE,HANNAH",
+                "HOLMES,REBECCA",
+                "HORWITZ,JAMES",
+                "HUDSPETH,RICHARD",
+                "HUTCHINSON,CATHERINE",
+                "JAMES,MELISSA",
+                "JOHN,GABRIELLA",
+                "JONES,AMANDA",
+                "JONES,BRITTA",
+                "JULIUS,STEVEN",
+                "KAUFMAN,CHRISTIAN",
+                "KIESEL,JULIANNE",
+                "KLASSEN,ROSEMARY",
+                "LADD,LISA",
+                "LADD,NICHOLAS",
+                "LAGAN,GARRETT",
+                "LAM,LAURA",
+                "LANGEFELD,STEPHANIE",
+                "LATTER,MACY",
+                "LATTER,PHILIP",
+                "LELAND,PARKER",
+                "LOCKERBY,MISHELLE",
+                "LONG,STEPHANIE",
+                "LOOKADOO,KIRSTEN",
+                "LOVETTE,DANIEL",
+                "LUDWIG,TAYLOR",
+                "MAHALA,LORI",
+                "MAICHE,ELIZABETH",
+                "MARIETTA,AMY",
+                "MARTIN,KATIE",
+                "MARTINEZ SEAGLE,LACEY",
+                "MAXWELL,REGAN",
+                "MAY,AARON",
+                "MAYSE,COURTNEY",
+                "MCCRAW,MEGAN",
+                "MCDONALD,JENNIFER",
+                "MILLER,JESSICA",
+                "MINICK,HANNAH",
+                "MITCHELL,SHANNON",
+                "MONACO,ERIC",
+                "MOODY,KAITLYN",
+                "MORINI,ALEXIS",
+                "MORRIS,ANDREW",
+                "MORRIS,ANDREW",
+                "MURPHY,TORRIE",
+                "NEIHEISEL,KIMBERLY",
+                "NICHOLLS,JOHN",
+                "NIELAND,ROBERT",
+                "OCONNER,SHANNON",
+                "OGLES,BENJAMIN",
+                "OLIVIER,JULIANNE",
+                "ONASH,NICHOLE",
+                "OWENS,KAITLIN",
+                "PARKS,HANNAH",
+                "PEARL,MELISSA",
+                "PEIFFER,SARAH",
+                "PETERSON WILSON,TWYLA",
+                "PIOR,JESSICA",
+                "PITTMAN,CYNTHIA",
+                "RAY,NICOLE",
+                "RAY,WILLIAM",
+                "REDMOND,MICHAEL",
+                "ROBBINS,HANNAH",
+                "RODNEY,OCTAVIA",
+                "ROE,MATTHEW",
+                "ROGERS,ROLAND",
+                "ROSENBERGER,DARBY",
+                "RYAN,LISA",
+                "SANFORD,KATHRYN",
+                "SASLOW,THEODORE",
+                "SCHAFHAUSEN,SHANNON",
+                "SCHWAB,KORAH",
+                "SEAGO,JUDITH",
+                "SELLERS,DONNA",
+                "SHIRLEY,TERRY",
+                "SHUTE,AMY",
+                "SIAS,CORRIE",
+                "SMITH,LAURIE",
+                "SNYDER,THOMAS",
+                "SPRINGHETTI,NICHOLAS",
+                "STEWART,CATHERINE",
+                "STILLWACHS,KIMBERLY",
+                "SULLIVAN,CAITLIN",
+                "SUTTON,AMY",
+                "SUTTON-HANNAH,JENNIFER",
+                "SWANGER,REBECCA",
+                "TAYLOR,CORRINE",
+                "TEATER,DONALD",
+                "THOMAS,DAVID",
+                "THOMPSON,LUKE",
+                "THOMPSON,LUVENIA",
+                "TODD,JUELENA",
+                "TUCKER,REBEKAH",
+                "TULLY,EMILY",
+                "TURNER,CECIL",
+                "TURNER,STEPHANIE",
+                "VANLANDINGHAM,JENNIFER",
+                "VINCELLI,SARA",
+                "WAGNER,LORI",
+                "WALKER,ABIGAIL",
+                "WALKER,AUDRA",
+                "WARPULA,GLENN",
+                "WEEMS,AMELIE",
+                "WEISGERBER,WILLIAM",
+                "WESTON,JAMIE",
+                "WHISNANT,HEATHER",
+                "WHITE,KENDRICK",
+                "WILDER,AMANDA",
+                "WILKINS,ANNALYSE",
+                "WILLIAMSON,BOBBIE",
+                "WILSON,HALEY",
+                "WISE,SUSANNE",
+                "WOODWARD,RIVERS",
+                "YODER,DANIEL",
+                "YONTZ,SARAH",
+                "YORK,ELIZABETH",
+                "ZADEL,ARI",
+                "ZAFFINO,MARYSHELL",
+                "ZELOV,ANNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "1105",
+                  "specialityDesc": "Acute Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1500",
+                  "specialityDesc": "Pediatric Nutrition"
+                },
+                {
+                  "specialityCd": "835",
+                  "specialityDesc": "Pediatric Pulmonology"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "1060",
+                  "specialityDesc": "Student Health Care"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1295",
+                  "specialityDesc": "Women's Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "220",
+                  "specialityDesc": "Clinic Pharmacist Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "785",
+                  "specialityDesc": "Pediatric Endocrinology"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "445",
+                  "specialityDesc": "Gynecology"
+                },
+                {
+                  "specialityCd": "765",
+                  "specialityDesc": "Pediatric Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42173963",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AGOSTINI,MEGHAN",
+                "AGUILAR VALDEZ,GEORGINA",
+                "ALFANO,HEATHER",
+                "ALTAMIRANO,MELISSA",
+                "ATKINSON,BRIAN",
+                "AUFIERO,BIANCA",
+                "AUSTIN,KIMBERLEY",
+                "BARBEE,ERIN",
+                "BERLINER,JULEAH",
+                "BESSEY,CAROLINE",
+                "BLIZARD,BETHANY",
+                "BOONE,DEBRA",
+                "BRAHY,KELLY",
+                "BRASWELL,TROY",
+                "BRAZIL,MICHAEL",
+                "BRINK,JONATHAN",
+                "BROOKS,LAURA",
+                "BUCKNER JR,DONALD",
+                "BURTON,CANDACE",
+                "BUTTERFIELD,NENA",
+                "CAMP,JAMIE",
+                "CARPENTER,JULIE",
+                "CARTEE,RHONDA",
+                "CASSUM,MARIAH",
+                "CASWELL,KASIE",
+                "CATANIA,GIANNA",
+                "CATANIA-THOMAS,GIANNA",
+                "CAVE,AUDRA",
+                "CHAMBERLAIN,HEATHER",
+                "CHESNA,SUSAN",
+                "CHILDERS,BRIANA",
+                "CLARKE,ROBERT",
+                "CONNER,LONDYN",
+                "COOK,MORGAN",
+                "COOLEY,RACHEL",
+                "CORN,WILBURN",
+                "CORREA,EDUARDO",
+                "CURRAN,DIANA",
+                "DAVES,HARRISON",
+                "DAVIS,DAYTON",
+                "DE NARDO,ANAMARIA",
+                "DENES,AMY",
+                "DIAZ PEREZ,JUANA",
+                "DOCKERY,SAMUEL",
+                "DOIRON,PAULETTE",
+                "EICHHORN,EMILY",
+                "ELLINGTON,LAURA",
+                "ELMORE,CARRIE",
+                "ERBSEN,RITA",
+                "FERRELL,JENNIFER",
+                "FERRON,MARY",
+                "FINCHER,KRISTY",
+                "FISHER,ZACHARY",
+                "FRALIX,TERESA",
+                "GALLOWAY,ERIN",
+                "GAMBLE,TAYLOR",
+                "GARCIA,KELLY",
+                "GIORDANO,MEAGAN",
+                "GLOVER,CHRISTIAN",
+                "GREEN,LORI",
+                "GREENWAY,KIMBERLY",
+                "GREER,LEAH",
+                "GRUNER,KRISTIN",
+                "HANSLEY,LATOYA",
+                "HARRIS,STACY",
+                "HATFIELD,SAMANTHA",
+                "HAYES,MAGDALENA",
+                "HEDGES,LAUREN",
+                "HENSON,AMBER",
+                "HERDT,LINDA",
+                "HILL,JAMES",
+                "HINDERLITER,DANIEL",
+                "HIPKINS,BRITTANY",
+                "HISLOP,FAITH",
+                "HODGE,BRYAN",
+                "HODGE,HANNAH",
+                "HOLMES,REBECCA",
+                "HORWITZ,JAMES",
+                "HUDSPETH,RICHARD",
+                "HUTCHINSON,CATHERINE",
+                "JAMES,MELISSA",
+                "JOHN,GABRIELLA",
+                "JONES,AMANDA",
+                "JONES,BRITTA",
+                "JULIUS,STEVEN",
+                "KAUFMAN,CHRISTIAN",
+                "KIESEL,JULIANNE",
+                "KLASSEN,ROSEMARY",
+                "LADD,LISA",
+                "LADD,NICHOLAS",
+                "LAGAN,GARRETT",
+                "LAM,LAURA",
+                "LANGEFELD,STEPHANIE",
+                "LATTER,MACY",
+                "LATTER,PHILIP",
+                "LELAND,PARKER",
+                "LOCKERBY,MISHELLE",
+                "LONG,STEPHANIE",
+                "LOOKADOO,KIRSTEN",
+                "LOVETTE,DANIEL",
+                "LUDWIG,TAYLOR",
+                "MAHALA,LORI",
+                "MAICHE,ELIZABETH",
+                "MARIETTA,AMY",
+                "MARTIN,KATIE",
+                "MARTINEZ SEAGLE,LACEY",
+                "MAXWELL,REGAN",
+                "MAY,AARON",
+                "MAYSE,COURTNEY",
+                "MCCRAW,MEGAN",
+                "MCDONALD,JENNIFER",
+                "MILLER,JESSICA",
+                "MINICK,HANNAH",
+                "MITCHELL,SHANNON",
+                "MONACO,ERIC",
+                "MOODY,KAITLYN",
+                "MORINI,ALEXIS",
+                "MORRIS,ANDREW",
+                "MORRIS,ANDREW",
+                "MURPHY,TORRIE",
+                "NEIHEISEL,KIMBERLY",
+                "NICHOLLS,JOHN",
+                "NIELAND,ROBERT",
+                "OCONNER,SHANNON",
+                "OGLES,BENJAMIN",
+                "OLIVIER,JULIANNE",
+                "ONASH,NICHOLE",
+                "OWENS,KAITLIN",
+                "PARKS,HANNAH",
+                "PEARL,MELISSA",
+                "PEIFFER,SARAH",
+                "PETERSON WILSON,TWYLA",
+                "PIOR,JESSICA",
+                "PITTMAN,CYNTHIA",
+                "RAY,NICOLE",
+                "RAY,WILLIAM",
+                "REDMOND,MICHAEL",
+                "ROBBINS,HANNAH",
+                "RODNEY,OCTAVIA",
+                "ROE,MATTHEW",
+                "ROGERS,ROLAND",
+                "ROSENBERGER,DARBY",
+                "RYAN,LISA",
+                "SANFORD,KATHRYN",
+                "SASLOW,THEODORE",
+                "SCHAFHAUSEN,SHANNON",
+                "SCHWAB,KORAH",
+                "SEAGO,JUDITH",
+                "SELLERS,DONNA",
+                "SHIRLEY,TERRY",
+                "SHUTE,AMY",
+                "SIAS,CORRIE",
+                "SMITH,LAURIE",
+                "SNYDER,THOMAS",
+                "SPRINGHETTI,NICHOLAS",
+                "STEWART,CATHERINE",
+                "STILLWACHS,KIMBERLY",
+                "SULLIVAN,CAITLIN",
+                "SUTTON,AMY",
+                "SUTTON-HANNAH,JENNIFER",
+                "SWANGER,REBECCA",
+                "TAYLOR,CORRINE",
+                "TEATER,DONALD",
+                "THOMAS,DAVID",
+                "THOMPSON,LUKE",
+                "THOMPSON,LUVENIA",
+                "TODD,JUELENA",
+                "TUCKER,REBEKAH",
+                "TULLY,EMILY",
+                "TURNER,CECIL",
+                "TURNER,STEPHANIE",
+                "VANLANDINGHAM,JENNIFER",
+                "VINCELLI,SARA",
+                "WAGNER,LORI",
+                "WALKER,ABIGAIL",
+                "WALKER,AUDRA",
+                "WARPULA,GLENN",
+                "WEEMS,AMELIE",
+                "WEISGERBER,WILLIAM",
+                "WESTON,JAMIE",
+                "WHISNANT,HEATHER",
+                "WHITE,KENDRICK",
+                "WILDER,AMANDA",
+                "WILKINS,ANNALYSE",
+                "WILLIAMSON,BOBBIE",
+                "WILSON,HALEY",
+                "WISE,SUSANNE",
+                "WOODWARD,RIVERS",
+                "YODER,DANIEL",
+                "YONTZ,SARAH",
+                "YORK,ELIZABETH",
+                "ZADEL,ARI",
+                "ZAFFINO,MARYSHELL",
+                "ZELOV,ANNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "1105",
+                  "specialityDesc": "Acute Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1500",
+                  "specialityDesc": "Pediatric Nutrition"
+                },
+                {
+                  "specialityCd": "835",
+                  "specialityDesc": "Pediatric Pulmonology"
+                },
+                {
+                  "specialityCd": "1060",
+                  "specialityDesc": "Student Health Care"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "220",
+                  "specialityDesc": "Clinic Pharmacist Practitioner"
+                },
+                {
+                  "specialityCd": "1295",
+                  "specialityDesc": "Women's Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "785",
+                  "specialityDesc": "Pediatric Endocrinology"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "445",
+                  "specialityDesc": "Gynecology"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "765",
+                  "specialityDesc": "Pediatric Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "506",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "845507399",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AGOSTINI,MEGHAN",
+                "AGUILAR VALDEZ,GEORGINA",
+                "ALFANO,HEATHER",
+                "ALTAMIRANO,MELISSA",
+                "ATKINSON,BRIAN",
+                "AUFIERO,BIANCA",
+                "AUSTIN,KIMBERLEY",
+                "BARBEE,ERIN",
+                "BERLINER,JULEAH",
+                "BESSEY,CAROLINE",
+                "BLIZARD,BETHANY",
+                "BOONE,DEBRA",
+                "BRAHY,KELLY",
+                "BRASWELL,TROY",
+                "BRAZIL,MICHAEL",
+                "BRINK,JONATHAN",
+                "BROOKS,LAURA",
+                "BUCKNER JR,DONALD",
+                "BURTON,CANDACE",
+                "BUTTERFIELD,NENA",
+                "CAMP,JAMIE",
+                "CARPENTER,JULIE",
+                "CARTEE,RHONDA",
+                "CASSUM,MARIAH",
+                "CASWELL,KASIE",
+                "CATANIA,GIANNA",
+                "CATANIA-THOMAS,GIANNA",
+                "CAVE,AUDRA",
+                "CHAMBERLAIN,HEATHER",
+                "CHESNA,SUSAN",
+                "CHILDERS,BRIANA",
+                "CLARKE,ROBERT",
+                "CONNER,LONDYN",
+                "COOK,MORGAN",
+                "COOLEY,RACHEL",
+                "CORN,WILBURN",
+                "CORREA,EDUARDO",
+                "CURRAN,DIANA",
+                "DAVES,HARRISON",
+                "DAVIS,DAYTON",
+                "DE NARDO,ANAMARIA",
+                "DENES,AMY",
+                "DIAZ PEREZ,JUANA",
+                "DOCKERY,SAMUEL",
+                "DOIRON,PAULETTE",
+                "EICHHORN,EMILY",
+                "ELLINGTON,LAURA",
+                "ELMORE,CARRIE",
+                "ERBSEN,RITA",
+                "FERRELL,JENNIFER",
+                "FERRON,MARY",
+                "FINCHER,KRISTY",
+                "FISHER,ZACHARY",
+                "FRALIX,TERESA",
+                "GALLOWAY,ERIN",
+                "GAMBLE,TAYLOR",
+                "GARCIA,KELLY",
+                "GIORDANO,MEAGAN",
+                "GLOVER,CHRISTIAN",
+                "GREEN,LORI",
+                "GREENWAY,KIMBERLY",
+                "GREER,LEAH",
+                "GRUNER,KRISTIN",
+                "HANSLEY,LATOYA",
+                "HARRIS,STACY",
+                "HATFIELD,SAMANTHA",
+                "HAYES,MAGDALENA",
+                "HEDGES,LAUREN",
+                "HENSON,AMBER",
+                "HERDT,LINDA",
+                "HILL,JAMES",
+                "HINDERLITER,DANIEL",
+                "HIPKINS,BRITTANY",
+                "HISLOP,FAITH",
+                "HODGE,BRYAN",
+                "HODGE,HANNAH",
+                "HOLMES,REBECCA",
+                "HORWITZ,JAMES",
+                "HUDSPETH,RICHARD",
+                "HUTCHINSON,CATHERINE",
+                "JAMES,MELISSA",
+                "JOHN,GABRIELLA",
+                "JONES,AMANDA",
+                "JONES,BRITTA",
+                "JULIUS,STEVEN",
+                "KAUFMAN,CHRISTIAN",
+                "KIESEL,JULIANNE",
+                "KLASSEN,ROSEMARY",
+                "LADD,LISA",
+                "LADD,NICHOLAS",
+                "LAGAN,GARRETT",
+                "LAM,LAURA",
+                "LANGEFELD,STEPHANIE",
+                "LATTER,MACY",
+                "LATTER,PHILIP",
+                "LELAND,PARKER",
+                "LOCKERBY,MISHELLE",
+                "LONG,STEPHANIE",
+                "LOOKADOO,KIRSTEN",
+                "LOVETTE,DANIEL",
+                "LUDWIG,TAYLOR",
+                "MAHALA,LORI",
+                "MAICHE,ELIZABETH",
+                "MARIETTA,AMY",
+                "MARTIN,KATIE",
+                "MARTINEZ SEAGLE,LACEY",
+                "MAXWELL,REGAN",
+                "MAY,AARON",
+                "MAYSE,COURTNEY",
+                "MCCRAW,MEGAN",
+                "MCDONALD,JENNIFER",
+                "MILLER,JESSICA",
+                "MINICK,HANNAH",
+                "MITCHELL,SHANNON",
+                "MONACO,ERIC",
+                "MOODY,KAITLYN",
+                "MORINI,ALEXIS",
+                "MORRIS,ANDREW",
+                "MORRIS,ANDREW",
+                "MURPHY,TORRIE",
+                "NEIHEISEL,KIMBERLY",
+                "NICHOLLS,JOHN",
+                "NIELAND,ROBERT",
+                "OCONNER,SHANNON",
+                "OGLES,BENJAMIN",
+                "OLIVIER,JULIANNE",
+                "ONASH,NICHOLE",
+                "OWENS,KAITLIN",
+                "PARKS,HANNAH",
+                "PEARL,MELISSA",
+                "PEIFFER,SARAH",
+                "PETERSON WILSON,TWYLA",
+                "PIOR,JESSICA",
+                "PITTMAN,CYNTHIA",
+                "RAY,NICOLE",
+                "RAY,WILLIAM",
+                "REDMOND,MICHAEL",
+                "ROBBINS,HANNAH",
+                "RODNEY,OCTAVIA",
+                "ROE,MATTHEW",
+                "ROGERS,ROLAND",
+                "ROSENBERGER,DARBY",
+                "RYAN,LISA",
+                "SANFORD,KATHRYN",
+                "SASLOW,THEODORE",
+                "SCHAFHAUSEN,SHANNON",
+                "SCHWAB,KORAH",
+                "SEAGO,JUDITH",
+                "SELLERS,DONNA",
+                "SHIRLEY,TERRY",
+                "SHUTE,AMY",
+                "SIAS,CORRIE",
+                "SMITH,LAURIE",
+                "SNYDER,THOMAS",
+                "SPRINGHETTI,NICHOLAS",
+                "STEWART,CATHERINE",
+                "STILLWACHS,KIMBERLY",
+                "SULLIVAN,CAITLIN",
+                "SUTTON,AMY",
+                "SUTTON-HANNAH,JENNIFER",
+                "SWANGER,REBECCA",
+                "TAYLOR,CORRINE",
+                "TEATER,DONALD",
+                "THOMAS,DAVID",
+                "THOMPSON,LUKE",
+                "THOMPSON,LUVENIA",
+                "TODD,JUELENA",
+                "TUCKER,REBEKAH",
+                "TULLY,EMILY",
+                "TURNER,CECIL",
+                "TURNER,STEPHANIE",
+                "VANLANDINGHAM,JENNIFER",
+                "VINCELLI,SARA",
+                "WAGNER,LORI",
+                "WALKER,ABIGAIL",
+                "WALKER,AUDRA",
+                "WARPULA,GLENN",
+                "WEEMS,AMELIE",
+                "WEISGERBER,WILLIAM",
+                "WESTON,JAMIE",
+                "WHISNANT,HEATHER",
+                "WHITE,KENDRICK",
+                "WILDER,AMANDA",
+                "WILKINS,ANNALYSE",
+                "WILLIAMSON,BOBBIE",
+                "WILSON,HALEY",
+                "WISE,SUSANNE",
+                "WOODWARD,RIVERS",
+                "YODER,DANIEL",
+                "YONTZ,SARAH",
+                "YORK,ELIZABETH",
+                "ZADEL,ARI",
+                "ZAFFINO,MARYSHELL",
+                "ZELOV,ANNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "1105",
+                  "specialityDesc": "Acute Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1500",
+                  "specialityDesc": "Pediatric Nutrition"
+                },
+                {
+                  "specialityCd": "835",
+                  "specialityDesc": "Pediatric Pulmonology"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "1060",
+                  "specialityDesc": "Student Health Care"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "220",
+                  "specialityDesc": "Clinic Pharmacist Practitioner"
+                },
+                {
+                  "specialityCd": "1295",
+                  "specialityDesc": "Women's Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "785",
+                  "specialityDesc": "Pediatric Endocrinology"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "445",
+                  "specialityDesc": "Gynecology"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "765",
+                  "specialityDesc": "Pediatric Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "843186442",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AGOSTINI,MEGHAN",
+                "AGUILAR VALDEZ,GEORGINA",
+                "ALFANO,HEATHER",
+                "ALTAMIRANO,MELISSA",
+                "ATKINSON,BRIAN",
+                "AUFIERO,BIANCA",
+                "AUSTIN,KIMBERLEY",
+                "BARBEE,ERIN",
+                "BERLINER,JULEAH",
+                "BESSEY,CAROLINE",
+                "BLIZARD,BETHANY",
+                "BOONE,DEBRA",
+                "BRAHY,KELLY",
+                "BRASWELL,TROY",
+                "BRAZIL,MICHAEL",
+                "BRINK,JONATHAN",
+                "BROOKS,LAURA",
+                "BUCKNER JR,DONALD",
+                "BURTON,CANDACE",
+                "BUTTERFIELD,NENA",
+                "CAMP,JAMIE",
+                "CARPENTER,JULIE",
+                "CARTEE,RHONDA",
+                "CASSUM,MARIAH",
+                "CASWELL,KASIE",
+                "CATANIA,GIANNA",
+                "CATANIA-THOMAS,GIANNA",
+                "CAVE,AUDRA",
+                "CHAMBERLAIN,HEATHER",
+                "CHESNA,SUSAN",
+                "CHILDERS,BRIANA",
+                "CLARKE,ROBERT",
+                "CONNER,LONDYN",
+                "COOK,MORGAN",
+                "COOLEY,RACHEL",
+                "CORN,WILBURN",
+                "CORREA,EDUARDO",
+                "CURRAN,DIANA",
+                "DAVES,HARRISON",
+                "DAVIS,DAYTON",
+                "DE NARDO,ANAMARIA",
+                "DENES,AMY",
+                "DIAZ PEREZ,JUANA",
+                "DOCKERY,SAMUEL",
+                "DOIRON,PAULETTE",
+                "EICHHORN,EMILY",
+                "ELLINGTON,LAURA",
+                "ELMORE,CARRIE",
+                "ERBSEN,RITA",
+                "FERRELL,JENNIFER",
+                "FERRON,MARY",
+                "FINCHER,KRISTY",
+                "FISHER,ZACHARY",
+                "FRALIX,TERESA",
+                "GALLOWAY,ERIN",
+                "GAMBLE,TAYLOR",
+                "GARCIA,KELLY",
+                "GIORDANO,MEAGAN",
+                "GLOVER,CHRISTIAN",
+                "GREEN,LORI",
+                "GREENWAY,KIMBERLY",
+                "GREER,LEAH",
+                "GRUNER,KRISTIN",
+                "HANSLEY,LATOYA",
+                "HARRIS,STACY",
+                "HATFIELD,SAMANTHA",
+                "HAYES,MAGDALENA",
+                "HEDGES,LAUREN",
+                "HENSON,AMBER",
+                "HERDT,LINDA",
+                "HILL,JAMES",
+                "HINDERLITER,DANIEL",
+                "HIPKINS,BRITTANY",
+                "HISLOP,FAITH",
+                "HODGE,BRYAN",
+                "HODGE,HANNAH",
+                "HOLMES,REBECCA",
+                "HORWITZ,JAMES",
+                "HUDSPETH,RICHARD",
+                "HUTCHINSON,CATHERINE",
+                "JAMES,MELISSA",
+                "JOHN,GABRIELLA",
+                "JONES,AMANDA",
+                "JONES,BRITTA",
+                "JULIUS,STEVEN",
+                "KAUFMAN,CHRISTIAN",
+                "KIESEL,JULIANNE",
+                "KLASSEN,ROSEMARY",
+                "LADD,LISA",
+                "LADD,NICHOLAS",
+                "LAGAN,GARRETT",
+                "LAM,LAURA",
+                "LANGEFELD,STEPHANIE",
+                "LATTER,MACY",
+                "LATTER,PHILIP",
+                "LELAND,PARKER",
+                "LOCKERBY,MISHELLE",
+                "LONG,STEPHANIE",
+                "LOOKADOO,KIRSTEN",
+                "LOVETTE,DANIEL",
+                "LUDWIG,TAYLOR",
+                "MAHALA,LORI",
+                "MAICHE,ELIZABETH",
+                "MARIETTA,AMY",
+                "MARTIN,KATIE",
+                "MARTINEZ SEAGLE,LACEY",
+                "MAXWELL,REGAN",
+                "MAY,AARON",
+                "MAYSE,COURTNEY",
+                "MCCRAW,MEGAN",
+                "MCDONALD,JENNIFER",
+                "MILLER,JESSICA",
+                "MINICK,HANNAH",
+                "MITCHELL,SHANNON",
+                "MONACO,ERIC",
+                "MOODY,KAITLYN",
+                "MORINI,ALEXIS",
+                "MORRIS,ANDREW",
+                "MORRIS,ANDREW",
+                "MURPHY,TORRIE",
+                "NEIHEISEL,KIMBERLY",
+                "NICHOLLS,JOHN",
+                "NIELAND,ROBERT",
+                "OCONNER,SHANNON",
+                "OGLES,BENJAMIN",
+                "OLIVIER,JULIANNE",
+                "ONASH,NICHOLE",
+                "OWENS,KAITLIN",
+                "PARKS,HANNAH",
+                "PEARL,MELISSA",
+                "PEIFFER,SARAH",
+                "PETERSON WILSON,TWYLA",
+                "PIOR,JESSICA",
+                "PITTMAN,CYNTHIA",
+                "RAY,NICOLE",
+                "RAY,WILLIAM",
+                "REDMOND,MICHAEL",
+                "ROBBINS,HANNAH",
+                "RODNEY,OCTAVIA",
+                "ROE,MATTHEW",
+                "ROGERS,ROLAND",
+                "ROSENBERGER,DARBY",
+                "RYAN,LISA",
+                "SANFORD,KATHRYN",
+                "SASLOW,THEODORE",
+                "SCHAFHAUSEN,SHANNON",
+                "SCHWAB,KORAH",
+                "SEAGO,JUDITH",
+                "SELLERS,DONNA",
+                "SHIRLEY,TERRY",
+                "SHUTE,AMY",
+                "SIAS,CORRIE",
+                "SMITH,LAURIE",
+                "SNYDER,THOMAS",
+                "SPRINGHETTI,NICHOLAS",
+                "STEWART,CATHERINE",
+                "STILLWACHS,KIMBERLY",
+                "SULLIVAN,CAITLIN",
+                "SUTTON,AMY",
+                "SUTTON-HANNAH,JENNIFER",
+                "SWANGER,REBECCA",
+                "TAYLOR,CORRINE",
+                "TEATER,DONALD",
+                "THOMAS,DAVID",
+                "THOMPSON,LUKE",
+                "THOMPSON,LUVENIA",
+                "TODD,JUELENA",
+                "TUCKER,REBEKAH",
+                "TULLY,EMILY",
+                "TURNER,CECIL",
+                "TURNER,STEPHANIE",
+                "VANLANDINGHAM,JENNIFER",
+                "VINCELLI,SARA",
+                "WAGNER,LORI",
+                "WALKER,ABIGAIL",
+                "WALKER,AUDRA",
+                "WARPULA,GLENN",
+                "WEEMS,AMELIE",
+                "WEISGERBER,WILLIAM",
+                "WESTON,JAMIE",
+                "WHISNANT,HEATHER",
+                "WHITE,KENDRICK",
+                "WILDER,AMANDA",
+                "WILKINS,ANNALYSE",
+                "WILLIAMSON,BOBBIE",
+                "WILSON,HALEY",
+                "WISE,SUSANNE",
+                "WOODWARD,RIVERS",
+                "YODER,DANIEL",
+                "YONTZ,SARAH",
+                "YORK,ELIZABETH",
+                "ZADEL,ARI",
+                "ZAFFINO,MARYSHELL",
+                "ZELOV,ANNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "1105",
+                  "specialityDesc": "Acute Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1500",
+                  "specialityDesc": "Pediatric Nutrition"
+                },
+                {
+                  "specialityCd": "835",
+                  "specialityDesc": "Pediatric Pulmonology"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "1060",
+                  "specialityDesc": "Student Health Care"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "220",
+                  "specialityDesc": "Clinic Pharmacist Practitioner"
+                },
+                {
+                  "specialityCd": "1295",
+                  "specialityDesc": "Women's Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "785",
+                  "specialityDesc": "Pediatric Endocrinology"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "445",
+                  "specialityDesc": "Gynecology"
+                },
+                {
+                  "specialityCd": "765",
+                  "specialityDesc": "Pediatric Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42173977",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AGOSTINI,MEGHAN",
+                "AGUILAR VALDEZ,GEORGINA",
+                "ALFANO,HEATHER",
+                "ALTAMIRANO,MELISSA",
+                "ATKINSON,BRIAN",
+                "AUFIERO,BIANCA",
+                "AUSTIN,KIMBERLEY",
+                "BARBEE,ERIN",
+                "BERLINER,JULEAH",
+                "BESSEY,CAROLINE",
+                "BLIZARD,BETHANY",
+                "BOONE,DEBRA",
+                "BRAHY,KELLY",
+                "BRASWELL,TROY",
+                "BRAZIL,MICHAEL",
+                "BRINK,JONATHAN",
+                "BROOKS,LAURA",
+                "BUCKNER JR,DONALD",
+                "BURTON,CANDACE",
+                "BUTTERFIELD,NENA",
+                "CAMP,JAMIE",
+                "CARPENTER,JULIE",
+                "CARTEE,RHONDA",
+                "CASSUM,MARIAH",
+                "CASWELL,KASIE",
+                "CATANIA,GIANNA",
+                "CATANIA-THOMAS,GIANNA",
+                "CAVE,AUDRA",
+                "CHAMBERLAIN,HEATHER",
+                "CHESNA,SUSAN",
+                "CHILDERS,BRIANA",
+                "CLARKE,ROBERT",
+                "CONNER,LONDYN",
+                "COOK,MORGAN",
+                "COOLEY,RACHEL",
+                "CORN,WILBURN",
+                "CORREA,EDUARDO",
+                "CURRAN,DIANA",
+                "DAVES,HARRISON",
+                "DAVIS,DAYTON",
+                "DE NARDO,ANAMARIA",
+                "DENES,AMY",
+                "DIAZ PEREZ,JUANA",
+                "DOCKERY,SAMUEL",
+                "DOIRON,PAULETTE",
+                "EICHHORN,EMILY",
+                "ELLINGTON,LAURA",
+                "ELMORE,CARRIE",
+                "ERBSEN,RITA",
+                "FERRELL,JENNIFER",
+                "FERRON,MARY",
+                "FINCHER,KRISTY",
+                "FISHER,ZACHARY",
+                "FRALIX,TERESA",
+                "GALLOWAY,ERIN",
+                "GAMBLE,TAYLOR",
+                "GARCIA,KELLY",
+                "GIORDANO,MEAGAN",
+                "GLOVER,CHRISTIAN",
+                "GREEN,LORI",
+                "GREENWAY,KIMBERLY",
+                "GREER,LEAH",
+                "GRUNER,KRISTIN",
+                "HANSLEY,LATOYA",
+                "HARRIS,STACY",
+                "HATFIELD,SAMANTHA",
+                "HAYES,MAGDALENA",
+                "HEDGES,LAUREN",
+                "HENSON,AMBER",
+                "HERDT,LINDA",
+                "HILL,JAMES",
+                "HINDERLITER,DANIEL",
+                "HIPKINS,BRITTANY",
+                "HISLOP,FAITH",
+                "HODGE,BRYAN",
+                "HODGE,HANNAH",
+                "HOLMES,REBECCA",
+                "HORWITZ,JAMES",
+                "HUDSPETH,RICHARD",
+                "HUTCHINSON,CATHERINE",
+                "JAMES,MELISSA",
+                "JOHN,GABRIELLA",
+                "JONES,AMANDA",
+                "JONES,BRITTA",
+                "JULIUS,STEVEN",
+                "KAUFMAN,CHRISTIAN",
+                "KIESEL,JULIANNE",
+                "KLASSEN,ROSEMARY",
+                "LADD,LISA",
+                "LADD,NICHOLAS",
+                "LAGAN,GARRETT",
+                "LAM,LAURA",
+                "LANGEFELD,STEPHANIE",
+                "LATTER,MACY",
+                "LATTER,PHILIP",
+                "LELAND,PARKER",
+                "LOCKERBY,MISHELLE",
+                "LONG,STEPHANIE",
+                "LOOKADOO,KIRSTEN",
+                "LOVETTE,DANIEL",
+                "LUDWIG,TAYLOR",
+                "MAHALA,LORI",
+                "MAICHE,ELIZABETH",
+                "MARIETTA,AMY",
+                "MARTIN,KATIE",
+                "MARTINEZ SEAGLE,LACEY",
+                "MAXWELL,REGAN",
+                "MAY,AARON",
+                "MAYSE,COURTNEY",
+                "MCCRAW,MEGAN",
+                "MCDONALD,JENNIFER",
+                "MILLER,JESSICA",
+                "MINICK,HANNAH",
+                "MITCHELL,SHANNON",
+                "MONACO,ERIC",
+                "MOODY,KAITLYN",
+                "MORINI,ALEXIS",
+                "MORRIS,ANDREW",
+                "MORRIS,ANDREW",
+                "MURPHY,TORRIE",
+                "NEIHEISEL,KIMBERLY",
+                "NICHOLLS,JOHN",
+                "NIELAND,ROBERT",
+                "OCONNER,SHANNON",
+                "OGLES,BENJAMIN",
+                "OLIVIER,JULIANNE",
+                "ONASH,NICHOLE",
+                "OWENS,KAITLIN",
+                "PARKS,HANNAH",
+                "PEARL,MELISSA",
+                "PEIFFER,SARAH",
+                "PETERSON WILSON,TWYLA",
+                "PIOR,JESSICA",
+                "PITTMAN,CYNTHIA",
+                "RAY,NICOLE",
+                "RAY,WILLIAM",
+                "REDMOND,MICHAEL",
+                "ROBBINS,HANNAH",
+                "RODNEY,OCTAVIA",
+                "ROE,MATTHEW",
+                "ROGERS,ROLAND",
+                "ROSENBERGER,DARBY",
+                "RYAN,LISA",
+                "SANFORD,KATHRYN",
+                "SASLOW,THEODORE",
+                "SCHAFHAUSEN,SHANNON",
+                "SCHWAB,KORAH",
+                "SEAGO,JUDITH",
+                "SELLERS,DONNA",
+                "SHIRLEY,TERRY",
+                "SHUTE,AMY",
+                "SIAS,CORRIE",
+                "SMITH,LAURIE",
+                "SNYDER,THOMAS",
+                "SPRINGHETTI,NICHOLAS",
+                "STEWART,CATHERINE",
+                "STILLWACHS,KIMBERLY",
+                "SULLIVAN,CAITLIN",
+                "SUTTON,AMY",
+                "SUTTON-HANNAH,JENNIFER",
+                "SWANGER,REBECCA",
+                "TAYLOR,CORRINE",
+                "TEATER,DONALD",
+                "THOMAS,DAVID",
+                "THOMPSON,LUKE",
+                "THOMPSON,LUVENIA",
+                "TODD,JUELENA",
+                "TUCKER,REBEKAH",
+                "TULLY,EMILY",
+                "TURNER,CECIL",
+                "TURNER,STEPHANIE",
+                "VANLANDINGHAM,JENNIFER",
+                "VINCELLI,SARA",
+                "WAGNER,LORI",
+                "WALKER,ABIGAIL",
+                "WALKER,AUDRA",
+                "WARPULA,GLENN",
+                "WEEMS,AMELIE",
+                "WEISGERBER,WILLIAM",
+                "WESTON,JAMIE",
+                "WHISNANT,HEATHER",
+                "WHITE,KENDRICK",
+                "WILDER,AMANDA",
+                "WILKINS,ANNALYSE",
+                "WILLIAMSON,BOBBIE",
+                "WILSON,HALEY",
+                "WISE,SUSANNE",
+                "WOODWARD,RIVERS",
+                "YODER,DANIEL",
+                "YONTZ,SARAH",
+                "YORK,ELIZABETH",
+                "ZADEL,ARI",
+                "ZAFFINO,MARYSHELL",
+                "ZELOV,ANNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "1105",
+                  "specialityDesc": "Acute Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1500",
+                  "specialityDesc": "Pediatric Nutrition"
+                },
+                {
+                  "specialityCd": "835",
+                  "specialityDesc": "Pediatric Pulmonology"
+                },
+                {
+                  "specialityCd": "1060",
+                  "specialityDesc": "Student Health Care"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1295",
+                  "specialityDesc": "Women's Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "220",
+                  "specialityDesc": "Clinic Pharmacist Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "785",
+                  "specialityDesc": "Pediatric Endocrinology"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "445",
+                  "specialityDesc": "Gynecology"
+                },
+                {
+                  "specialityCd": "765",
+                  "specialityDesc": "Pediatric Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "503",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1053744143",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AGOSTINI,MEGHAN",
+                "AGUILAR VALDEZ,GEORGINA",
+                "ALFANO,HEATHER",
+                "ALTAMIRANO,MELISSA",
+                "ATKINSON,BRIAN",
+                "AUFIERO,BIANCA",
+                "AUSTIN,KIMBERLEY",
+                "BARBEE,ERIN",
+                "BERLINER,JULEAH",
+                "BESSEY,CAROLINE",
+                "BLIZARD,BETHANY",
+                "BOONE,DEBRA",
+                "BRAHY,KELLY",
+                "BRASWELL,TROY",
+                "BRAZIL,MICHAEL",
+                "BRINK,JONATHAN",
+                "BROOKS,LAURA",
+                "BUCKNER JR,DONALD",
+                "BURTON,CANDACE",
+                "BUTTERFIELD,NENA",
+                "CAMP,JAMIE",
+                "CARPENTER,JULIE",
+                "CARTEE,RHONDA",
+                "CASSUM,MARIAH",
+                "CASWELL,KASIE",
+                "CATANIA,GIANNA",
+                "CATANIA-THOMAS,GIANNA",
+                "CAVE,AUDRA",
+                "CHAMBERLAIN,HEATHER",
+                "CHESNA,SUSAN",
+                "CHILDERS,BRIANA",
+                "CLARKE,ROBERT",
+                "CONNER,LONDYN",
+                "COOK,MORGAN",
+                "COOLEY,RACHEL",
+                "CORN,WILBURN",
+                "CORREA,EDUARDO",
+                "CURRAN,DIANA",
+                "DAVES,HARRISON",
+                "DAVIS,DAYTON",
+                "DE NARDO,ANAMARIA",
+                "DENES,AMY",
+                "DIAZ PEREZ,JUANA",
+                "DOCKERY,SAMUEL",
+                "DOIRON,PAULETTE",
+                "EICHHORN,EMILY",
+                "ELLINGTON,LAURA",
+                "ELMORE,CARRIE",
+                "ERBSEN,RITA",
+                "FERRELL,JENNIFER",
+                "FERRON,MARY",
+                "FINCHER,KRISTY",
+                "FISHER,ZACHARY",
+                "FRALIX,TERESA",
+                "GALLOWAY,ERIN",
+                "GAMBLE,TAYLOR",
+                "GARCIA,KELLY",
+                "GIORDANO,MEAGAN",
+                "GLOVER,CHRISTIAN",
+                "GREEN,LORI",
+                "GREENWAY,KIMBERLY",
+                "GREER,LEAH",
+                "GRUNER,KRISTIN",
+                "HANSLEY,LATOYA",
+                "HARRIS,STACY",
+                "HATFIELD,SAMANTHA",
+                "HAYES,MAGDALENA",
+                "HEDGES,LAUREN",
+                "HENSON,AMBER",
+                "HERDT,LINDA",
+                "HILL,JAMES",
+                "HINDERLITER,DANIEL",
+                "HIPKINS,BRITTANY",
+                "HISLOP,FAITH",
+                "HODGE,BRYAN",
+                "HODGE,HANNAH",
+                "HOLMES,REBECCA",
+                "HORWITZ,JAMES",
+                "HUDSPETH,RICHARD",
+                "HUTCHINSON,CATHERINE",
+                "JAMES,MELISSA",
+                "JOHN,GABRIELLA",
+                "JONES,AMANDA",
+                "JONES,BRITTA",
+                "JULIUS,STEVEN",
+                "KAUFMAN,CHRISTIAN",
+                "KIESEL,JULIANNE",
+                "KLASSEN,ROSEMARY",
+                "LADD,LISA",
+                "LADD,NICHOLAS",
+                "LAGAN,GARRETT",
+                "LAM,LAURA",
+                "LANGEFELD,STEPHANIE",
+                "LATTER,MACY",
+                "LATTER,PHILIP",
+                "LELAND,PARKER",
+                "LOCKERBY,MISHELLE",
+                "LONG,STEPHANIE",
+                "LOOKADOO,KIRSTEN",
+                "LOVETTE,DANIEL",
+                "LUDWIG,TAYLOR",
+                "MAHALA,LORI",
+                "MAICHE,ELIZABETH",
+                "MARIETTA,AMY",
+                "MARTIN,KATIE",
+                "MARTINEZ SEAGLE,LACEY",
+                "MAXWELL,REGAN",
+                "MAY,AARON",
+                "MAYSE,COURTNEY",
+                "MCCRAW,MEGAN",
+                "MCDONALD,JENNIFER",
+                "MILLER,JESSICA",
+                "MINICK,HANNAH",
+                "MITCHELL,SHANNON",
+                "MONACO,ERIC",
+                "MOODY,KAITLYN",
+                "MORINI,ALEXIS",
+                "MORRIS,ANDREW",
+                "MORRIS,ANDREW",
+                "MURPHY,TORRIE",
+                "NEIHEISEL,KIMBERLY",
+                "NICHOLLS,JOHN",
+                "NIELAND,ROBERT",
+                "OCONNER,SHANNON",
+                "OGLES,BENJAMIN",
+                "OLIVIER,JULIANNE",
+                "ONASH,NICHOLE",
+                "OWENS,KAITLIN",
+                "PARKS,HANNAH",
+                "PEARL,MELISSA",
+                "PEIFFER,SARAH",
+                "PETERSON WILSON,TWYLA",
+                "PIOR,JESSICA",
+                "PITTMAN,CYNTHIA",
+                "RAY,NICOLE",
+                "RAY,WILLIAM",
+                "REDMOND,MICHAEL",
+                "ROBBINS,HANNAH",
+                "RODNEY,OCTAVIA",
+                "ROE,MATTHEW",
+                "ROGERS,ROLAND",
+                "ROSENBERGER,DARBY",
+                "RYAN,LISA",
+                "SANFORD,KATHRYN",
+                "SASLOW,THEODORE",
+                "SCHAFHAUSEN,SHANNON",
+                "SCHWAB,KORAH",
+                "SEAGO,JUDITH",
+                "SELLERS,DONNA",
+                "SHIRLEY,TERRY",
+                "SHUTE,AMY",
+                "SIAS,CORRIE",
+                "SMITH,LAURIE",
+                "SNYDER,THOMAS",
+                "SPRINGHETTI,NICHOLAS",
+                "STEWART,CATHERINE",
+                "STILLWACHS,KIMBERLY",
+                "SULLIVAN,CAITLIN",
+                "SUTTON,AMY",
+                "SUTTON-HANNAH,JENNIFER",
+                "SWANGER,REBECCA",
+                "TAYLOR,CORRINE",
+                "TEATER,DONALD",
+                "THOMAS,DAVID",
+                "THOMPSON,LUKE",
+                "THOMPSON,LUVENIA",
+                "TODD,JUELENA",
+                "TUCKER,REBEKAH",
+                "TULLY,EMILY",
+                "TURNER,CECIL",
+                "TURNER,STEPHANIE",
+                "VANLANDINGHAM,JENNIFER",
+                "VINCELLI,SARA",
+                "WAGNER,LORI",
+                "WALKER,ABIGAIL",
+                "WALKER,AUDRA",
+                "WARPULA,GLENN",
+                "WEEMS,AMELIE",
+                "WEISGERBER,WILLIAM",
+                "WESTON,JAMIE",
+                "WHISNANT,HEATHER",
+                "WHITE,KENDRICK",
+                "WILDER,AMANDA",
+                "WILKINS,ANNALYSE",
+                "WILLIAMSON,BOBBIE",
+                "WILSON,HALEY",
+                "WISE,SUSANNE",
+                "WOODWARD,RIVERS",
+                "YODER,DANIEL",
+                "YONTZ,SARAH",
+                "YORK,ELIZABETH",
+                "ZADEL,ARI",
+                "ZAFFINO,MARYSHELL",
+                "ZELOV,ANNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "1105",
+                  "specialityDesc": "Acute Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1500",
+                  "specialityDesc": "Pediatric Nutrition"
+                },
+                {
+                  "specialityCd": "835",
+                  "specialityDesc": "Pediatric Pulmonology"
+                },
+                {
+                  "specialityCd": "1060",
+                  "specialityDesc": "Student Health Care"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "220",
+                  "specialityDesc": "Clinic Pharmacist Practitioner"
+                },
+                {
+                  "specialityCd": "1295",
+                  "specialityDesc": "Women's Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "785",
+                  "specialityDesc": "Pediatric Endocrinology"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "445",
+                  "specialityDesc": "Gynecology"
+                },
+                {
+                  "specialityCd": "765",
+                  "specialityDesc": "Pediatric Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "42173980",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AGOSTINI,MEGHAN",
+                "AGUILAR VALDEZ,GEORGINA",
+                "ALFANO,HEATHER",
+                "ALTAMIRANO,MELISSA",
+                "ATKINSON,BRIAN",
+                "AUFIERO,BIANCA",
+                "AUSTIN,KIMBERLEY",
+                "BARBEE,ERIN",
+                "BERLINER,JULEAH",
+                "BESSEY,CAROLINE",
+                "BLIZARD,BETHANY",
+                "BOONE,DEBRA",
+                "BRAHY,KELLY",
+                "BRASWELL,TROY",
+                "BRAZIL,MICHAEL",
+                "BRINK,JONATHAN",
+                "BROOKS,LAURA",
+                "BUCKNER JR,DONALD",
+                "BURTON,CANDACE",
+                "BUTTERFIELD,NENA",
+                "CAMP,JAMIE",
+                "CARPENTER,JULIE",
+                "CARTEE,RHONDA",
+                "CASSUM,MARIAH",
+                "CASWELL,KASIE",
+                "CATANIA,GIANNA",
+                "CATANIA-THOMAS,GIANNA",
+                "CAVE,AUDRA",
+                "CHAMBERLAIN,HEATHER",
+                "CHESNA,SUSAN",
+                "CHILDERS,BRIANA",
+                "CLARKE,ROBERT",
+                "CONNER,LONDYN",
+                "COOK,MORGAN",
+                "COOLEY,RACHEL",
+                "CORN,WILBURN",
+                "CORREA,EDUARDO",
+                "CURRAN,DIANA",
+                "DAVES,HARRISON",
+                "DAVIS,DAYTON",
+                "DE NARDO,ANAMARIA",
+                "DENES,AMY",
+                "DIAZ PEREZ,JUANA",
+                "DOCKERY,SAMUEL",
+                "DOIRON,PAULETTE",
+                "EICHHORN,EMILY",
+                "ELLINGTON,LAURA",
+                "ELMORE,CARRIE",
+                "ERBSEN,RITA",
+                "FERRELL,JENNIFER",
+                "FERRON,MARY",
+                "FINCHER,KRISTY",
+                "FISHER,ZACHARY",
+                "FRALIX,TERESA",
+                "GALLOWAY,ERIN",
+                "GAMBLE,TAYLOR",
+                "GARCIA,KELLY",
+                "GIORDANO,MEAGAN",
+                "GLOVER,CHRISTIAN",
+                "GREEN,LORI",
+                "GREENWAY,KIMBERLY",
+                "GREER,LEAH",
+                "GRUNER,KRISTIN",
+                "HANSLEY,LATOYA",
+                "HARRIS,STACY",
+                "HATFIELD,SAMANTHA",
+                "HAYES,MAGDALENA",
+                "HEDGES,LAUREN",
+                "HENSON,AMBER",
+                "HERDT,LINDA",
+                "HILL,JAMES",
+                "HINDERLITER,DANIEL",
+                "HIPKINS,BRITTANY",
+                "HISLOP,FAITH",
+                "HODGE,BRYAN",
+                "HODGE,HANNAH",
+                "HOLMES,REBECCA",
+                "HORWITZ,JAMES",
+                "HUDSPETH,RICHARD",
+                "HUTCHINSON,CATHERINE",
+                "JAMES,MELISSA",
+                "JOHN,GABRIELLA",
+                "JONES,AMANDA",
+                "JONES,BRITTA",
+                "JULIUS,STEVEN",
+                "KAUFMAN,CHRISTIAN",
+                "KIESEL,JULIANNE",
+                "KLASSEN,ROSEMARY",
+                "LADD,LISA",
+                "LADD,NICHOLAS",
+                "LAGAN,GARRETT",
+                "LAM,LAURA",
+                "LANGEFELD,STEPHANIE",
+                "LATTER,MACY",
+                "LATTER,PHILIP",
+                "LELAND,PARKER",
+                "LOCKERBY,MISHELLE",
+                "LONG,STEPHANIE",
+                "LOOKADOO,KIRSTEN",
+                "LOVETTE,DANIEL",
+                "LUDWIG,TAYLOR",
+                "MAHALA,LORI",
+                "MAICHE,ELIZABETH",
+                "MARIETTA,AMY",
+                "MARTIN,KATIE",
+                "MARTINEZ SEAGLE,LACEY",
+                "MAXWELL,REGAN",
+                "MAY,AARON",
+                "MAYSE,COURTNEY",
+                "MCCRAW,MEGAN",
+                "MCDONALD,JENNIFER",
+                "MILLER,JESSICA",
+                "MINICK,HANNAH",
+                "MITCHELL,SHANNON",
+                "MONACO,ERIC",
+                "MOODY,KAITLYN",
+                "MORINI,ALEXIS",
+                "MORRIS,ANDREW",
+                "MORRIS,ANDREW",
+                "MURPHY,TORRIE",
+                "NEIHEISEL,KIMBERLY",
+                "NICHOLLS,JOHN",
+                "NIELAND,ROBERT",
+                "OCONNER,SHANNON",
+                "OGLES,BENJAMIN",
+                "OLIVIER,JULIANNE",
+                "ONASH,NICHOLE",
+                "OWENS,KAITLIN",
+                "PARKS,HANNAH",
+                "PEARL,MELISSA",
+                "PEIFFER,SARAH",
+                "PETERSON WILSON,TWYLA",
+                "PIOR,JESSICA",
+                "PITTMAN,CYNTHIA",
+                "RAY,NICOLE",
+                "RAY,WILLIAM",
+                "REDMOND,MICHAEL",
+                "ROBBINS,HANNAH",
+                "RODNEY,OCTAVIA",
+                "ROE,MATTHEW",
+                "ROGERS,ROLAND",
+                "ROSENBERGER,DARBY",
+                "RYAN,LISA",
+                "SANFORD,KATHRYN",
+                "SASLOW,THEODORE",
+                "SCHAFHAUSEN,SHANNON",
+                "SCHWAB,KORAH",
+                "SEAGO,JUDITH",
+                "SELLERS,DONNA",
+                "SHIRLEY,TERRY",
+                "SHUTE,AMY",
+                "SIAS,CORRIE",
+                "SMITH,LAURIE",
+                "SNYDER,THOMAS",
+                "SPRINGHETTI,NICHOLAS",
+                "STEWART,CATHERINE",
+                "STILLWACHS,KIMBERLY",
+                "SULLIVAN,CAITLIN",
+                "SUTTON,AMY",
+                "SUTTON-HANNAH,JENNIFER",
+                "SWANGER,REBECCA",
+                "TAYLOR,CORRINE",
+                "TEATER,DONALD",
+                "THOMAS,DAVID",
+                "THOMPSON,LUKE",
+                "THOMPSON,LUVENIA",
+                "TODD,JUELENA",
+                "TUCKER,REBEKAH",
+                "TULLY,EMILY",
+                "TURNER,CECIL",
+                "TURNER,STEPHANIE",
+                "VANLANDINGHAM,JENNIFER",
+                "VINCELLI,SARA",
+                "WAGNER,LORI",
+                "WALKER,ABIGAIL",
+                "WALKER,AUDRA",
+                "WARPULA,GLENN",
+                "WEEMS,AMELIE",
+                "WEISGERBER,WILLIAM",
+                "WESTON,JAMIE",
+                "WHISNANT,HEATHER",
+                "WHITE,KENDRICK",
+                "WILDER,AMANDA",
+                "WILKINS,ANNALYSE",
+                "WILLIAMSON,BOBBIE",
+                "WILSON,HALEY",
+                "WISE,SUSANNE",
+                "WOODWARD,RIVERS",
+                "YODER,DANIEL",
+                "YONTZ,SARAH",
+                "YORK,ELIZABETH",
+                "ZADEL,ARI",
+                "ZAFFINO,MARYSHELL",
+                "ZELOV,ANNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "Y",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1185",
+                  "specialityDesc": "Pediatrics Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "970",
+                  "specialityDesc": "Psychologist"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "1105",
+                  "specialityDesc": "Acute Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1500",
+                  "specialityDesc": "Pediatric Nutrition"
+                },
+                {
+                  "specialityCd": "835",
+                  "specialityDesc": "Pediatric Pulmonology"
+                },
+                {
+                  "specialityCd": "1060",
+                  "specialityDesc": "Student Health Care"
+                },
+                {
+                  "specialityCd": "15",
+                  "specialityDesc": "Addiction Medicine"
+                },
+                {
+                  "specialityCd": "160",
+                  "specialityDesc": "Child & Adolescent Psychiatry"
+                },
+                {
+                  "specialityCd": "580",
+                  "specialityDesc": "Marriage & Family Therapist"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "220",
+                  "specialityDesc": "Clinic Pharmacist Practitioner"
+                },
+                {
+                  "specialityCd": "1295",
+                  "specialityDesc": "Women's Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1250",
+                  "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "400",
+                  "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                },
+                {
+                  "specialityCd": "785",
+                  "specialityDesc": "Pediatric Endocrinology"
+                },
+                {
+                  "specialityCd": "445",
+                  "specialityDesc": "Gynecology"
+                },
+                {
+                  "specialityCd": "940",
+                  "specialityDesc": "Professional"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "1515",
+                  "specialityDesc": "Registered Dietician"
+                },
+                {
+                  "specialityCd": "765",
+                  "specialityDesc": "Pediatric Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "600",
+                  "specialityDesc": "Mental Health"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "965",
+                  "specialityDesc": "Psychiatry"
+                },
+                {
+                  "specialityCd": "1435",
+                  "specialityDesc": "Hospitalist"
+                },
+                {
+                  "specialityCd": "20",
+                  "specialityDesc": "Addiction Psychiatry"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"Y\"}",
+          "npi": "1881130540",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 1,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1200",
+            "MONDAY PM 1300-2000",
+            "TUESDAY AM 0800-1200",
+            "TUESDAY PM 1300-2000",
+            "WEDNESDAY AM 0800-1200",
+            "WEDNESDAY PM 1300-2000",
+            "THURSDAY AM 0800-1200",
+            "THURSDAY PM 1300-2000",
+            "FRIDAY AM 0800-1200",
+            "FRIDAY PM 1300-2000",
+            "SATURDAY AM 0800-1300",
+            "SATURDAY PM 0000-0000",
+            "SUNDAY AM 0800-1300",
+            "SUNDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "8286318711",
+          "dbaName": "SYLVA HEALTH CENTER",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "293 HOSPITAL RD",
+            "addressLine2": null,
+            "city": "SYLVA",
+            "state": "NC",
+            "zipCode": "28779",
+            "countyCode": "050",
+            "countyName": "Jackson",
+            "latitude": 35.38559,
+            "longitude": -83.20509,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "8286924289",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10373616"
+        }
+      ],
+      "pageable": null,
+      "last": null,
+      "totalPages": null,
+      "totalElements": null,
+      "sort": null,
+      "first": null,
+      "numberOfElements": 1,
+      "size": 1,
+      "number": 0,
+      "totalRecords": 1,
+      "empty": false
+    }
+  },
+  "statusCode": 200
+}

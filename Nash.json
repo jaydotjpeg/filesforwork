@@ -1,0 +1,4241 @@
+ {
+  "data": {
+    "status": 200,
+    "error": null,
+    "errorMessage": null,
+    "backend": "NCEB",
+    "data": {
+      "providers": [
+        {
+          "firstName": null,
+          "lastName": "BOICE WILLIS CLINIC PA",
+          "middleName": null,
+          "fullName": "BOICE WILLIS CLINIC PA",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": false,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [
+            "BOICE WILLIS CLINIC PA FPIC"
+          ],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            },
+            {
+              "languageDesc": "Hindi",
+              "languageTypeCd": "HI"
+            },
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1245",
+              "specialityDesc": "Primary Care Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "140",
+              "specialityDesc": "Cardiovascular Disease"
+            },
+            {
+              "specialityCd": "680",
+              "specialityDesc": "Nurse Practitioner"
+            },
+            {
+              "specialityCd": "560",
+              "specialityDesc": "Internal Medicine"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "200",
+              "specialityDesc": "Clinical Medical Laboratory"
+            },
+            {
+              "specialityCd": "1150",
+              "specialityDesc": "Gerontology Nurse Practitioner"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "425",
+              "specialityDesc": "General Practice"
+            },
+            {
+              "specialityCd": "865",
+              "specialityDesc": "Pediatrics"
+            },
+            {
+              "specialityCd": "615",
+              "specialityDesc": "Nephrology"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "76094728",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ATKINS,SAVANA",
+                "BASSETT-SHAFTOE,LINDA",
+                "BENEDICT,XAVERIE",
+                "BOONE,STEPHANIE",
+                "BOYD,COURTNEY",
+                "BRANTLEY,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CALVIO,ANA",
+                "CHESNUTT,MARTHA",
+                "COOK,NATALIE",
+                "COX,ANDREW",
+                "DIAL,MICHAEL",
+                "HARDEE,ASHLEY",
+                "HAROON,NIVIN",
+                "IDOL,PHEBE",
+                "MARTIN,STEPHANIE",
+                "MCGEE,AMANDA",
+                "MERCER,KIMBERLY",
+                "MIDDLETON,KRISTEN",
+                "MILLER,MORGAN",
+                "MURRAY,TERRIE",
+                "OHARA,ANNE",
+                "PICKETT,JOHN",
+                "SAMPAT,SMITA",
+                "SHIVER,GERRIE",
+                "SMITH,CARISSA",
+                "SORSBY,STEPHEN",
+                "TABRON,GLORIA",
+                "TOWNSEND,LEE ANN",
+                "VANN,CASHENA",
+                "WATSON,KELSEY",
+                "WELBORN,CHRISTY",
+                "WESONGA,SAMUEL",
+                "WILKINSON,KYLEE",
+                "WILSON,RICHARD",
+                "WOODLEY,LEE",
+                "WYATT,TONNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41897009",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ATKINS,SAVANA",
+                "BASSETT-SHAFTOE,LINDA",
+                "BENEDICT,XAVERIE",
+                "BOONE,STEPHANIE",
+                "BOYD,COURTNEY",
+                "BRANTLEY,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CALVIO,ANA",
+                "CHESNUTT,MARTHA",
+                "COOK,NATALIE",
+                "COX,ANDREW",
+                "DIAL,MICHAEL",
+                "HARDEE,ASHLEY",
+                "HAROON,NIVIN",
+                "IDOL,PHEBE",
+                "MARTIN,STEPHANIE",
+                "MCGEE,AMANDA",
+                "MERCER,KIMBERLY",
+                "MIDDLETON,KRISTEN",
+                "MILLER,MORGAN",
+                "MURRAY,TERRIE",
+                "OHARA,ANNE",
+                "PICKETT,JOHN",
+                "SAMPAT,SMITA",
+                "SHIVER,GERRIE",
+                "SMITH,CARISSA",
+                "SORSBY,STEPHEN",
+                "TABRON,GLORIA",
+                "TOWNSEND,LEE ANN",
+                "VANN,CASHENA",
+                "WATSON,KELSEY",
+                "WELBORN,CHRISTY",
+                "WESONGA,SAMUEL",
+                "WILKINSON,KYLEE",
+                "WILSON,RICHARD",
+                "WOODLEY,LEE",
+                "WYATT,TONNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41897008",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ATKINS,SAVANA",
+                "BASSETT-SHAFTOE,LINDA",
+                "BENEDICT,XAVERIE",
+                "BOONE,STEPHANIE",
+                "BOYD,COURTNEY",
+                "BRANTLEY,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CALVIO,ANA",
+                "CHESNUTT,MARTHA",
+                "COOK,NATALIE",
+                "COX,ANDREW",
+                "DIAL,MICHAEL",
+                "HARDEE,ASHLEY",
+                "HAROON,NIVIN",
+                "IDOL,PHEBE",
+                "MARTIN,STEPHANIE",
+                "MCGEE,AMANDA",
+                "MERCER,KIMBERLY",
+                "MIDDLETON,KRISTEN",
+                "MILLER,MORGAN",
+                "MURRAY,TERRIE",
+                "OHARA,ANNE",
+                "PICKETT,JOHN",
+                "SAMPAT,SMITA",
+                "SHIVER,GERRIE",
+                "SMITH,CARISSA",
+                "SORSBY,STEPHEN",
+                "TABRON,GLORIA",
+                "TOWNSEND,LEE ANN",
+                "VANN,CASHENA",
+                "WATSON,KELSEY",
+                "WELBORN,CHRISTY",
+                "WESONGA,SAMUEL",
+                "WILKINSON,KYLEE",
+                "WILSON,RICHARD",
+                "WOODLEY,LEE",
+                "WYATT,TONNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1334812548",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ATKINS,SAVANA",
+                "BASSETT-SHAFTOE,LINDA",
+                "BENEDICT,XAVERIE",
+                "BOONE,STEPHANIE",
+                "BOYD,COURTNEY",
+                "BRANTLEY,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CALVIO,ANA",
+                "CHESNUTT,MARTHA",
+                "COOK,NATALIE",
+                "COX,ANDREW",
+                "DIAL,MICHAEL",
+                "HARDEE,ASHLEY",
+                "HAROON,NIVIN",
+                "IDOL,PHEBE",
+                "MARTIN,STEPHANIE",
+                "MCGEE,AMANDA",
+                "MERCER,KIMBERLY",
+                "MIDDLETON,KRISTEN",
+                "MILLER,MORGAN",
+                "MURRAY,TERRIE",
+                "OHARA,ANNE",
+                "PICKETT,JOHN",
+                "SAMPAT,SMITA",
+                "SHIVER,GERRIE",
+                "SMITH,CARISSA",
+                "SORSBY,STEPHEN",
+                "TABRON,GLORIA",
+                "TOWNSEND,LEE ANN",
+                "VANN,CASHENA",
+                "WATSON,KELSEY",
+                "WELBORN,CHRISTY",
+                "WESONGA,SAMUEL",
+                "WILKINSON,KYLEE",
+                "WILSON,RICHARD",
+                "WOODLEY,LEE",
+                "WYATT,TONNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41897010",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ATKINS,SAVANA",
+                "BASSETT-SHAFTOE,LINDA",
+                "BENEDICT,XAVERIE",
+                "BOONE,STEPHANIE",
+                "BOYD,COURTNEY",
+                "BRANTLEY,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CALVIO,ANA",
+                "CHESNUTT,MARTHA",
+                "COOK,NATALIE",
+                "COX,ANDREW",
+                "DIAL,MICHAEL",
+                "HARDEE,ASHLEY",
+                "HAROON,NIVIN",
+                "IDOL,PHEBE",
+                "MARTIN,STEPHANIE",
+                "MCGEE,AMANDA",
+                "MERCER,KIMBERLY",
+                "MIDDLETON,KRISTEN",
+                "MILLER,MORGAN",
+                "MURRAY,TERRIE",
+                "OHARA,ANNE",
+                "PICKETT,JOHN",
+                "SAMPAT,SMITA",
+                "SHIVER,GERRIE",
+                "SMITH,CARISSA",
+                "SORSBY,STEPHEN",
+                "TABRON,GLORIA",
+                "TOWNSEND,LEE ANN",
+                "VANN,CASHENA",
+                "WATSON,KELSEY",
+                "WELBORN,CHRISTY",
+                "WESONGA,SAMUEL",
+                "WILKINSON,KYLEE",
+                "WILSON,RICHARD",
+                "WOODLEY,LEE",
+                "WYATT,TONNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41897011",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ATKINS,SAVANA",
+                "BASSETT-SHAFTOE,LINDA",
+                "BENEDICT,XAVERIE",
+                "BOONE,STEPHANIE",
+                "BOYD,COURTNEY",
+                "BRANTLEY,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CALVIO,ANA",
+                "CHESNUTT,MARTHA",
+                "COOK,NATALIE",
+                "COX,ANDREW",
+                "DIAL,MICHAEL",
+                "HARDEE,ASHLEY",
+                "HAROON,NIVIN",
+                "IDOL,PHEBE",
+                "MARTIN,STEPHANIE",
+                "MCGEE,AMANDA",
+                "MERCER,KIMBERLY",
+                "MIDDLETON,KRISTEN",
+                "MILLER,MORGAN",
+                "MURRAY,TERRIE",
+                "OHARA,ANNE",
+                "PICKETT,JOHN",
+                "SAMPAT,SMITA",
+                "SHIVER,GERRIE",
+                "SMITH,CARISSA",
+                "SORSBY,STEPHEN",
+                "TABRON,GLORIA",
+                "TOWNSEND,LEE ANN",
+                "VANN,CASHENA",
+                "WATSON,KELSEY",
+                "WELBORN,CHRISTY",
+                "WESONGA,SAMUEL",
+                "WILKINSON,KYLEE",
+                "WILSON,RICHARD",
+                "WOODLEY,LEE",
+                "WYATT,TONNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1699722389",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 0,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-2000",
+            "MONDAY PM 0000-0000",
+            "TUESDAY AM 0800-2000",
+            "TUESDAY PM 0000-0000",
+            "WEDNESDAY AM 0800-2000",
+            "WEDNESDAY PM 0000-0000",
+            "THURSDAY AM 0800-2000",
+            "THURSDAY PM 0000-0000",
+            "FRIDAY AM 0800-1700",
+            "FRIDAY PM 0000-0000",
+            "SATURDAY AM 0800-1200",
+            "SATURDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "2524438822",
+          "dbaName": "BOICE WILLIS CLINIC",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "921 N WINSTEAD AVE",
+            "addressLine2": null,
+            "city": "ROCKY MOUNT",
+            "state": "NC",
+            "zipCode": "27804",
+            "countyCode": "064",
+            "countyName": "Nash",
+            "latitude": 35.97981,
+            "longitude": -77.841995,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "2529370300",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10423665"
+        },
+        {
+          "firstName": null,
+          "lastName": "BOICE WILLIS CLINIC PA",
+          "middleName": null,
+          "fullName": "BOICE WILLIS CLINIC PA",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": false,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [],
+          "providerLanguages": [
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            },
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "380",
+              "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+            },
+            {
+              "specialityCd": "1245",
+              "specialityDesc": "Primary Care Nurse Practitioner"
+            },
+            {
+              "specialityCd": "260",
+              "specialityDesc": "Critical Care Medicine"
+            },
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "140",
+              "specialityDesc": "Cardiovascular Disease"
+            },
+            {
+              "specialityCd": "1110",
+              "specialityDesc": "Adult Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "680",
+              "specialityDesc": "Nurse Practitioner"
+            },
+            {
+              "specialityCd": "560",
+              "specialityDesc": "Internal Medicine"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "420",
+              "specialityDesc": "Gastroenterology"
+            },
+            {
+              "specialityCd": "200",
+              "specialityDesc": "Clinical Medical Laboratory"
+            },
+            {
+              "specialityCd": "1150",
+              "specialityDesc": "Gerontology Nurse Practitioner"
+            },
+            {
+              "specialityCd": "630",
+              "specialityDesc": "Neurology"
+            },
+            {
+              "specialityCd": "565",
+              "specialityDesc": "Interventional Cardiology - Internal Medicine"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "985",
+              "specialityDesc": "Pulmonary Disease"
+            },
+            {
+              "specialityCd": "325",
+              "specialityDesc": "Dermatology"
+            },
+            {
+              "specialityCd": "865",
+              "specialityDesc": "Pediatrics"
+            },
+            {
+              "specialityCd": "425",
+              "specialityDesc": "General Practice"
+            },
+            {
+              "specialityCd": "615",
+              "specialityDesc": "Nephrology"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "106031174",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ANDERSON,MARK",
+                "ARTHUR,GODFRIED",
+                "ATKINS,SAVANA",
+                "BALIGA,VASANTH",
+                "BASSETT-SHAFTOE,LINDA",
+                "BECKHAM,MICHELLE",
+                "BELLOFIORE PLONSKI,LISA",
+                "BENEDICT,XAVERIE",
+                "BOONE,STEPHANIE",
+                "BOYAPATI,SARITHA",
+                "BOYD,COURTNEY",
+                "BRANTLEY,DAVID",
+                "BROWDER,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CALVIO,ANA",
+                "CHAMBERLAIN,MATTHEW",
+                "CHESNUTT,MARTHA",
+                "DESAI,NILAY",
+                "DESAI,PRIYANK",
+                "DIAL,MICHAEL",
+                "GADE,SUCHITA",
+                "GIBSON,TERESA",
+                "HARDEE,ASHLEY",
+                "HAROON,NIVIN",
+                "HELM,JANICE",
+                "IDOL,PHEBE",
+                "JERE,CHARLES",
+                "JERE,GRACE",
+                "LASZEWSKI,MARZENA",
+                "MAH MOUD,MITCHELL",
+                "MARTIN,STEPHANIE",
+                "MCGEE,AMANDA",
+                "MERCER,KIMBERLY",
+                "MIDDLETON,KRISTEN",
+                "MILLER,MORGAN",
+                "MURRAY,TERRIE",
+                "MUSULIN,MATTHEW",
+                "PICO,AARON",
+                "POONURU,SUJANI",
+                "PRASADA,SUDHIR",
+                "RYDER,REBECCA",
+                "SAMPAT,SMITA",
+                "SAXENA,NAKSHATRA",
+                "SCHELLENBERG,ROBERT",
+                "SHADE,CHARNETTE",
+                "SHIVER,GERRIE",
+                "SKINNER,NADINE",
+                "SLATER,DOUGLAS",
+                "SMITH,CARISSA",
+                "SORSBY,STEPHEN",
+                "SUCHNIAK,JEFFREY",
+                "TABRON,GLORIA",
+                "TAYLOR,MARY",
+                "TODD,HEATHER",
+                "VANN,CASHENA",
+                "WELBORN,CHRISTY",
+                "WELLS,JENNIFER",
+                "WILKINSON,KYLEE",
+                "WILSON,RICHARD",
+                "WYATT,TONNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "380",
+                  "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "260",
+                  "specialityDesc": "Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "420",
+                  "specialityDesc": "Gastroenterology"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "630",
+                  "specialityDesc": "Neurology"
+                },
+                {
+                  "specialityCd": "565",
+                  "specialityDesc": "Interventional Cardiology - Internal Medicine"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "985",
+                  "specialityDesc": "Pulmonary Disease"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41899720",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ANDERSON,MARK",
+                "ARTHUR,GODFRIED",
+                "ATKINS,SAVANA",
+                "BALIGA,VASANTH",
+                "BASSETT-SHAFTOE,LINDA",
+                "BECKHAM,MICHELLE",
+                "BELLOFIORE PLONSKI,LISA",
+                "BENEDICT,XAVERIE",
+                "BOONE,STEPHANIE",
+                "BOYAPATI,SARITHA",
+                "BOYD,COURTNEY",
+                "BRANTLEY,DAVID",
+                "BROWDER,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CALVIO,ANA",
+                "CHAMBERLAIN,MATTHEW",
+                "CHESNUTT,MARTHA",
+                "DESAI,NILAY",
+                "DESAI,PRIYANK",
+                "DIAL,MICHAEL",
+                "GADE,SUCHITA",
+                "GIBSON,TERESA",
+                "HARDEE,ASHLEY",
+                "HAROON,NIVIN",
+                "HELM,JANICE",
+                "IDOL,PHEBE",
+                "JERE,CHARLES",
+                "JERE,GRACE",
+                "LASZEWSKI,MARZENA",
+                "MAH MOUD,MITCHELL",
+                "MARTIN,STEPHANIE",
+                "MCGEE,AMANDA",
+                "MERCER,KIMBERLY",
+                "MIDDLETON,KRISTEN",
+                "MILLER,MORGAN",
+                "MURRAY,TERRIE",
+                "MUSULIN,MATTHEW",
+                "PICO,AARON",
+                "POONURU,SUJANI",
+                "PRASADA,SUDHIR",
+                "RYDER,REBECCA",
+                "SAMPAT,SMITA",
+                "SAXENA,NAKSHATRA",
+                "SCHELLENBERG,ROBERT",
+                "SHADE,CHARNETTE",
+                "SHIVER,GERRIE",
+                "SKINNER,NADINE",
+                "SLATER,DOUGLAS",
+                "SMITH,CARISSA",
+                "SORSBY,STEPHEN",
+                "SUCHNIAK,JEFFREY",
+                "TABRON,GLORIA",
+                "TAYLOR,MARY",
+                "TODD,HEATHER",
+                "VANN,CASHENA",
+                "WELBORN,CHRISTY",
+                "WELLS,JENNIFER",
+                "WILKINSON,KYLEE",
+                "WILSON,RICHARD",
+                "WYATT,TONNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "380",
+                  "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "260",
+                  "specialityDesc": "Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "420",
+                  "specialityDesc": "Gastroenterology"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "630",
+                  "specialityDesc": "Neurology"
+                },
+                {
+                  "specialityCd": "565",
+                  "specialityDesc": "Interventional Cardiology - Internal Medicine"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "985",
+                  "specialityDesc": "Pulmonary Disease"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41899716",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ANDERSON,MARK",
+                "ARTHUR,GODFRIED",
+                "ATKINS,SAVANA",
+                "BALIGA,VASANTH",
+                "BASSETT-SHAFTOE,LINDA",
+                "BECKHAM,MICHELLE",
+                "BELLOFIORE PLONSKI,LISA",
+                "BENEDICT,XAVERIE",
+                "BOONE,STEPHANIE",
+                "BOYAPATI,SARITHA",
+                "BOYD,COURTNEY",
+                "BRANTLEY,DAVID",
+                "BROWDER,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CALVIO,ANA",
+                "CHAMBERLAIN,MATTHEW",
+                "CHESNUTT,MARTHA",
+                "DESAI,NILAY",
+                "DESAI,PRIYANK",
+                "DIAL,MICHAEL",
+                "GADE,SUCHITA",
+                "GIBSON,TERESA",
+                "HARDEE,ASHLEY",
+                "HAROON,NIVIN",
+                "HELM,JANICE",
+                "IDOL,PHEBE",
+                "JERE,CHARLES",
+                "JERE,GRACE",
+                "LASZEWSKI,MARZENA",
+                "MAH MOUD,MITCHELL",
+                "MARTIN,STEPHANIE",
+                "MCGEE,AMANDA",
+                "MERCER,KIMBERLY",
+                "MIDDLETON,KRISTEN",
+                "MILLER,MORGAN",
+                "MURRAY,TERRIE",
+                "MUSULIN,MATTHEW",
+                "PICO,AARON",
+                "POONURU,SUJANI",
+                "PRASADA,SUDHIR",
+                "RYDER,REBECCA",
+                "SAMPAT,SMITA",
+                "SAXENA,NAKSHATRA",
+                "SCHELLENBERG,ROBERT",
+                "SHADE,CHARNETTE",
+                "SHIVER,GERRIE",
+                "SKINNER,NADINE",
+                "SLATER,DOUGLAS",
+                "SMITH,CARISSA",
+                "SORSBY,STEPHEN",
+                "SUCHNIAK,JEFFREY",
+                "TABRON,GLORIA",
+                "TAYLOR,MARY",
+                "TODD,HEATHER",
+                "VANN,CASHENA",
+                "WELBORN,CHRISTY",
+                "WELLS,JENNIFER",
+                "WILKINSON,KYLEE",
+                "WILSON,RICHARD",
+                "WYATT,TONNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "380",
+                  "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "260",
+                  "specialityDesc": "Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "420",
+                  "specialityDesc": "Gastroenterology"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "630",
+                  "specialityDesc": "Neurology"
+                },
+                {
+                  "specialityCd": "565",
+                  "specialityDesc": "Interventional Cardiology - Internal Medicine"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "985",
+                  "specialityDesc": "Pulmonary Disease"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1334812926",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ANDERSON,MARK",
+                "ARTHUR,GODFRIED",
+                "ATKINS,SAVANA",
+                "BALIGA,VASANTH",
+                "BASSETT-SHAFTOE,LINDA",
+                "BECKHAM,MICHELLE",
+                "BELLOFIORE PLONSKI,LISA",
+                "BENEDICT,XAVERIE",
+                "BOONE,STEPHANIE",
+                "BOYAPATI,SARITHA",
+                "BOYD,COURTNEY",
+                "BRANTLEY,DAVID",
+                "BROWDER,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CALVIO,ANA",
+                "CHAMBERLAIN,MATTHEW",
+                "CHESNUTT,MARTHA",
+                "DESAI,NILAY",
+                "DESAI,PRIYANK",
+                "DIAL,MICHAEL",
+                "GADE,SUCHITA",
+                "GIBSON,TERESA",
+                "HARDEE,ASHLEY",
+                "HAROON,NIVIN",
+                "HELM,JANICE",
+                "IDOL,PHEBE",
+                "JERE,CHARLES",
+                "JERE,GRACE",
+                "LASZEWSKI,MARZENA",
+                "MAH MOUD,MITCHELL",
+                "MARTIN,STEPHANIE",
+                "MCGEE,AMANDA",
+                "MERCER,KIMBERLY",
+                "MIDDLETON,KRISTEN",
+                "MILLER,MORGAN",
+                "MURRAY,TERRIE",
+                "MUSULIN,MATTHEW",
+                "PICO,AARON",
+                "POONURU,SUJANI",
+                "PRASADA,SUDHIR",
+                "RYDER,REBECCA",
+                "SAMPAT,SMITA",
+                "SAXENA,NAKSHATRA",
+                "SCHELLENBERG,ROBERT",
+                "SHADE,CHARNETTE",
+                "SHIVER,GERRIE",
+                "SKINNER,NADINE",
+                "SLATER,DOUGLAS",
+                "SMITH,CARISSA",
+                "SORSBY,STEPHEN",
+                "SUCHNIAK,JEFFREY",
+                "TABRON,GLORIA",
+                "TAYLOR,MARY",
+                "TODD,HEATHER",
+                "VANN,CASHENA",
+                "WELBORN,CHRISTY",
+                "WELLS,JENNIFER",
+                "WILKINSON,KYLEE",
+                "WILSON,RICHARD",
+                "WYATT,TONNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "380",
+                  "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+                },
+                {
+                  "specialityCd": "260",
+                  "specialityDesc": "Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "420",
+                  "specialityDesc": "Gastroenterology"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "630",
+                  "specialityDesc": "Neurology"
+                },
+                {
+                  "specialityCd": "565",
+                  "specialityDesc": "Interventional Cardiology - Internal Medicine"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "985",
+                  "specialityDesc": "Pulmonary Disease"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41899722",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ANDERSON,MARK",
+                "ARTHUR,GODFRIED",
+                "ATKINS,SAVANA",
+                "BALIGA,VASANTH",
+                "BASSETT-SHAFTOE,LINDA",
+                "BECKHAM,MICHELLE",
+                "BELLOFIORE PLONSKI,LISA",
+                "BENEDICT,XAVERIE",
+                "BOONE,STEPHANIE",
+                "BOYAPATI,SARITHA",
+                "BOYD,COURTNEY",
+                "BRANTLEY,DAVID",
+                "BROWDER,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CALVIO,ANA",
+                "CHAMBERLAIN,MATTHEW",
+                "CHESNUTT,MARTHA",
+                "DESAI,NILAY",
+                "DESAI,PRIYANK",
+                "DIAL,MICHAEL",
+                "GADE,SUCHITA",
+                "GIBSON,TERESA",
+                "HARDEE,ASHLEY",
+                "HAROON,NIVIN",
+                "HELM,JANICE",
+                "IDOL,PHEBE",
+                "JERE,CHARLES",
+                "JERE,GRACE",
+                "LASZEWSKI,MARZENA",
+                "MAH MOUD,MITCHELL",
+                "MARTIN,STEPHANIE",
+                "MCGEE,AMANDA",
+                "MERCER,KIMBERLY",
+                "MIDDLETON,KRISTEN",
+                "MILLER,MORGAN",
+                "MURRAY,TERRIE",
+                "MUSULIN,MATTHEW",
+                "PICO,AARON",
+                "POONURU,SUJANI",
+                "PRASADA,SUDHIR",
+                "RYDER,REBECCA",
+                "SAMPAT,SMITA",
+                "SAXENA,NAKSHATRA",
+                "SCHELLENBERG,ROBERT",
+                "SHADE,CHARNETTE",
+                "SHIVER,GERRIE",
+                "SKINNER,NADINE",
+                "SLATER,DOUGLAS",
+                "SMITH,CARISSA",
+                "SORSBY,STEPHEN",
+                "SUCHNIAK,JEFFREY",
+                "TABRON,GLORIA",
+                "TAYLOR,MARY",
+                "TODD,HEATHER",
+                "VANN,CASHENA",
+                "WELBORN,CHRISTY",
+                "WELLS,JENNIFER",
+                "WILKINSON,KYLEE",
+                "WILSON,RICHARD",
+                "WYATT,TONNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "380",
+                  "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+                },
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "260",
+                  "specialityDesc": "Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "420",
+                  "specialityDesc": "Gastroenterology"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "630",
+                  "specialityDesc": "Neurology"
+                },
+                {
+                  "specialityCd": "565",
+                  "specialityDesc": "Interventional Cardiology - Internal Medicine"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "985",
+                  "specialityDesc": "Pulmonary Disease"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41899725",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ANDERSON,MARK",
+                "ARTHUR,GODFRIED",
+                "ATKINS,SAVANA",
+                "BALIGA,VASANTH",
+                "BASSETT-SHAFTOE,LINDA",
+                "BECKHAM,MICHELLE",
+                "BELLOFIORE PLONSKI,LISA",
+                "BENEDICT,XAVERIE",
+                "BOONE,STEPHANIE",
+                "BOYAPATI,SARITHA",
+                "BOYD,COURTNEY",
+                "BRANTLEY,DAVID",
+                "BROWDER,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CALVIO,ANA",
+                "CHAMBERLAIN,MATTHEW",
+                "CHESNUTT,MARTHA",
+                "DESAI,NILAY",
+                "DESAI,PRIYANK",
+                "DIAL,MICHAEL",
+                "GADE,SUCHITA",
+                "GIBSON,TERESA",
+                "HARDEE,ASHLEY",
+                "HAROON,NIVIN",
+                "HELM,JANICE",
+                "IDOL,PHEBE",
+                "JERE,CHARLES",
+                "JERE,GRACE",
+                "LASZEWSKI,MARZENA",
+                "MAH MOUD,MITCHELL",
+                "MARTIN,STEPHANIE",
+                "MCGEE,AMANDA",
+                "MERCER,KIMBERLY",
+                "MIDDLETON,KRISTEN",
+                "MILLER,MORGAN",
+                "MURRAY,TERRIE",
+                "MUSULIN,MATTHEW",
+                "PICO,AARON",
+                "POONURU,SUJANI",
+                "PRASADA,SUDHIR",
+                "RYDER,REBECCA",
+                "SAMPAT,SMITA",
+                "SAXENA,NAKSHATRA",
+                "SCHELLENBERG,ROBERT",
+                "SHADE,CHARNETTE",
+                "SHIVER,GERRIE",
+                "SKINNER,NADINE",
+                "SLATER,DOUGLAS",
+                "SMITH,CARISSA",
+                "SORSBY,STEPHEN",
+                "SUCHNIAK,JEFFREY",
+                "TABRON,GLORIA",
+                "TAYLOR,MARY",
+                "TODD,HEATHER",
+                "VANN,CASHENA",
+                "WELBORN,CHRISTY",
+                "WELLS,JENNIFER",
+                "WILKINSON,KYLEE",
+                "WILSON,RICHARD",
+                "WYATT,TONNA"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1245",
+                  "specialityDesc": "Primary Care Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "380",
+                  "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+                },
+                {
+                  "specialityCd": "260",
+                  "specialityDesc": "Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "420",
+                  "specialityDesc": "Gastroenterology"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "630",
+                  "specialityDesc": "Neurology"
+                },
+                {
+                  "specialityCd": "565",
+                  "specialityDesc": "Interventional Cardiology - Internal Medicine"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "985",
+                  "specialityDesc": "Pulmonary Disease"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1699722389",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 0,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1700",
+            "MONDAY PM 0000-0000",
+            "TUESDAY AM 0800-1700",
+            "TUESDAY PM 0000-0000",
+            "WEDNESDAY AM 0800-1700",
+            "WEDNESDAY PM 0000-0000",
+            "THURSDAY AM 0800-1700",
+            "THURSDAY PM 0000-0000",
+            "FRIDAY AM 0800-1200",
+            "FRIDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "2524438822",
+          "dbaName": "BOICE WILLIS CLINIC",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "901 N WINSTEAD AVE",
+            "addressLine2": null,
+            "city": "ROCKY MOUNT",
+            "state": "NC",
+            "zipCode": "27804",
+            "countyCode": "064",
+            "countyName": "Nash",
+            "latitude": 35.97906,
+            "longitude": -77.842896,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "2529370200",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10389506"
+        },
+        {
+          "firstName": null,
+          "lastName": "BOICE WILLIS CLINIC PA",
+          "middleName": null,
+          "fullName": "BOICE WILLIS CLINIC PA",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": false,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [
+            "BOICE-WILLIS CLINIC SPRING HOPE"
+          ],
+          "providerLanguages": [
+            {
+              "languageDesc": "Spanish",
+              "languageTypeCd": "SP"
+            },
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "380",
+              "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+            },
+            {
+              "specialityCd": "260",
+              "specialityDesc": "Critical Care Medicine"
+            },
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "470",
+              "specialityDesc": "Hematology"
+            },
+            {
+              "specialityCd": "140",
+              "specialityDesc": "Cardiovascular Disease"
+            },
+            {
+              "specialityCd": "680",
+              "specialityDesc": "Nurse Practitioner"
+            },
+            {
+              "specialityCd": "560",
+              "specialityDesc": "Internal Medicine"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "595",
+              "specialityDesc": "Medical Oncology"
+            },
+            {
+              "specialityCd": "420",
+              "specialityDesc": "Gastroenterology"
+            },
+            {
+              "specialityCd": "200",
+              "specialityDesc": "Clinical Medical Laboratory"
+            },
+            {
+              "specialityCd": "475",
+              "specialityDesc": "Hematology & Oncology"
+            },
+            {
+              "specialityCd": "630",
+              "specialityDesc": "Neurology"
+            },
+            {
+              "specialityCd": "565",
+              "specialityDesc": "Interventional Cardiology - Internal Medicine"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "985",
+              "specialityDesc": "Pulmonary Disease"
+            },
+            {
+              "specialityCd": "325",
+              "specialityDesc": "Dermatology"
+            },
+            {
+              "specialityCd": "425",
+              "specialityDesc": "General Practice"
+            },
+            {
+              "specialityCd": "615",
+              "specialityDesc": "Nephrology"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "76093586",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ANDERSON,MARK",
+                "BASSETT-SHAFTOE,LINDA",
+                "BECKHAM,MICHELLE",
+                "BENEDICT,XAVERIE",
+                "BULLUCK,CHRISTINA",
+                "COOK,NATALIE",
+                "DESAI,NILAY",
+                "DESAI,PRIYANK",
+                "GUARINO,ROSARIO",
+                "JERE,CHARLES",
+                "JERE,GRACE",
+                "LASZEWSKI,MARZENA",
+                "MAH MOUD,MITCHELL",
+                "MARZOUQ,RANA",
+                "MERCER,KIMBERLY",
+                "MUSULIN,MATTHEW",
+                "PRASADA,SUDHIR",
+                "SCHELLENBERG,ROBERT",
+                "SHIVER,GERRIE",
+                "SLATER,DOUGLAS",
+                "SUCHNIAK,JEFFREY",
+                "TAYLOR,MARY",
+                "TODD,HEATHER",
+                "TOWNSEND,LEE ANN",
+                "WEIL,ANDREW",
+                "WOODLEY,LEE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "380",
+                  "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+                },
+                {
+                  "specialityCd": "260",
+                  "specialityDesc": "Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "595",
+                  "specialityDesc": "Medical Oncology"
+                },
+                {
+                  "specialityCd": "420",
+                  "specialityDesc": "Gastroenterology"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "475",
+                  "specialityDesc": "Hematology & Oncology"
+                },
+                {
+                  "specialityCd": "630",
+                  "specialityDesc": "Neurology"
+                },
+                {
+                  "specialityCd": "565",
+                  "specialityDesc": "Interventional Cardiology - Internal Medicine"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "985",
+                  "specialityDesc": "Pulmonary Disease"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41897946",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ANDERSON,MARK",
+                "BASSETT-SHAFTOE,LINDA",
+                "BECKHAM,MICHELLE",
+                "BENEDICT,XAVERIE",
+                "BULLUCK,CHRISTINA",
+                "COOK,NATALIE",
+                "DESAI,NILAY",
+                "DESAI,PRIYANK",
+                "GUARINO,ROSARIO",
+                "JERE,CHARLES",
+                "JERE,GRACE",
+                "LASZEWSKI,MARZENA",
+                "MAH MOUD,MITCHELL",
+                "MARZOUQ,RANA",
+                "MERCER,KIMBERLY",
+                "MUSULIN,MATTHEW",
+                "PRASADA,SUDHIR",
+                "SCHELLENBERG,ROBERT",
+                "SHIVER,GERRIE",
+                "SLATER,DOUGLAS",
+                "SUCHNIAK,JEFFREY",
+                "TAYLOR,MARY",
+                "TODD,HEATHER",
+                "TOWNSEND,LEE ANN",
+                "WEIL,ANDREW",
+                "WOODLEY,LEE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "380",
+                  "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "260",
+                  "specialityDesc": "Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "595",
+                  "specialityDesc": "Medical Oncology"
+                },
+                {
+                  "specialityCd": "420",
+                  "specialityDesc": "Gastroenterology"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "475",
+                  "specialityDesc": "Hematology & Oncology"
+                },
+                {
+                  "specialityCd": "630",
+                  "specialityDesc": "Neurology"
+                },
+                {
+                  "specialityCd": "565",
+                  "specialityDesc": "Interventional Cardiology - Internal Medicine"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "985",
+                  "specialityDesc": "Pulmonary Disease"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41897945",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ANDERSON,MARK",
+                "BASSETT-SHAFTOE,LINDA",
+                "BECKHAM,MICHELLE",
+                "BENEDICT,XAVERIE",
+                "BULLUCK,CHRISTINA",
+                "COOK,NATALIE",
+                "DESAI,NILAY",
+                "DESAI,PRIYANK",
+                "GUARINO,ROSARIO",
+                "JERE,CHARLES",
+                "JERE,GRACE",
+                "LASZEWSKI,MARZENA",
+                "MAH MOUD,MITCHELL",
+                "MARZOUQ,RANA",
+                "MERCER,KIMBERLY",
+                "MUSULIN,MATTHEW",
+                "PRASADA,SUDHIR",
+                "SCHELLENBERG,ROBERT",
+                "SHIVER,GERRIE",
+                "SLATER,DOUGLAS",
+                "SUCHNIAK,JEFFREY",
+                "TAYLOR,MARY",
+                "TODD,HEATHER",
+                "TOWNSEND,LEE ANN",
+                "WEIL,ANDREW",
+                "WOODLEY,LEE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "380",
+                  "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+                },
+                {
+                  "specialityCd": "260",
+                  "specialityDesc": "Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "595",
+                  "specialityDesc": "Medical Oncology"
+                },
+                {
+                  "specialityCd": "475",
+                  "specialityDesc": "Hematology & Oncology"
+                },
+                {
+                  "specialityCd": "420",
+                  "specialityDesc": "Gastroenterology"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "630",
+                  "specialityDesc": "Neurology"
+                },
+                {
+                  "specialityCd": "565",
+                  "specialityDesc": "Interventional Cardiology - Internal Medicine"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "985",
+                  "specialityDesc": "Pulmonary Disease"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1334812450",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ANDERSON,MARK",
+                "BASSETT-SHAFTOE,LINDA",
+                "BECKHAM,MICHELLE",
+                "BENEDICT,XAVERIE",
+                "BULLUCK,CHRISTINA",
+                "COOK,NATALIE",
+                "DESAI,NILAY",
+                "DESAI,PRIYANK",
+                "GUARINO,ROSARIO",
+                "JERE,CHARLES",
+                "JERE,GRACE",
+                "LASZEWSKI,MARZENA",
+                "MAH MOUD,MITCHELL",
+                "MARZOUQ,RANA",
+                "MERCER,KIMBERLY",
+                "MUSULIN,MATTHEW",
+                "PRASADA,SUDHIR",
+                "SCHELLENBERG,ROBERT",
+                "SHIVER,GERRIE",
+                "SLATER,DOUGLAS",
+                "SUCHNIAK,JEFFREY",
+                "TAYLOR,MARY",
+                "TODD,HEATHER",
+                "TOWNSEND,LEE ANN",
+                "WEIL,ANDREW",
+                "WOODLEY,LEE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "380",
+                  "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "260",
+                  "specialityDesc": "Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "595",
+                  "specialityDesc": "Medical Oncology"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "420",
+                  "specialityDesc": "Gastroenterology"
+                },
+                {
+                  "specialityCd": "475",
+                  "specialityDesc": "Hematology & Oncology"
+                },
+                {
+                  "specialityCd": "630",
+                  "specialityDesc": "Neurology"
+                },
+                {
+                  "specialityCd": "565",
+                  "specialityDesc": "Interventional Cardiology - Internal Medicine"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "985",
+                  "specialityDesc": "Pulmonary Disease"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41897947",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ANDERSON,MARK",
+                "BASSETT-SHAFTOE,LINDA",
+                "BECKHAM,MICHELLE",
+                "BENEDICT,XAVERIE",
+                "BULLUCK,CHRISTINA",
+                "COOK,NATALIE",
+                "DESAI,NILAY",
+                "DESAI,PRIYANK",
+                "GUARINO,ROSARIO",
+                "JERE,CHARLES",
+                "JERE,GRACE",
+                "LASZEWSKI,MARZENA",
+                "MAH MOUD,MITCHELL",
+                "MARZOUQ,RANA",
+                "MERCER,KIMBERLY",
+                "MUSULIN,MATTHEW",
+                "PRASADA,SUDHIR",
+                "SCHELLENBERG,ROBERT",
+                "SHIVER,GERRIE",
+                "SLATER,DOUGLAS",
+                "SUCHNIAK,JEFFREY",
+                "TAYLOR,MARY",
+                "TODD,HEATHER",
+                "TOWNSEND,LEE ANN",
+                "WEIL,ANDREW",
+                "WOODLEY,LEE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "380",
+                  "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+                },
+                {
+                  "specialityCd": "260",
+                  "specialityDesc": "Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "595",
+                  "specialityDesc": "Medical Oncology"
+                },
+                {
+                  "specialityCd": "475",
+                  "specialityDesc": "Hematology & Oncology"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "420",
+                  "specialityDesc": "Gastroenterology"
+                },
+                {
+                  "specialityCd": "630",
+                  "specialityDesc": "Neurology"
+                },
+                {
+                  "specialityCd": "565",
+                  "specialityDesc": "Interventional Cardiology - Internal Medicine"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "985",
+                  "specialityDesc": "Pulmonary Disease"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41897948",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ANDERSON,MARK",
+                "BASSETT-SHAFTOE,LINDA",
+                "BECKHAM,MICHELLE",
+                "BENEDICT,XAVERIE",
+                "BULLUCK,CHRISTINA",
+                "COOK,NATALIE",
+                "DESAI,NILAY",
+                "DESAI,PRIYANK",
+                "GUARINO,ROSARIO",
+                "JERE,CHARLES",
+                "JERE,GRACE",
+                "LASZEWSKI,MARZENA",
+                "MAH MOUD,MITCHELL",
+                "MARZOUQ,RANA",
+                "MERCER,KIMBERLY",
+                "MUSULIN,MATTHEW",
+                "PRASADA,SUDHIR",
+                "SCHELLENBERG,ROBERT",
+                "SHIVER,GERRIE",
+                "SLATER,DOUGLAS",
+                "SUCHNIAK,JEFFREY",
+                "TAYLOR,MARY",
+                "TODD,HEATHER",
+                "TOWNSEND,LEE ANN",
+                "WEIL,ANDREW",
+                "WOODLEY,LEE"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "380",
+                  "specialityDesc": "Endocrinology; Diabetes & Metabolism"
+                },
+                {
+                  "specialityCd": "260",
+                  "specialityDesc": "Critical Care Medicine"
+                },
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "470",
+                  "specialityDesc": "Hematology"
+                },
+                {
+                  "specialityCd": "140",
+                  "specialityDesc": "Cardiovascular Disease"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "595",
+                  "specialityDesc": "Medical Oncology"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "420",
+                  "specialityDesc": "Gastroenterology"
+                },
+                {
+                  "specialityCd": "475",
+                  "specialityDesc": "Hematology & Oncology"
+                },
+                {
+                  "specialityCd": "630",
+                  "specialityDesc": "Neurology"
+                },
+                {
+                  "specialityCd": "565",
+                  "specialityDesc": "Interventional Cardiology - Internal Medicine"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "985",
+                  "specialityDesc": "Pulmonary Disease"
+                },
+                {
+                  "specialityCd": "325",
+                  "specialityDesc": "Dermatology"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "615",
+                  "specialityDesc": "Nephrology"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1699722389",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 0,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1730",
+            "MONDAY PM 0000-0000",
+            "TUESDAY AM 0800-1730",
+            "TUESDAY PM 0000-0000",
+            "WEDNESDAY AM 0800-1730",
+            "WEDNESDAY PM 0000-0000",
+            "THURSDAY AM 0800-1730",
+            "THURSDAY PM 0000-0000",
+            "FRIDAY AM 0800-1230",
+            "FRIDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "2524438822",
+          "dbaName": "BOICE WILLIS CLINIC",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "100 DODD ST",
+            "addressLine2": null,
+            "city": "SPRING HOPE",
+            "state": "NC",
+            "zipCode": "27882",
+            "countyCode": "064",
+            "countyName": "Nash",
+            "latitude": 35.95092,
+            "longitude": -78.106865,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "2524785412",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10396296"
+        },
+        {
+          "firstName": null,
+          "lastName": "BOICE WILLIS CLINIC PA",
+          "middleName": null,
+          "fullName": "BOICE WILLIS CLINIC PA",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": false,
+          "acceptChildren": false,
+          "handicappedAccessible": false,
+          "groupName": [
+            "BOICE WILLIS CLINIC PA"
+          ],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "680",
+              "specialityDesc": "Nurse Practitioner"
+            },
+            {
+              "specialityCd": "1110",
+              "specialityDesc": "Adult Health Nurse Practitioner"
+            },
+            {
+              "specialityCd": "560",
+              "specialityDesc": "Internal Medicine"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "200",
+              "specialityDesc": "Clinical Medical Laboratory"
+            },
+            {
+              "specialityCd": "1150",
+              "specialityDesc": "Gerontology Nurse Practitioner"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "865",
+              "specialityDesc": "Pediatrics"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "76091157",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AWE,MOFOLUWAKE",
+                "BALIGA,VASANTH",
+                "BELLOFIORE PLONSKI,LISA",
+                "BRANTLEY,DAVID",
+                "BROWDER,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CHAMBERLAIN,MATTHEW",
+                "CHESNUTT,MARTHA",
+                "CHISENHALL,AUTUMN",
+                "GADE,SUCHITA",
+                "GIBSON,TERESA",
+                "MARZOUQ,RANA",
+                "MERCER,KIMBERLY",
+                "OHARA,ANNE",
+                "PICO,AARON",
+                "SHADE,CHARNETTE",
+                "TABRON,GLORIA",
+                "WILSON,RICHARD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41896572",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AWE,MOFOLUWAKE",
+                "BALIGA,VASANTH",
+                "BELLOFIORE PLONSKI,LISA",
+                "BRANTLEY,DAVID",
+                "BROWDER,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CHAMBERLAIN,MATTHEW",
+                "CHESNUTT,MARTHA",
+                "CHISENHALL,AUTUMN",
+                "GADE,SUCHITA",
+                "GIBSON,TERESA",
+                "MARZOUQ,RANA",
+                "MERCER,KIMBERLY",
+                "OHARA,ANNE",
+                "PICO,AARON",
+                "SHADE,CHARNETTE",
+                "TABRON,GLORIA",
+                "WILSON,RICHARD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41896569",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AWE,MOFOLUWAKE",
+                "BALIGA,VASANTH",
+                "BELLOFIORE PLONSKI,LISA",
+                "BRANTLEY,DAVID",
+                "BROWDER,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CHAMBERLAIN,MATTHEW",
+                "CHESNUTT,MARTHA",
+                "CHISENHALL,AUTUMN",
+                "GADE,SUCHITA",
+                "GIBSON,TERESA",
+                "MARZOUQ,RANA",
+                "MERCER,KIMBERLY",
+                "OHARA,ANNE",
+                "PICO,AARON",
+                "SHADE,CHARNETTE",
+                "TABRON,GLORIA",
+                "WILSON,RICHARD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1334812625",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AWE,MOFOLUWAKE",
+                "BALIGA,VASANTH",
+                "BELLOFIORE PLONSKI,LISA",
+                "BRANTLEY,DAVID",
+                "BROWDER,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CHAMBERLAIN,MATTHEW",
+                "CHESNUTT,MARTHA",
+                "CHISENHALL,AUTUMN",
+                "GADE,SUCHITA",
+                "GIBSON,TERESA",
+                "MARZOUQ,RANA",
+                "MERCER,KIMBERLY",
+                "OHARA,ANNE",
+                "PICO,AARON",
+                "SHADE,CHARNETTE",
+                "TABRON,GLORIA",
+                "WILSON,RICHARD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41896573",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AWE,MOFOLUWAKE",
+                "BALIGA,VASANTH",
+                "BELLOFIORE PLONSKI,LISA",
+                "BRANTLEY,DAVID",
+                "BROWDER,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CHAMBERLAIN,MATTHEW",
+                "CHESNUTT,MARTHA",
+                "CHISENHALL,AUTUMN",
+                "GADE,SUCHITA",
+                "GIBSON,TERESA",
+                "MARZOUQ,RANA",
+                "MERCER,KIMBERLY",
+                "OHARA,ANNE",
+                "PICO,AARON",
+                "SHADE,CHARNETTE",
+                "TABRON,GLORIA",
+                "WILSON,RICHARD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41896574",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "AWE,MOFOLUWAKE",
+                "BALIGA,VASANTH",
+                "BELLOFIORE PLONSKI,LISA",
+                "BRANTLEY,DAVID",
+                "BROWDER,DAVID",
+                "BULLUCK,CHRISTINA",
+                "CHAMBERLAIN,MATTHEW",
+                "CHESNUTT,MARTHA",
+                "CHISENHALL,AUTUMN",
+                "GADE,SUCHITA",
+                "GIBSON,TERESA",
+                "MARZOUQ,RANA",
+                "MERCER,KIMBERLY",
+                "OHARA,ANNE",
+                "PICO,AARON",
+                "SHADE,CHARNETTE",
+                "TABRON,GLORIA",
+                "WILSON,RICHARD"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "1110",
+                  "specialityDesc": "Adult Health Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "560",
+                  "specialityDesc": "Internal Medicine"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "1150",
+                  "specialityDesc": "Gerontology Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "865",
+                  "specialityDesc": "Pediatrics"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"N\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"N\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1699722389",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 0,
+          "providersOfficeHours": [
+            "MONDAY AM 0800-1700",
+            "MONDAY PM 0000-0000",
+            "TUESDAY AM 0800-1700",
+            "TUESDAY PM 0000-0000",
+            "WEDNESDAY AM 0800-1700",
+            "WEDNESDAY PM 0000-0000",
+            "THURSDAY AM 0800-1700",
+            "THURSDAY PM 0000-0000",
+            "FRIDAY AM 0800-1700",
+            "FRIDAY PM 0000-0000",
+            "SATURDAY AM 0800-1200",
+            "SATURDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "2529628822",
+          "dbaName": "BOICE WILLIS CLINIC",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "91 ENTERPRISE DR",
+            "addressLine2": null,
+            "city": "ROCKY MOUNT",
+            "state": "NC",
+            "zipCode": "27804",
+            "countyCode": "064",
+            "countyName": "Nash",
+            "latitude": 35.976624,
+            "longitude": -77.8424,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "2524513200",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10337534"
+        },
+        {
+          "firstName": null,
+          "lastName": "BOICE WILLIS CLINIC PA",
+          "middleName": null,
+          "fullName": "BOICE WILLIS CLINIC PA",
+          "emailAddress": null,
+          "pcpFlag": "Y",
+          "gender": "null",
+          "doctorCode": null,
+          "acceptNewPatients": false,
+          "acceptChildren": false,
+          "handicappedAccessible": true,
+          "groupName": [
+            "BOICE-WILLIS CLINIC NASHVILLE"
+          ],
+          "providerLanguages": [
+            {
+              "languageDesc": "English",
+              "languageTypeCd": "EN"
+            }
+          ],
+          "providerSpeciality": [
+            {
+              "specialityCd": "1145",
+              "specialityDesc": "Family Nurse Practitioner"
+            },
+            {
+              "specialityCd": "680",
+              "specialityDesc": "Nurse Practitioner"
+            },
+            {
+              "specialityCd": "890",
+              "specialityDesc": "Physician Assistant"
+            },
+            {
+              "specialityCd": "200",
+              "specialityDesc": "Clinical Medical Laboratory"
+            },
+            {
+              "specialityCd": "610",
+              "specialityDesc": "Multi-Specialty"
+            },
+            {
+              "specialityCd": "05",
+              "specialityDesc": "Addiction (Substance Use Disorder)"
+            },
+            {
+              "specialityCd": "225",
+              "specialityDesc": "Clinical"
+            },
+            {
+              "specialityCd": "425",
+              "specialityDesc": "General Practice"
+            },
+            {
+              "specialityCd": "390",
+              "specialityDesc": "Family Medicine"
+            }
+          ],
+          "providerType": [
+            {
+              "providerTypeCd": "2"
+            }
+          ],
+          "providerAddressDetails": null,
+          "planDetails": [
+            {
+              "planCode": "142",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "106031410",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ARTHUR,GODFRIED",
+                "ATKINS,SAVANA",
+                "BELLO,BRODERICK",
+                "BONDY,PAUL",
+                "BULLUCK,CHRISTINA",
+                "HELM,JANICE",
+                "MERCER,KIMBERLY",
+                "MURRAY,TERRIE",
+                "SMITH,CARISSA",
+                "WELLS,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "141",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41897221",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ARTHUR,GODFRIED",
+                "ATKINS,SAVANA",
+                "BELLO,BRODERICK",
+                "BONDY,PAUL",
+                "BULLUCK,CHRISTINA",
+                "HELM,JANICE",
+                "MERCER,KIMBERLY",
+                "MURRAY,TERRIE",
+                "SMITH,CARISSA",
+                "WELLS,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "601",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41897219",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ARTHUR,GODFRIED",
+                "ATKINS,SAVANA",
+                "BELLO,BRODERICK",
+                "BONDY,PAUL",
+                "BULLUCK,CHRISTINA",
+                "HELM,JANICE",
+                "MERCER,KIMBERLY",
+                "MURRAY,TERRIE",
+                "SMITH,CARISSA",
+                "WELLS,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "505",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "1334812396",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ARTHUR,GODFRIED",
+                "ATKINS,SAVANA",
+                "BELLO,BRODERICK",
+                "BONDY,PAUL",
+                "BULLUCK,CHRISTINA",
+                "HELM,JANICE",
+                "MERCER,KIMBERLY",
+                "MURRAY,TERRIE",
+                "SMITH,CARISSA",
+                "WELLS,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "202",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41897222",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ARTHUR,GODFRIED",
+                "ATKINS,SAVANA",
+                "BELLO,BRODERICK",
+                "BONDY,PAUL",
+                "BULLUCK,CHRISTINA",
+                "HELM,JANICE",
+                "MERCER,KIMBERLY",
+                "MURRAY,TERRIE",
+                "SMITH,CARISSA",
+                "WELLS,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            },
+            {
+              "planCode": "1002",
+              "planName": "",
+              "programTypeCd": null,
+              "networkId": "41897223",
+              "ageLowLimit": "null",
+              "ageHighLimit": "null",
+              "acceptedGenders": null,
+              "hospitalName": [
+                "ARTHUR,GODFRIED",
+                "ATKINS,SAVANA",
+                "BELLO,BRODERICK",
+                "BONDY,PAUL",
+                "BULLUCK,CHRISTINA",
+                "HELM,JANICE",
+                "MERCER,KIMBERLY",
+                "MURRAY,TERRIE",
+                "SMITH,CARISSA",
+                "WELLS,JENNIFER"
+              ],
+              "acceptNewBornInd": null,
+              "acceptNewPatientsInd": "N",
+              "specialty": [
+                {
+                  "specialityCd": "1145",
+                  "specialityDesc": "Family Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "680",
+                  "specialityDesc": "Nurse Practitioner"
+                },
+                {
+                  "specialityCd": "890",
+                  "specialityDesc": "Physician Assistant"
+                },
+                {
+                  "specialityCd": "200",
+                  "specialityDesc": "Clinical Medical Laboratory"
+                },
+                {
+                  "specialityCd": "05",
+                  "specialityDesc": "Addiction (Substance Use Disorder)"
+                },
+                {
+                  "specialityCd": "225",
+                  "specialityDesc": "Clinical"
+                },
+                {
+                  "specialityCd": "610",
+                  "specialityDesc": "Multi-Specialty"
+                },
+                {
+                  "specialityCd": "425",
+                  "specialityDesc": "General Practice"
+                },
+                {
+                  "specialityCd": "390",
+                  "specialityDesc": "Family Medicine"
+                }
+              ],
+              "officeHours": [],
+              "pcpFlag": "Y",
+              "county": null,
+              "acceptsObstetricsInd": null,
+              "planPartners": null,
+              "networkGenericField5Text": null
+            }
+          ],
+          "providerSubprogramType": null,
+          "epsdt": null,
+          "ageOfPatientsAccepted": null,
+          "relatedPCP": null,
+          "languages": null,
+          "accommodations": null,
+          "associatedOrganization": null,
+          "acceptedPatientGender": null,
+          "acceptedPatientAge": null,
+          "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+          "npi": "1699722389",
+          "ihcp": null,
+          "benefitProgram": "01",
+          "acceptedSiblings": 0,
+          "providersOfficeHours": [
+            "MONDAY AM 0830-1700",
+            "MONDAY PM 0000-0000",
+            "TUESDAY AM 0830-1700",
+            "TUESDAY PM 0000-0000",
+            "WEDNESDAY AM 0830-1700",
+            "WEDNESDAY PM 0000-0000",
+            "THURSDAY AM 0830-1700",
+            "THURSDAY PM 0000-0000",
+            "FRIDAY AM 0830-1230",
+            "FRIDAY PM 0000-0000"
+          ],
+          "afterHoursPhone": "2529628822",
+          "dbaName": "BOICE WILLIS CLINIC",
+          "maleAgeRange": "06",
+          "femaleAgeRange": "06",
+          "address": {
+            "addressLine1": "102 S EASTPOINTE AVE",
+            "addressLine2": null,
+            "city": "NASHVILLE",
+            "state": "NC",
+            "zipCode": "27856",
+            "countyCode": "064",
+            "countyName": "Nash",
+            "latitude": 35.968727,
+            "longitude": -77.9367,
+            "distance": null,
+            "addressType": "physical",
+            "phoneNumber": "2524594012",
+            "phoneType": null,
+            "distanceFormat": null
+          },
+          "providerId": "10547557"
+        }
+      ],
+      "pageable": null,
+      "last": null,
+      "totalPages": null,
+      "totalElements": null,
+      "sort": null,
+      "first": null,
+      "numberOfElements": 5,
+      "size": 5,
+      "number": 0,
+      "totalRecords": 5,
+      "empty": false
+    }
+  },
+  "statusCode": 200
+}
